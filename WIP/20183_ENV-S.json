@@ -1,0 +1,280 @@
+{
+  "20183": {
+    "ENV S": {
+      "courses": [
+        {
+          "capacity": 75,
+          "course_id": "ENV S 1",
+          "course_title": "INTRO ENVIR STUDIES",
+          "days": "MT R",
+          "enrollment": 75,
+          "instructor": "MARTIN J A",
+          "location": "HSSB 1173",
+          "sections": [
+            {
+              "capacity": 75,
+              "course_id": "ENV S 1",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "05975/A",
+              "enrollment": 75,
+              "instructor": "",
+              "location": "HSSB 1173",
+              "status": "Full",
+              "times": "12:30pm - 1:55pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:55pm"
+        },
+        {
+          "capacity": 60,
+          "course_id": "ENV S 2",
+          "course_title": "INTRO ENV SCIENCE",
+          "days": "MTW",
+          "enrollment": 63,
+          "instructor": "MORET S L",
+          "location": "HSSB 1173",
+          "sections": [
+            {
+              "capacity": 60,
+              "course_id": "ENV S 2",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "05991/B",
+              "enrollment": 63,
+              "instructor": "",
+              "location": "HSSB 1173",
+              "status": "Full",
+              "times": "3:30pm - 4:55pm"
+            }
+          ],
+          "status": "Full",
+          "times": "3:30pm - 4:55pm"
+        },
+        {
+          "capacity": 60,
+          "course_id": "ENV S 3",
+          "course_title": "INTRO SOC&CULT ENV",
+          "days": "MTW",
+          "enrollment": 66,
+          "instructor": "GRAVES G R",
+          "location": "WEBB 1100",
+          "sections": [
+            {
+              "capacity": 60,
+              "course_id": "ENV S 3",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "06015/B",
+              "enrollment": 66,
+              "instructor": "",
+              "location": "WEBB 1100",
+              "status": "Full",
+              "times": "12:30pm - 1:55pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:55pm"
+        },
+        {
+          "capacity": 0,
+          "course_id": "ENV S 99",
+          "course_title": "INTRO TO RESEARCH",
+          "days": "",
+          "enroll_code": "15446",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 70,
+          "course_id": "ENV S 100",
+          "course_title": "ENVIRONMENTAL ECOL",
+          "days": "MTWR",
+          "enroll_code": "06023/B",
+          "enrollment": 70,
+          "instructor": "TYLER C M",
+          "location": "PHELP1160",
+          "sections": [],
+          "status": "Full",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 75,
+          "course_id": "ENV S 115",
+          "course_title": "ENERGY AND THE ENVT",
+          "days": "MTWR",
+          "enroll_code": "06049/A",
+          "enrollment": 72,
+          "instructor": "GEE Q P",
+          "location": "HSSB 1173",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:10pm"
+        },
+        {
+          "capacity": 19,
+          "course_id": "ENV S 122CC",
+          "course_title": "RHET CLIMATE CHANGE",
+          "days": "MTWR",
+          "enroll_code": "06056/A",
+          "enrollment": 18,
+          "instructor": "HILTNER K C",
+          "location": "GIRV 2129",
+          "sections": [],
+          "status": "",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 40,
+          "course_id": "ENV S 130A",
+          "course_title": "HUMAN NATURAL SYS",
+          "days": "MTWR",
+          "enroll_code": "06064/A",
+          "enrollment": 32,
+          "instructor": "MALDONADO J K",
+          "location": "387 1011",
+          "sections": [],
+          "status": "",
+          "times": "9:30 am - 10:40am"
+        },
+        {
+          "capacity": 60,
+          "course_id": "ENV S 132",
+          "course_title": "GLOBAL ENVIRONMENT",
+          "days": "MTWR",
+          "enroll_code": "15420/B",
+          "enrollment": 53,
+          "instructor": "KUNDU M",
+          "location": "NH 1105",
+          "sections": [],
+          "status": "",
+          "times": "2:00pm - 3:10pm"
+        },
+        {
+          "capacity": 40,
+          "course_id": "ENV S 160",
+          "course_title": "AMERICAN ENV. LIT",
+          "days": "M W",
+          "enroll_code": "06072/A",
+          "enrollment": 28,
+          "instructor": "KRYDER E A",
+          "location": "GIRV 1116",
+          "sections": [],
+          "status": "",
+          "times": "5:30pm - 7:35pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "ENV S 183",
+          "course_title": "FILM NAT HUMAN ENV",
+          "days": "T R",
+          "enroll_code": "06098/B",
+          "enrollment": 31,
+          "instructor": "MARTIN J A",
+          "location": "SH 1430",
+          "sections": [],
+          "status": "",
+          "times": "6:30pm - 8:40pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "ENV S 188",
+          "course_title": "ENVIRON ETHICS",
+          "days": "MTWR",
+          "enroll_code": "06106/A",
+          "enrollment": 49,
+          "instructor": "PYE L",
+          "location": "SH 1430",
+          "sections": [],
+          "status": "",
+          "times": "8:00 am - 9:10 am"
+        },
+        {
+          "capacity": 20,
+          "course_id": "ENV S 193BH",
+          "course_title": "MARINE CONSERVATION",
+          "days": "T R",
+          "enroll_code": "06122/D",
+          "enrollment": 17,
+          "instructor": "T B A",
+          "location": "SSMS 2303",
+          "sections": [],
+          "status": "Closed",
+          "times": "1:00pm - 2:20pm"
+        },
+        {
+          "capacity": 20,
+          "course_id": "ENV S 193BH",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 17,
+          "instructor": "",
+          "location": "OFF CAMPS",
+          "sections": [],
+          "status": "Closed",
+          "times": "12:30pm - 3:00pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "ENV S 193GB",
+          "course_title": "GREEN BUILDING",
+          "days": "T R",
+          "enroll_code": "06130/A",
+          "enrollment": 34,
+          "instructor": "T B A",
+          "location": "PHELP1440",
+          "sections": [],
+          "status": "",
+          "times": "6:00pm - 8:05pm"
+        },
+        {
+          "capacity": 30,
+          "course_id": "ENV S 193PL",
+          "course_title": "PUBLIC LANDS",
+          "days": "MTWR",
+          "enroll_code": "15438/B",
+          "enrollment": 17,
+          "instructor": "WILLIAMS D L",
+          "location": "PHELP2536",
+          "sections": [],
+          "status": "",
+          "times": "9:30 am - 10:40am"
+        },
+        {
+          "capacity": 5,
+          "course_id": "ENV S 196",
+          "course_title": "INTRO TEACHING ES",
+          "days": "",
+          "enroll_code": "06148",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "ENV S 199RA",
+          "course_title": "INDEPENDEN RESEARCH",
+          "days": "",
+          "enroll_code": "06163",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Environmental Studies - ENV S"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:18:57.720199"
+}

@@ -1,0 +1,407 @@
+{
+  "20183": {
+    "MUS": {
+      "courses": [
+        {
+          "capacity": 32,
+          "course_id": "MUS 11",
+          "course_title": "FUNDAMENTALS OF MUS",
+          "days": "MTWR",
+          "enrollment": 32,
+          "instructor": "T B A",
+          "location": "MUSIC1145",
+          "sections": [
+            {
+              "capacity": 16,
+              "course_id": "MUS 11",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11114/A",
+              "enrollment": 16,
+              "instructor": "THOMPSON B L",
+              "location": "MUSIC1213",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 16,
+              "course_id": "MUS 11",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11122/A",
+              "enrollment": 16,
+              "instructor": "THOMPSON B L",
+              "location": "MUSIC1213",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 44,
+          "course_id": "MUS 11",
+          "course_title": "FUNDAMENTALS OF MUS",
+          "days": "MTWR",
+          "enrollment": 53,
+          "instructor": "HAMBLETON E J",
+          "location": "MUSIC1145",
+          "sections": [
+            {
+              "capacity": 11,
+              "course_id": "MUS 11",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11148/B",
+              "enrollment": 13,
+              "instructor": "YOON H",
+              "location": "MUSIC1232",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 11,
+              "course_id": "MUS 11",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11155/B",
+              "enrollment": 14,
+              "instructor": "YOON H",
+              "location": "MUSIC1232",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 11,
+              "course_id": "MUS 11",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16543/B",
+              "enrollment": 13,
+              "instructor": "VANCHELLA E C",
+              "location": "MUSIC1232",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 11,
+              "course_id": "MUS 11",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16550/B",
+              "enrollment": 13,
+              "instructor": "VANCHELLA E C",
+              "location": "MUSIC1232",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 80,
+          "course_id": "MUS 15",
+          "course_title": "MUSIC APPRECIATION",
+          "days": "MTWR",
+          "enrollment": 79,
+          "instructor": "ROY M J",
+          "location": "MUSIC1145",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "MUS 15",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11171/A",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "MUSIC1207",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "MUS 15",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11189/A",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "MUSIC1207",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "MUS 15",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11197/A",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "MUSIC1207",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "MUS 15",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "19232/A",
+              "enrollment": 19,
+              "instructor": "",
+              "location": "MUSIC1207",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 60,
+          "course_id": "MUS 15",
+          "course_title": "MUSIC APPRECIATION",
+          "days": "MTWR",
+          "enrollment": 61,
+          "instructor": "MASTROMONACO",
+          "location": "MUSIC1145",
+          "sections": [
+            {
+              "capacity": 15,
+              "course_id": "MUS 15",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11213/B",
+              "enrollment": 13,
+              "instructor": "MICHAELS T W",
+              "location": "MUSIC1207",
+              "status": "",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 15,
+              "course_id": "MUS 15",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11221/B",
+              "enrollment": 17,
+              "instructor": "MICHAELS T W",
+              "location": "MUSIC1207",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 15,
+              "course_id": "MUS 15",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11239/B",
+              "enrollment": 17,
+              "instructor": "LATANYSHYN S",
+              "location": "MUSIC1207",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 15,
+              "course_id": "MUS 15",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "19240/B",
+              "enrollment": 14,
+              "instructor": "LATANYSHYN S",
+              "location": "MUSIC1207",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 30,
+          "course_id": "MUS 17",
+          "course_title": "WORLD MUSIC",
+          "days": "MTWR",
+          "enrollment": 30,
+          "instructor": "JACK M Z",
+          "location": "MUSIC1145",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "MUS 17",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11262/B",
+              "enrollment": 19,
+              "instructor": "MORICS K D",
+              "location": "MUSIC1145",
+              "status": "",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "MUS 17",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11270/B",
+              "enrollment": 11,
+              "instructor": "MORICS K D",
+              "location": "MUSIC1145",
+              "status": "",
+              "times": "9:30 am - 10:50am"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:05pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "MUS 114",
+          "course_title": "MUSIC & POP CULTURE",
+          "days": "MTWR",
+          "enrollment": 50,
+          "instructor": "CONTE E A",
+          "location": "MUSIC1145",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "MUS 114",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11320/A",
+              "enrollment": 25,
+              "instructor": "MUNK E N",
+              "location": "MUSIC1145",
+              "status": "Full",
+              "times": "1:00pm - 2:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MUS 114",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11338/A",
+              "enrollment": 25,
+              "instructor": "MUNK E N",
+              "location": "MUSIC1145",
+              "status": "Full",
+              "times": "2:30pm - 3:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 3:05pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "MUS 114",
+          "course_title": "MUSIC & POP CULTURE",
+          "days": "MTWR",
+          "enrollment": 50,
+          "instructor": "RAGHEB N J",
+          "location": "MUSIC1145",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "MUS 114",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11353/B",
+              "enrollment": 25,
+              "instructor": "FISCHER J P",
+              "location": "MUSIC1145",
+              "status": "Full",
+              "times": "1:00pm - 2:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MUS 114",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "11361/B",
+              "enrollment": 25,
+              "instructor": "FISCHER J P",
+              "location": "MUSIC1145",
+              "status": "Full",
+              "times": "2:30pm - 3:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 3:05pm"
+        },
+        {
+          "capacity": 5,
+          "course_id": "MUS 199",
+          "course_title": "INDIV RESEARCH MUS",
+          "days": "",
+          "enroll_code": "11379",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "MUS 597",
+          "course_title": "MAST/DOCT EXAM PREP",
+          "days": "",
+          "enroll_code": "11403",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "MUS 598",
+          "course_title": "MASTERS DEGREE PREP",
+          "days": "",
+          "enroll_code": "11411",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "MUS 599A",
+          "course_title": "PH.D. DISS PREP",
+          "days": "",
+          "enroll_code": "11429",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "MUS 599B",
+          "course_title": "DMA RECITAL PREP",
+          "days": "",
+          "enroll_code": "11437",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Music - MUS"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:25:43.759390"
+}

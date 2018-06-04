@@ -1,0 +1,307 @@
+{
+  "20183": {
+    "CNCSP": {
+      "courses": [
+        {
+          "capacity": 160,
+          "course_id": "CNCSP 115",
+          "course_title": "PEER-HELPING",
+          "days": "MT R",
+          "enrollment": 17,
+          "instructor": "ISRAEL T",
+          "location": "GIRV 1004",
+          "sections": [
+            {
+              "capacity": 40,
+              "course_id": "CNCSP 101",
+              "course_title": "INTRO HELP SKILLS",
+              "days": "MT R",
+              "enroll_code": "02899/A",
+              "enrollment": 40,
+              "instructor": "T B A",
+              "location": "ED 1213",
+              "status": "Full",
+              "times": "12:00pm - 1:45pm"
+            },
+            {
+              "capacity": 40,
+              "course_id": "CNCSP 101",
+              "course_title": "INTRO HELP SKILLS",
+              "days": "MT R",
+              "enroll_code": "02907/B",
+              "enrollment": 40,
+              "instructor": "T B A",
+              "location": "ED 1215",
+              "status": "Full",
+              "times": "2:30pm - 4:15pm"
+            },
+            {
+              "capacity": 40,
+              "course_id": "CNCSP 102",
+              "course_title": "RESEARCH APP PSYCH",
+              "days": "W",
+              "enroll_code": "02915/A",
+              "enrollment": 40,
+              "instructor": "T B A",
+              "location": "ED 1213",
+              "status": "Full",
+              "times": "10:00am - 12:00pm"
+            },
+            {
+              "capacity": 40,
+              "course_id": "CNCSP 102",
+              "course_title": "RESEARCH APP PSYCH",
+              "days": "W",
+              "enroll_code": "02923/B",
+              "enrollment": 40,
+              "instructor": "T B A",
+              "location": "ED 1213",
+              "status": "Full",
+              "times": "2:00pm - 4:00pm"
+            },
+            {
+              "capacity": 40,
+              "course_id": "CNCSP 110",
+              "course_title": "INTRO ED & VOC GUID",
+              "days": "MT R",
+              "enroll_code": "02931/A",
+              "enrollment": 40,
+              "instructor": "T B A",
+              "location": "ED 1213",
+              "status": "Full",
+              "times": "2:00pm - 3:45pm"
+            },
+            {
+              "capacity": 50,
+              "course_id": "CNCSP 111",
+              "course_title": "IDENTITY-PLURALISM",
+              "days": "MT R",
+              "enroll_code": "16873/D",
+              "enrollment": 46,
+              "instructor": "MORGAN M L",
+              "location": "ED 1213",
+              "status": "",
+              "times": "9:00 am - 11:45am"
+            },
+            {
+              "capacity": 40,
+              "course_id": "CNCSP 112",
+              "course_title": "POSITIVE PSYCH",
+              "days": "MT R",
+              "enroll_code": "02949/B",
+              "enrollment": 40,
+              "instructor": "T B A",
+              "location": "ED 1215",
+              "status": "Full",
+              "times": "10:30am - 12:15pm"
+            },
+            {
+              "capacity": 40,
+              "course_id": "CNCSP 114",
+              "course_title": "PSYCH OF GENDER",
+              "days": "MT R",
+              "enroll_code": "02956/B",
+              "enrollment": 39,
+              "instructor": "T B A",
+              "location": "ED 1215",
+              "status": "",
+              "times": "12:30pm - 2:15pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CNCSP 115",
+              "course_title": "",
+              "days": "W F",
+              "enroll_code": "02980/G",
+              "enrollment": 16,
+              "instructor": "ISRAEL T",
+              "location": "GIRV 2115",
+              "status": "",
+              "times": "10:00am - 11:30am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CNCSP 115",
+              "course_title": "",
+              "days": "W F",
+              "enroll_code": "02998/G",
+              "enrollment": 1,
+              "instructor": "ISRAEL T",
+              "location": "GIRV 2112",
+              "status": "",
+              "times": "10:00am - 11:30am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CNCSP 115",
+              "course_title": "",
+              "days": "W F",
+              "enroll_code": "03004/G",
+              "enrollment": 0,
+              "instructor": "ISRAEL T",
+              "location": "GIRV 2124",
+              "status": "",
+              "times": "10:00am - 11:30am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CNCSP 115",
+              "course_title": "",
+              "days": "W F",
+              "enroll_code": "03012/G",
+              "enrollment": 0,
+              "instructor": "ISRAEL T",
+              "location": "HSSB 1224",
+              "status": "",
+              "times": "10:00am - 11:30am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CNCSP 115",
+              "course_title": "",
+              "days": "W F",
+              "enroll_code": "03020/G",
+              "enrollment": 0,
+              "instructor": "ISRAEL T",
+              "location": "HSSB 1215",
+              "status": "",
+              "times": "10:00am - 11:30am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CNCSP 115",
+              "course_title": "",
+              "days": "W F",
+              "enroll_code": "03038/G",
+              "enrollment": 0,
+              "instructor": "ISRAEL T",
+              "location": "HSSB 4202",
+              "status": "",
+              "times": "10:00am - 11:30am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CNCSP 115",
+              "course_title": "",
+              "days": "W F",
+              "enroll_code": "03046/G",
+              "enrollment": 0,
+              "instructor": "ISRAEL T",
+              "location": "HSSB 2251",
+              "status": "",
+              "times": "10:00am - 11:30am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CNCSP 115",
+              "course_title": "",
+              "days": "W F",
+              "enroll_code": "03053/G",
+              "enrollment": 0,
+              "instructor": "ISRAEL T",
+              "location": "HSSB 4201",
+              "status": "",
+              "times": "10:00am - 11:30am"
+            }
+          ],
+          "status": "",
+          "times": "10:00am - 11:30am"
+        },
+        {
+          "capacity": 20,
+          "course_id": "CNCSP 199",
+          "course_title": "INDEPEN STUDENTS",
+          "days": "",
+          "enroll_code": "03061",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "CNCSP 199RA",
+          "course_title": "INDEP RES ASST",
+          "days": "",
+          "enroll_code": "03079",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "CNCSP 271A",
+          "course_title": "CLINIC PRACTICUM",
+          "days": "",
+          "enroll_code": "17525/A",
+          "enrollment": 1,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [
+            {
+              "capacity": 10,
+              "course_id": "CNCSP 271A",
+              "course_title": "CLINIC PRACTICUM",
+              "days": "",
+              "enroll_code": "17533/B",
+              "enrollment": 1,
+              "instructor": "T B A",
+              "location": "T B A",
+              "status": "",
+              "times": ""
+            }
+          ],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "CNCSP 596",
+          "course_title": "DIR READ & RESEARCH",
+          "days": "",
+          "enroll_code": "03087",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "CNCSP 597",
+          "course_title": "INDIV STD COMP EXAM",
+          "days": "",
+          "enroll_code": "03095",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "CNCSP 599",
+          "course_title": "PHD DISS RSCH-PREP",
+          "days": "",
+          "enroll_code": "03103",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Counseling, Clinical, School Psychology - CNCSP"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:16:12.396436"
+}

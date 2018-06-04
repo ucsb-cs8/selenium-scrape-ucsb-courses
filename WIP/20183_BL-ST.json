@@ -1,0 +1,176 @@
+{
+  "20183": {
+    "BL ST": {
+      "courses": [
+        {
+          "capacity": 50,
+          "course_id": "BL ST 1",
+          "course_title": "INTRO AF-AM STUDIES",
+          "days": "MTW",
+          "enrollment": 50,
+          "instructor": "GALICIA M G",
+          "location": "ARTS 1349",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "BL ST 1",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "01230/A",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "SH 3707",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "BL ST 1",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "01248/A",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "SH 3707",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 3:20pm"
+        },
+        {
+          "capacity": 44,
+          "course_id": "BL ST 3",
+          "course_title": "INTRO AFR STUDIES",
+          "days": "MTW",
+          "enrollment": 45,
+          "instructor": "AKUDINOBI J",
+          "location": "ARTS 1349",
+          "sections": [
+            {
+              "capacity": 22,
+              "course_id": "BL ST 3",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "01263/B",
+              "enrollment": 23,
+              "instructor": "",
+              "location": "SH 3707",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 22,
+              "course_id": "BL ST 3",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "01271/B",
+              "enrollment": 22,
+              "instructor": "",
+              "location": "SH 3707",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:55am"
+        },
+        {
+          "capacity": 5,
+          "course_id": "BL ST 99",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "01289",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "BL ST 99RA",
+          "course_title": "INDEP RESEARCH ASST",
+          "days": "",
+          "enroll_code": "01297",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 65,
+          "course_id": "BL ST 126",
+          "course_title": "COMP BLK LIT",
+          "days": "MTW",
+          "enroll_code": "01305/A",
+          "enrollment": 65,
+          "instructor": "AKUDINOBI J",
+          "location": "NH 1105",
+          "sections": [],
+          "status": "Full",
+          "times": "9:30 am - 10:55am"
+        },
+        {
+          "capacity": 65,
+          "course_id": "BL ST 133",
+          "course_title": "GNDR & SEX IN BLST",
+          "days": "MTWR",
+          "enroll_code": "15875/A",
+          "enrollment": 21,
+          "instructor": "T B A",
+          "location": "PHELP1425",
+          "sections": [],
+          "status": "",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 65,
+          "course_id": "BL ST 153",
+          "course_title": "BLACK POP MUSIC",
+          "days": "MTWR",
+          "enroll_code": "01313/B",
+          "enrollment": 49,
+          "instructor": "BLAKE G K",
+          "location": "GIRV 2128",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 5,
+          "course_id": "BL ST 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "01347",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "BL ST 199RA",
+          "course_title": "INDEP RESEARCH ASST",
+          "days": "",
+          "enroll_code": "01354",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Black Studies - BL ST"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:13:41.797440"
+}

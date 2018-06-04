@@ -1,0 +1,171 @@
+{
+  "20184": {
+    "MS": {
+      "courses": [
+        {
+          "capacity": 25,
+          "course_id": "MS 131",
+          "course_title": "TACTICAL LDRSHIP I",
+          "days": "T R",
+          "enrollment": 1,
+          "instructor": "BUEHNER T D",
+          "location": "451 123",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "MS 1A",
+              "course_title": "INTO TO LDRSHP I",
+              "days": "M",
+              "enroll_code": "36137",
+              "enrollment": 0,
+              "instructor": "BUEHNER T D",
+              "location": "PHELP1309",
+              "status": "",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "MS 1A",
+              "course_title": "INTO TO LDRSHP I",
+              "days": "R",
+              "enroll_code": "36145",
+              "enrollment": 0,
+              "instructor": "BUEHNER T D",
+              "location": "PHELP1309",
+              "status": "",
+              "times": "9:00 am - 9:50 am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "MS 2AA",
+              "course_title": "FNDATIONS LDRSHP I",
+              "days": "T",
+              "enroll_code": "36152",
+              "enrollment": 1,
+              "instructor": "BUEHNER T D",
+              "location": "PHELP1309",
+              "status": "",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "MS 2AA",
+              "course_title": "FNDATIONS LDRSHP I",
+              "days": "W",
+              "enroll_code": "36160",
+              "enrollment": 0,
+              "instructor": "BUEHNER T D",
+              "location": "PHELP1309",
+              "status": "",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 10,
+              "course_id": "MS 6",
+              "course_title": "MS BASIC FIELD STDY",
+              "days": "M",
+              "enroll_code": "36178",
+              "enrollment": 0,
+              "instructor": "BUEHNER T D",
+              "location": "451 123",
+              "status": "",
+              "times": "8:00 am - 8:50 am"
+            },
+            {
+              "capacity": 50,
+              "course_id": "MS 22",
+              "course_title": "BASIC PHYSICAL COND",
+              "days": "M W F",
+              "enroll_code": "36186",
+              "enrollment": 6,
+              "instructor": "BUEHNER T D",
+              "location": "SCRIMFIELD",
+              "status": "",
+              "times": "6:30 am - 7:30 am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MS 99",
+              "course_title": "INDEPENDENT STUDIES",
+              "days": "",
+              "enroll_code": "36194",
+              "enrollment": 0,
+              "instructor": "BUEHNER T D",
+              "location": "T B A",
+              "status": "",
+              "times": ""
+            },
+            {
+              "capacity": 25,
+              "course_id": "MS 131",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "36210",
+              "enrollment": 1,
+              "instructor": "BUEHNER T D",
+              "location": "PHELP1309",
+              "status": "",
+              "times": "2:00pm - 4:50pm"
+            }
+          ],
+          "status": "",
+          "times": "1:00pm - 1:50pm"
+        },
+        {
+          "capacity": 25,
+          "course_id": "MS 141",
+          "course_title": "DEV LEADERSHIP I",
+          "days": "M",
+          "enrollment": 0,
+          "instructor": "BUEHNER T D",
+          "location": "451 123",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "MS 141",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "36236",
+              "enrollment": 0,
+              "instructor": "BUEHNER T D",
+              "location": "PHELP1309",
+              "status": "",
+              "times": "2:00pm - 4:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:30pm - 4:20pm"
+        },
+        {
+          "capacity": 8,
+          "course_id": "MS 190",
+          "course_title": "ADV MIL SCI FLD STU",
+          "days": "T R",
+          "enroll_code": "36244",
+          "enrollment": 0,
+          "instructor": "BUEHNER T D",
+          "location": "451 123",
+          "sections": [],
+          "status": "",
+          "times": "8:00 am - 8:50 am"
+        },
+        {
+          "capacity": 25,
+          "course_id": "MS 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "36251",
+          "enrollment": 0,
+          "instructor": "BUEHNER T D",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Military Science - MS"
+    },
+    "text": "FALL 2018"
+  },
+  "date": "2018-06-03T19:01:22.610215"
+}

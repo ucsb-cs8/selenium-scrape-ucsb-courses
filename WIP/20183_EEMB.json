@@ -1,0 +1,677 @@
+{
+  "20183": {
+    "EEMB": {
+      "courses": [
+        {
+          "capacity": 75,
+          "course_id": "EEMB W 22",
+          "course_title": "BIO CONCEPT/CONTROV",
+          "days": "",
+          "enrollment": 71,
+          "instructor": "EVEN T J",
+          "location": "ONLINE",
+          "sections": [
+            {
+              "capacity": 336,
+              "course_id": "EEMB 2",
+              "course_title": "INTRO BIOLOGY II-EE",
+              "days": "MTWR",
+              "enroll_code": "05074/B",
+              "enrollment": 336,
+              "instructor": "EVEN T J",
+              "location": "BUCHN1910",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 10,
+              "course_id": "EEMB 2L",
+              "course_title": "INTRO BIOL LAB II",
+              "days": "T R",
+              "enroll_code": "05082/B",
+              "enrollment": 9,
+              "instructor": "NGUYEN A T",
+              "location": "BSIF 2211",
+              "status": "",
+              "times": "9:00 am - 11:50am"
+            },
+            {
+              "capacity": 10,
+              "course_id": "EEMB 2L",
+              "course_title": "INTRO BIOL LAB II",
+              "days": "T R",
+              "enroll_code": "05090/B",
+              "enrollment": 9,
+              "instructor": "NGUYEN A T",
+              "location": "BSIF 2112",
+              "status": "",
+              "times": "9:00 am - 11:50am"
+            },
+            {
+              "capacity": 10,
+              "course_id": "EEMB 2L",
+              "course_title": "INTRO BIOL LAB II",
+              "days": "T R",
+              "enroll_code": "05108/B",
+              "enrollment": 8,
+              "instructor": "NGUYEN A T",
+              "location": "BSIF 2112",
+              "status": "",
+              "times": "3:30pm - 6:20pm"
+            },
+            {
+              "capacity": 10,
+              "course_id": "EEMB 2L",
+              "course_title": "INTRO BIOL LAB II",
+              "days": "T R",
+              "enroll_code": "05116/B",
+              "enrollment": 10,
+              "instructor": "NGUYEN A T",
+              "location": "BSIF 2211",
+              "status": "Full",
+              "times": "3:30pm - 6:20pm"
+            },
+            {
+              "capacity": 10,
+              "course_id": "EEMB 2L",
+              "course_title": "INTRO BIOL LAB II",
+              "days": "T R",
+              "enroll_code": "05124/B",
+              "enrollment": 2,
+              "instructor": "NGUYEN A T",
+              "location": "BSIF 2112",
+              "status": "",
+              "times": "6:30pm - 9:20pm"
+            },
+            {
+              "capacity": 10,
+              "course_id": "EEMB 2L",
+              "course_title": "INTRO BIOL LAB II",
+              "days": "T R",
+              "enroll_code": "05132/B",
+              "enrollment": 4,
+              "instructor": "NGUYEN A T",
+              "location": "BSIF 2211",
+              "status": "",
+              "times": "6:30pm - 9:20pm"
+            },
+            {
+              "capacity": 10,
+              "course_id": "EEMB 2L",
+              "course_title": "INTRO BIOL LAB II",
+              "days": "M W",
+              "enroll_code": "05140/B",
+              "enrollment": 10,
+              "instructor": "NGUYEN A T",
+              "location": "BSIF 2211",
+              "status": "Full",
+              "times": "5:00pm - 7:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "EEMB W 22",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "16683/A",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "ONLINE",
+              "status": "Full",
+              "times": ""
+            },
+            {
+              "capacity": 25,
+              "course_id": "EEMB W 22",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "16691/A",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "ONLINE",
+              "status": "Full",
+              "times": ""
+            },
+            {
+              "capacity": 25,
+              "course_id": "EEMB W 22",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "16709/A",
+              "enrollment": 21,
+              "instructor": "",
+              "location": "ONLINE",
+              "status": "",
+              "times": ""
+            }
+          ],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 60,
+          "course_id": "EEMB 40",
+          "course_title": "ECO INFECT DISEASE",
+          "days": "MTW",
+          "enrollment": 22,
+          "instructor": "LATTO J G",
+          "location": "PHELP2516",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "EEMB 40",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16725/B",
+              "enrollment": 2,
+              "instructor": "",
+              "location": "HSSB 3201",
+              "status": "",
+              "times": "8:00 am - 9:20 am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EEMB 40",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16733/B",
+              "enrollment": 9,
+              "instructor": "",
+              "location": "HSSB 1233",
+              "status": "",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EEMB 40",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16741/B",
+              "enrollment": 11,
+              "instructor": "",
+              "location": "HSSB 4202",
+              "status": "",
+              "times": "2:30pm - 3:50pm"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:55pm"
+        },
+        {
+          "capacity": 0,
+          "course_id": "EEMB 84",
+          "course_title": "INTERNSHIP BIOLOGY",
+          "days": "",
+          "enroll_code": "05223",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 60,
+          "course_id": "EEMB 102",
+          "course_title": "MACROEVOLUTION",
+          "days": "MTW",
+          "enrollment": 52,
+          "instructor": "T B A",
+          "location": "TD-W 2600",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "EEMB 102",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16766/B",
+              "enrollment": 19,
+              "instructor": "",
+              "location": "HSSB 3202",
+              "status": "",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EEMB 102",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16774/B",
+              "enrollment": 19,
+              "instructor": "",
+              "location": "HSSB 4201",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EEMB 102",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16782/B",
+              "enrollment": 14,
+              "instructor": "",
+              "location": "HSSB 2201",
+              "status": "",
+              "times": "3:30pm - 4:45pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:25pm"
+        },
+        {
+          "capacity": 24,
+          "course_id": "EEMB 118",
+          "course_title": "ENTOMOLOGY",
+          "days": "M W F",
+          "enrollment": 24,
+          "instructor": "LAMBERT A M\nSELTMANN K",
+          "location": "HARDR1013",
+          "sections": [
+            {
+              "capacity": 12,
+              "course_id": "EEMB 118",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "16808/A",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "HARDR1013",
+              "status": "Full",
+              "times": "11:00am - 3:50pm"
+            },
+            {
+              "capacity": 12,
+              "course_id": "EEMB 118",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "16816/A",
+              "enrollment": 11,
+              "instructor": "",
+              "location": "HARDR1013",
+              "status": "",
+              "times": "11:00am - 3:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:25pm"
+        },
+        {
+          "capacity": 65,
+          "course_id": "EEMB 120",
+          "course_title": "INTRO TO ECOLOGY",
+          "days": "MTW",
+          "enrollment": 65,
+          "instructor": "YOUNG H S",
+          "location": "NH 1105",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "EEMB 120",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "05264/A",
+              "enrollment": 21,
+              "instructor": "",
+              "location": "HSSB 3202",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 23,
+              "course_id": "EEMB 120",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "05272/A",
+              "enrollment": 23,
+              "instructor": "",
+              "location": "HSSB 3202",
+              "status": "Full",
+              "times": "3:30pm - 4:50pm"
+            },
+            {
+              "capacity": 22,
+              "course_id": "EEMB 120",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "05280/A",
+              "enrollment": 21,
+              "instructor": "",
+              "location": "HSSB 1206",
+              "status": "",
+              "times": "9:30 am - 10:50am"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:25pm"
+        },
+        {
+          "capacity": 60,
+          "course_id": "EEMB 127",
+          "course_title": "PLANT BIO DIVERSITY",
+          "days": "M W F",
+          "enrollment": 57,
+          "instructor": "T B A",
+          "location": "GIRV 2128",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "EEMB 127",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "05306/A",
+              "enrollment": 19,
+              "instructor": "",
+              "location": "PHELP1525",
+              "status": "",
+              "times": "9:00 am - 10:20am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EEMB 127",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "05314/A",
+              "enrollment": 18,
+              "instructor": "",
+              "location": "PHELP1525",
+              "status": "",
+              "times": "10:30am - 11:50am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EEMB 127",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "05322/A",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "PHELP1525",
+              "status": "Full",
+              "times": "12:00pm - 1:20pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:25pm"
+        },
+        {
+          "capacity": 11,
+          "course_id": "EEMB 127L",
+          "course_title": "PLANT DIVERSITY LAB",
+          "days": "M W",
+          "enroll_code": "05330/B",
+          "enrollment": 11,
+          "instructor": "T B A",
+          "location": "LSB 1007",
+          "sections": [],
+          "status": "Full",
+          "times": "9:00 am - 2:50pm"
+        },
+        {
+          "capacity": 48,
+          "course_id": "EEMB 146",
+          "course_title": "BIOMETRY",
+          "days": "MTWR",
+          "enrollment": 29,
+          "instructor": "T B A",
+          "location": "GIRV 1112",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "EEMB 146",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "16832/A",
+              "enrollment": 23,
+              "instructor": "",
+              "location": "PHELP1525",
+              "status": "",
+              "times": "10:00am - 12:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "EEMB 146",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "16840/A",
+              "enrollment": 6,
+              "instructor": "",
+              "location": "PHELP1525",
+              "status": "",
+              "times": "2:00pm - 4:50pm"
+            }
+          ],
+          "status": "",
+          "times": "8:00 am - 9:05 am"
+        },
+        {
+          "capacity": 60,
+          "course_id": "EEMB 156",
+          "course_title": "REPRODUCTION",
+          "days": "MTW",
+          "enrollment": 57,
+          "instructor": "COLLINS P M",
+          "location": "PHELP3505",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "EEMB 156",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "05355/A",
+              "enrollment": 19,
+              "instructor": "DESGENS-MARTI",
+              "location": "GIRV 1108",
+              "status": "",
+              "times": "3:30pm - 4:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EEMB 156",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "05363/A",
+              "enrollment": 18,
+              "instructor": "DESGENS-MARTI",
+              "location": "HSSB 2201",
+              "status": "",
+              "times": "5:30pm - 6:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EEMB 156",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "05371/A",
+              "enrollment": 20,
+              "instructor": "DESGENS-MARTI",
+              "location": "HSSB 3201",
+              "status": "Full",
+              "times": "3:30pm - 4:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:25pm"
+        },
+        {
+          "capacity": 60,
+          "course_id": "EEMB 159",
+          "course_title": "TROPICAL ECOLOGY",
+          "days": "MTWR",
+          "enrollment": 60,
+          "instructor": "EVEN T J",
+          "location": "PHELP2516",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "EEMB 159",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "05397/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "PHELP1525",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EEMB 159",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "05405/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "PHELP1525",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EEMB 159",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "05413/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "PHELP1525",
+              "status": "Full",
+              "times": "3:30pm - 4:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:05pm"
+        },
+        {
+          "capacity": 24,
+          "course_id": "EEMB 170",
+          "course_title": "MARINE-LAND INTERF",
+          "days": "T R",
+          "enrollment": 23,
+          "instructor": "PAGE H M\nMILLER R J",
+          "location": "LSB 1101",
+          "sections": [
+            {
+              "capacity": 12,
+              "course_id": "EEMB 170",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "05439/A",
+              "enrollment": 12,
+              "instructor": "",
+              "location": "MLAB 1010",
+              "status": "Full",
+              "times": "3:00pm - 6:00pm"
+            }
+          ],
+          "status": "",
+          "times": "8:00 am - 9:20 am"
+        },
+        {
+          "capacity": 12,
+          "course_id": "EEMB 170",
+          "course_title": "",
+          "days": "R",
+          "enrollment": 12,
+          "instructor": "",
+          "location": "MLAB 1010",
+          "sections": [
+            {
+              "capacity": 12,
+              "course_id": "EEMB 170",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "05447/A",
+              "enrollment": 11,
+              "instructor": "",
+              "location": "MLAB 1010",
+              "status": "",
+              "times": "3:00pm - 6:00pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 6:00pm"
+        },
+        {
+          "capacity": 12,
+          "course_id": "EEMB 170",
+          "course_title": "",
+          "days": "R",
+          "enrollment": 11,
+          "instructor": "",
+          "location": "MLAB 1010",
+          "sections": [],
+          "status": "",
+          "times": "2:00pm - 6:00pm"
+        },
+        {
+          "capacity": 10,
+          "course_id": "EEMB 185",
+          "course_title": "OCEANOGRAPHY FLD WK",
+          "days": "",
+          "enroll_code": "05462/B",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "EEMB 596",
+          "course_title": "DIRECTED READ RSRCH",
+          "days": "",
+          "enroll_code": "05512",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 2,
+          "course_id": "EEMB 597",
+          "course_title": "INDIVID STUDY EXAMS",
+          "days": "",
+          "enroll_code": "05520",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 15,
+          "course_id": "EEMB 598",
+          "course_title": "MA THESIS RES/PREP",
+          "days": "",
+          "enroll_code": "05538",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 15,
+          "course_id": "EEMB 599",
+          "course_title": "PH.D. DISS PREP",
+          "days": "",
+          "enroll_code": "05546",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Ecology, Evolution & Marine Biology - EEMB"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:17:13.107352"
+}

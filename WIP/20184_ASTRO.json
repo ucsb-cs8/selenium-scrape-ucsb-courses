@@ -1,0 +1,109 @@
+{
+  "20184": {
+    "ASTRO": {
+      "courses": [
+        {
+          "capacity": 71,
+          "course_id": "ASTRO 1",
+          "course_title": "BASIC ASTRONOMY",
+          "days": "T R",
+          "enrollment": 71,
+          "instructor": "LUBIN P",
+          "location": "BRDA 1610",
+          "sections": [
+            {
+              "capacity": 49,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "02998",
+              "enrollment": 14,
+              "instructor": "",
+              "location": "SH 1430",
+              "status": "",
+              "times": "9:00 am - 9:50 am"
+            },
+            {
+              "capacity": 47,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "03004",
+              "enrollment": 29,
+              "instructor": "",
+              "location": "GIRV 1119",
+              "status": "",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 47,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "03012",
+              "enrollment": 4,
+              "instructor": "",
+              "location": "GIRV 1115",
+              "status": "",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 47,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "03020",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "GIRV 1115",
+              "status": "",
+              "times": "4:00pm - 4:50pm"
+            },
+            {
+              "capacity": 49,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "03038",
+              "enrollment": 3,
+              "instructor": "",
+              "location": "ARTS 1349",
+              "status": "",
+              "times": "6:00pm - 6:50pm"
+            },
+            {
+              "capacity": 47,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "03046",
+              "enrollment": 8,
+              "instructor": "",
+              "location": "GIRV 1115",
+              "status": "",
+              "times": "4:00pm - 4:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 3:15pm"
+        },
+        {
+          "capacity": 30,
+          "course_id": "ASTRO 1H",
+          "course_title": "HONORS- BASIC ASTRO",
+          "days": "W",
+          "enroll_code": "03053",
+          "enrollment": 3,
+          "instructor": "LUBIN P",
+          "location": "GIRV 2112",
+          "sections": [],
+          "status": "",
+          "times": "2:00pm - 3:15pm"
+        }
+      ],
+      "text": "Astronomy - ASTRO"
+    },
+    "text": "FALL 2018"
+  },
+  "date": "2018-06-03T18:45:16.686700"
+}

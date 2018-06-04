@@ -1,0 +1,211 @@
+{
+  "20184": {
+    "ENGR": {
+      "courses": [
+        {
+          "capacity": 112,
+          "course_id": "ENGR 3",
+          "course_title": "INTRO TO PROG",
+          "days": "M W F",
+          "enrollment": 1,
+          "instructor": "MOEHLIS J M",
+          "location": "NH 1006",
+          "sections": [
+            {
+              "capacity": 12,
+              "course_id": "ENGR 3",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "18960",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "ESB 1003",
+              "status": "",
+              "times": "3:00pm - 3:50pm"
+            },
+            {
+              "capacity": 12,
+              "course_id": "ENGR 3",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "18978",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "ESB 1003",
+              "status": "",
+              "times": "4:00pm - 4:50pm"
+            },
+            {
+              "capacity": 17,
+              "course_id": "ENGR 3",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "18986",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "ESB 1003",
+              "status": "",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 17,
+              "course_id": "ENGR 3",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "18994",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "ESB 1003",
+              "status": "",
+              "times": "6:00pm - 6:50pm"
+            },
+            {
+              "capacity": 12,
+              "course_id": "ENGR 3",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "19000",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "ESB 1003",
+              "status": "",
+              "times": "7:00pm - 7:50pm"
+            },
+            {
+              "capacity": 17,
+              "course_id": "ENGR 3",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "19018",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "ESB 1003",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 15,
+              "course_id": "ENGR 3",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "19026",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "ESB 1003",
+              "status": "",
+              "times": "3:00pm - 3:50pm"
+            },
+            {
+              "capacity": 10,
+              "course_id": "ENGR 3",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "19034",
+              "enrollment": 1,
+              "instructor": "",
+              "location": "ESB 1003",
+              "status": "",
+              "times": "4:00pm - 4:50pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 11:50am"
+        },
+        {
+          "capacity": 40,
+          "course_id": "ENGR 101",
+          "course_title": "ETHICS IN ENGR",
+          "days": "M W",
+          "enroll_code": "19042",
+          "enrollment": 37,
+          "instructor": "HOUGH K C",
+          "location": "GIRV 1112",
+          "sections": [
+            {
+              "capacity": 40,
+              "course_id": "ENGR 101",
+              "course_title": "ETHICS IN ENGR",
+              "days": "M W",
+              "enroll_code": "19059",
+              "enrollment": 12,
+              "instructor": "HOUGH K C",
+              "location": "GIRV 1112",
+              "status": "",
+              "times": "5:00pm - 6:15pm"
+            }
+          ],
+          "status": "",
+          "times": "3:30pm - 4:45pm"
+        },
+        {
+          "capacity": 70,
+          "course_id": "ENGR 195A",
+          "course_title": "MULTIDSPLN CAP DES",
+          "days": "F",
+          "enroll_code": "19067",
+          "enrollment": 0,
+          "instructor": "SUSKO T G",
+          "location": "GIRV 2128",
+          "sections": [],
+          "status": "",
+          "times": "1:00pm - 1:50pm"
+        },
+        {
+          "capacity": 1,
+          "course_id": "ENGR 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "19075",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 42,
+          "course_id": "ENGR 220A",
+          "course_title": "MOLECULAR BIOENGR",
+          "days": "T R",
+          "enroll_code": "54213",
+          "enrollment": 0,
+          "instructor": "DOYLE A M\nO'MALLEY M A",
+          "location": "387 1011",
+          "sections": [],
+          "status": "",
+          "times": "9:30 am - 10:45am"
+        },
+        {
+          "capacity": 60,
+          "course_id": "ENGR 225",
+          "course_title": "BIOE CURRENT TOPICS",
+          "days": "T",
+          "enroll_code": "19083",
+          "enrollment": 1,
+          "instructor": "DOYLE A M",
+          "location": "ESB 2001",
+          "sections": [],
+          "status": "",
+          "times": "4:00pm - 5:15pm"
+        },
+        {
+          "capacity": 20,
+          "course_id": "ENGR 230",
+          "course_title": "BIOE STUDENT SEM",
+          "days": "R",
+          "enroll_code": "19091",
+          "enrollment": 1,
+          "instructor": "DOYLE A M",
+          "location": "BIOEN1103",
+          "sections": [],
+          "status": "",
+          "times": "2:00pm - 3:15pm"
+        }
+      ],
+      "text": "Engineering Sciences - ENGR"
+    },
+    "text": "FALL 2018"
+  },
+  "date": "2018-06-03T18:52:56.028632"
+}

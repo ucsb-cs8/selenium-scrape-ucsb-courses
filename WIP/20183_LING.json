@@ -1,0 +1,212 @@
+{
+  "20183": {
+    "LING": {
+      "courses": [
+        {
+          "capacity": 24,
+          "course_id": "LING 20",
+          "course_title": "LANG & LINGUISTICS",
+          "days": "MTWR",
+          "enrollment": 24,
+          "instructor": "KENNEDY R A",
+          "location": "SH 3605",
+          "sections": [
+            {
+              "capacity": 15,
+              "course_id": "LING 8",
+              "course_title": "ORAL COMM INTL",
+              "days": "MTWR",
+              "enroll_code": "17343/B",
+              "enrollment": 9,
+              "instructor": "T B A",
+              "location": "HSSB 1224",
+              "status": "",
+              "times": "12:30pm - 1:55pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "LING 12",
+              "course_title": "UNIV WRIT FOR MLING",
+              "days": "MTWR",
+              "enroll_code": "09134/B",
+              "enrollment": 18,
+              "instructor": "T B A",
+              "location": "HSSB 1228",
+              "status": "Full",
+              "times": "11:00am - 12:25pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "LING 12",
+              "course_title": "UNIV WRIT FOR MLING",
+              "days": "MTWR",
+              "enroll_code": "16923/A",
+              "enrollment": 18,
+              "instructor": "T B A",
+              "location": "SH 1609",
+              "status": "Full",
+              "times": "11:00am - 12:25pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "LING 12",
+              "course_title": "UNIV WRIT FOR MLING",
+              "days": "MTWR",
+              "enroll_code": "16931/B",
+              "enrollment": 18,
+              "instructor": "T B A",
+              "location": "GIRV 1108",
+              "status": "Full",
+              "times": "12:30pm - 1:55pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "LING 20",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "09159/B",
+              "enrollment": 24,
+              "instructor": "",
+              "location": "SH 3605",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 30,
+          "course_id": "LING 70",
+          "course_title": "LANG IN SOCIETY",
+          "days": "MTWR",
+          "enrollment": 27,
+          "instructor": "BAX A C",
+          "location": "SH 3605",
+          "sections": [
+            {
+              "capacity": 30,
+              "course_id": "LING 70",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "09175/A",
+              "enrollment": 27,
+              "instructor": "PETERS S L",
+              "location": "SH 3605",
+              "status": "",
+              "times": "9:30 am - 10:35am"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 10,
+          "course_id": "LING 99",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "18549",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 30,
+          "course_id": "LING 106",
+          "course_title": "INTRO TO PHONETICS",
+          "days": "MTW",
+          "enrollment": 31,
+          "instructor": "GORDON M K",
+          "location": "SH 3605",
+          "sections": [
+            {
+              "capacity": 30,
+              "course_id": "LING 106",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "17376/B",
+              "enrollment": 31,
+              "instructor": "ROGERS P G",
+              "location": "SH 3605",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 10,
+          "course_id": "LING 191",
+          "course_title": "INTERNSHIP IN LING",
+          "days": "",
+          "enroll_code": "09217",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "LING 195B",
+          "course_title": "HONORS THESIS",
+          "days": "",
+          "enroll_code": "09233",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "LING 195C",
+          "course_title": "HONORS THESIS",
+          "days": "",
+          "enroll_code": "09241",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "LING 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "09258",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "LING 597",
+          "course_title": "IND STUDY M.A./PH.D",
+          "days": "",
+          "enroll_code": "09274",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Linguistics - LING"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:23:19.834214"
+}

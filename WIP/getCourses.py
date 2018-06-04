@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 
 import json
+import datetime
+import random
+import time
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-from pprint import pprint as pp
+from pprint import pprint
 from copy import deepcopy
 
 courses_search_url="https://my.sa.ucsb.edu/public/curriculum/coursesearch.aspx"
@@ -71,16 +74,42 @@ def structureLines(lines):
       retval.append(thisCourse)
       
     return retval   
-          
-if __name__=="__main__":
-    #driver = webdriver.Firefox()
-    driver = webdriver.Chrome()
-    lines  = getData(driver,"CMPSC","20182","Undergraduate")
+
+
+def getCoursesList(driver,subject_area,quarter,course_level):
+    print("Getting data for {} {} {}".format(subject_area,quarter,course_level))
+    lines  = getData(driver,subject_area,
+                     quarter,
+                     course_level)
 
     structured = structureLines(lines)
-    pp(structured)
+    return structured
 
-    with open('CMPSC_20182_U.json', 'w') as outfile:
-       json.dump(structured, outfile,indent=2,sort_keys=True)
+if __name__=="__main__":
+    #driver = webdriver.Firefox()
+
+    with open('choices.json','r') as infile:
+        choices = json.load(infile)
+
+    driver = webdriver.Chrome()
+
+    for q in choices['quarters']:
+      for s in choices['subject_areas']:
+        now =  datetime.datetime.now().isoformat()
+        print(now)
+        courses = { "date" : now }
+        qtr = q['value']
+        courses[qtr]={"text":q['text']}
+        subj = s['value']
+        courseResults = getCoursesList(driver,subj,qtr,"All")
+        courses[qtr][subj] = {"text":s['text'],"courses":courseResults}
+        filename = "{}_{}.json".format(qtr,subj.strip().replace(" ","-"))
+        with open(filename, 'w') as outfile:
+          json.dump(courses, outfile,indent=2,sort_keys=True)
+        
+        sleepTime = random.randint(500,5000)/1000
+        print("Sleeping ",sleepTime)
+        time.sleep(sleepTime)
+
     
     driver.close() 

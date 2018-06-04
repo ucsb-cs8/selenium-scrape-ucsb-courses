@@ -1,0 +1,122 @@
+{
+  "20182": {
+    "ASTRO": {
+      "courses": [
+        {
+          "capacity": 168,
+          "course_id": "ASTRO 1",
+          "course_title": "BASIC ASTRONOMY",
+          "days": "T R",
+          "enrollment": 131,
+          "instructor": "HOWELL D A",
+          "location": "BRDA 1610",
+          "sections": [
+            {
+              "capacity": 42,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "02907",
+              "enrollment": 33,
+              "instructor": "BURKE J F",
+              "location": "GIRV 1119",
+              "status": "",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 42,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "02915",
+              "enrollment": 37,
+              "instructor": "BURKE J F",
+              "location": "NH 1109",
+              "status": "",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 42,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "02923",
+              "enrollment": 27,
+              "instructor": "BURKE J F",
+              "location": "GIRV 1116",
+              "status": "",
+              "times": "6:00pm - 6:50pm"
+            },
+            {
+              "capacity": 42,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "02931",
+              "enrollment": 34,
+              "instructor": "BURKE J F",
+              "location": "387 103",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            }
+          ],
+          "status": "",
+          "times": "3:30pm - 4:45pm"
+        },
+        {
+          "capacity": 0,
+          "course_id": "ASTRO 1H",
+          "course_title": "HONORS- BASIC ASTRO",
+          "days": "W",
+          "enroll_code": "02949",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "GIRV 2116",
+          "sections": [],
+          "status": "Cancelled",
+          "times": "2:00pm - 3:15pm"
+        },
+        {
+          "capacity": 94,
+          "course_id": "ASTRO 2",
+          "course_title": "HIST OF UNIVERSE",
+          "days": "T R",
+          "enrollment": 60,
+          "instructor": "ANTONUCCI R R",
+          "location": "BRDA 1640",
+          "sections": [
+            {
+              "capacity": 42,
+              "course_id": "ASTRO 2",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "02964",
+              "enrollment": 29,
+              "instructor": "YUAN JIAOYUE",
+              "location": "NH 1111",
+              "status": "",
+              "times": "6:00pm - 6:50pm"
+            },
+            {
+              "capacity": 42,
+              "course_id": "ASTRO 2",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "02972",
+              "enrollment": 31,
+              "instructor": "YUAN JIAOYUE",
+              "location": "GIRV 1116",
+              "status": "",
+              "times": "5:00pm - 5:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:15pm"
+        }
+      ],
+      "text": "Astronomy - ASTRO"
+    },
+    "text": "SPRING 2018"
+  },
+  "date": "2018-06-03T19:32:21.889857"
+}

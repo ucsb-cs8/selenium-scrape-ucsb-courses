@@ -1,0 +1,327 @@
+{
+  "20183": {
+    "CH ST": {
+      "courses": [
+        {
+          "capacity": 60,
+          "course_id": "CH ST 1A",
+          "course_title": "INTRO CHICANO/A STD",
+          "days": "M W",
+          "enrollment": 56,
+          "instructor": "GARCIA-MARTIN",
+          "location": "PHELP1425",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "CH ST 1A",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16311/A",
+              "enrollment": 18,
+              "instructor": "NAVA M",
+              "location": "HSSB 2201",
+              "status": "",
+              "times": "12:00pm - 12:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CH ST 1A",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16329/A",
+              "enrollment": 18,
+              "instructor": "NAVA M",
+              "location": "GIRV 1108",
+              "status": "",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CH ST 1A",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16337/A",
+              "enrollment": 20,
+              "instructor": "NAVA M",
+              "location": "GIRV 1108",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 4:05pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "CH ST 1B",
+          "course_title": "INTRO CHICANO/A STD",
+          "days": "MTWR",
+          "enroll_code": "01610/B",
+          "enrollment": 34,
+          "instructor": "GARCIA GONZAL",
+          "location": "PHELP1440",
+          "sections": [],
+          "status": "",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 60,
+          "course_id": "CH ST 1C",
+          "course_title": "INTRO CHICANO/A STD",
+          "days": "T R",
+          "enrollment": 59,
+          "instructor": "GARCIA-MARTIN",
+          "location": "PHELP1425",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "CH ST 1C",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16352/A",
+              "enrollment": 20,
+              "instructor": "PACHECO F",
+              "location": "GIRV 1108",
+              "status": "Full",
+              "times": "10:00am - 10:50am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CH ST 1C",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16360/A",
+              "enrollment": 20,
+              "instructor": "PACHECO F",
+              "location": "GIRV 1108",
+              "status": "Full",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CH ST 1C",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16378/A",
+              "enrollment": 19,
+              "instructor": "PACHECO F",
+              "location": "GIRV 1108",
+              "status": "",
+              "times": "12:00pm - 12:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 4:05pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "CH ST 103",
+          "course_title": "CHICANA/O MEDIA",
+          "days": "MTWR",
+          "enroll_code": "16386/D",
+          "enrollment": 13,
+          "instructor": "CASILLAS D I",
+          "location": "GIRV 2129",
+          "sections": [],
+          "status": "",
+          "times": "2:00pm - 4:05pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "CH ST 149",
+          "course_title": "BODY/CULTURE/POWER",
+          "days": "MTWR",
+          "enroll_code": "16410/B",
+          "enrollment": 17,
+          "instructor": "ZARATE A D",
+          "location": "PHELP1444",
+          "sections": [],
+          "status": "",
+          "times": "2:00pm - 3:05pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "CH ST 168B",
+          "course_title": "HISTORY OF CHICANOS",
+          "days": "MTWR",
+          "enroll_code": "16428/B",
+          "enrollment": 23,
+          "instructor": "CHAVEZ M V",
+          "location": "PHELP1440",
+          "sections": [],
+          "status": "",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 60,
+          "course_id": "CH ST 171",
+          "course_title": "BROWN/BLCK METROP",
+          "days": "MTW",
+          "enrollment": 20,
+          "instructor": "ARMBRUSTER R",
+          "location": "PHELP3505",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "CH ST 171",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16444/B",
+              "enrollment": 12,
+              "instructor": "PRADO A O",
+              "location": "HSSB 1227",
+              "status": "",
+              "times": "10:00am - 10:50am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CH ST 171",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16451/B",
+              "enrollment": 5,
+              "instructor": "PRADO A O",
+              "location": "HSSB 1223",
+              "status": "",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CH ST 171",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16469/B",
+              "enrollment": 3,
+              "instructor": "PRADO A O",
+              "location": "GIRV 1108",
+              "status": "",
+              "times": "12:00pm - 12:50pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:25pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "CH ST 178A",
+          "course_title": "GLOBAL MIGRATION",
+          "days": "TWRF",
+          "enroll_code": "16394/A",
+          "enrollment": 10,
+          "instructor": "RAMIREZ NIEMB",
+          "location": "PHELP1445",
+          "sections": [],
+          "status": "",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 15,
+          "course_id": "CH ST 180",
+          "course_title": "SURVEY OF CHIC LIT",
+          "days": "MTWR",
+          "enroll_code": "01685/B",
+          "enrollment": 15,
+          "instructor": "LOMELI F A",
+          "location": "PHELP1440",
+          "sections": [],
+          "status": "Full",
+          "times": "3:30pm - 4:35pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "CH ST 183",
+          "course_title": "BORDER NARRATIVE",
+          "days": "MTWR",
+          "enroll_code": "16402/A",
+          "enrollment": 13,
+          "instructor": "VILLANUEVA-NI",
+          "location": "GIRV 1116",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:05pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "CH ST 189",
+          "course_title": "IMMIG-US-MEX BORDER",
+          "days": "MTWR",
+          "enroll_code": "16477/B",
+          "enrollment": 26,
+          "instructor": "FERNANDEZ L",
+          "location": "PHELP1444",
+          "sections": [],
+          "status": "",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 15,
+          "course_id": "CH ST 199RA",
+          "course_title": "IND RESEARCH ASST",
+          "days": "",
+          "enroll_code": "01719",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 12,
+          "course_id": "CH ST 596",
+          "course_title": "DIR READ RESEARCH",
+          "days": "",
+          "enroll_code": "01727",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 12,
+          "course_id": "CH ST 597",
+          "course_title": "INDIV STD COMP EXAM",
+          "days": "",
+          "enroll_code": "01735",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 12,
+          "course_id": "CH ST 598",
+          "course_title": "MA RESEARCH PREP",
+          "days": "",
+          "enroll_code": "01743",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 12,
+          "course_id": "CH ST 599",
+          "course_title": "DISSERT RESEARCH",
+          "days": "",
+          "enroll_code": "01750",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Chicano Studies - CH ST"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:14:29.031073"
+}

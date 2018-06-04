@@ -1,0 +1,48 @@
+{
+  "20183": {
+    "ASTRO": {
+      "courses": [
+        {
+          "capacity": 100,
+          "course_id": "ASTRO 1",
+          "course_title": "BASIC ASTRONOMY",
+          "days": "MTW",
+          "enrollment": 45,
+          "instructor": "ANTONUCCI R R",
+          "location": "BRDA 1610",
+          "sections": [
+            {
+              "capacity": 50,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "01164/B",
+              "enrollment": 36,
+              "instructor": "",
+              "location": "SH 1430",
+              "status": "",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 50,
+              "course_id": "ASTRO 1",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "01172/B",
+              "enrollment": 9,
+              "instructor": "",
+              "location": "ARTS 1349",
+              "status": "",
+              "times": "11:00am - 12:20pm"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:50pm"
+        }
+      ],
+      "text": "Astronomy - ASTRO"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:13:07.581432"
+}

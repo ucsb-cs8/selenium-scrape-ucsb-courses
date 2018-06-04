@@ -1,0 +1,445 @@
+{
+  "20183": {
+    "CMPSC": {
+      "courses": [
+        {
+          "capacity": 75,
+          "course_id": "CMPSC 4",
+          "course_title": "CS BOOT CAMP",
+          "days": "TWR",
+          "enrollment": 85,
+          "instructor": "KOC C K",
+          "location": "PHELP1260",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "CMPSC 4",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "02683/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "CMPSC 4",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "02691/B",
+              "enrollment": 30,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "CMPSC 4",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "16519/B",
+              "enrollment": 28,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "3:30pm - 4:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 100,
+          "course_id": "CMPSC 8",
+          "course_title": "INTRO TO COMP SCI",
+          "days": "TWR",
+          "enrollment": 100,
+          "instructor": "KOC C K",
+          "location": "TD-W 1701",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "CMPSC 8",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "02717/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CMPSC 8",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "02725/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CMPSC 8",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "02733/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CMPSC 8",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "02741/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "CMPSC 8",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "16527/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "3:30pm - 4:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 3:20pm"
+        },
+        {
+          "capacity": 105,
+          "course_id": "CMPSC 8",
+          "course_title": "INTRO TO COMP SCI",
+          "days": "TWR",
+          "enrollment": 105,
+          "instructor": "T B A",
+          "location": "PSYCH1924",
+          "sections": [
+            {
+              "capacity": 26,
+              "course_id": "CMPSC 8",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "18507/B",
+              "enrollment": 26,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 26,
+              "course_id": "CMPSC 8",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "18515/B",
+              "enrollment": 26,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 26,
+              "course_id": "CMPSC 8",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "18523/B",
+              "enrollment": 26,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "CMPSC 8",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "18531/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "3:30pm - 4:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 70,
+          "course_id": "CMPSC 16",
+          "course_title": "PROBLEM SOLVING I",
+          "days": "T R",
+          "enrollment": 71,
+          "instructor": "WANG R K",
+          "location": "PHELP3526",
+          "sections": [
+            {
+              "capacity": 23,
+              "course_id": "CMPSC 16",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "02766/C",
+              "enrollment": 23,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "10:30am - 11:45am"
+            },
+            {
+              "capacity": 23,
+              "course_id": "CMPSC 16",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "02774/C",
+              "enrollment": 23,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "12:00pm - 1:15pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "CMPSC 16",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16535/C",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "1:30pm - 2:45pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 70,
+          "course_id": "CMPSC 40",
+          "course_title": "FOUNDATION COMP SCI",
+          "days": "TWR",
+          "enrollment": 51,
+          "instructor": "VAN DAM W",
+          "location": "PHELP3526",
+          "sections": [
+            {
+              "capacity": 35,
+              "course_id": "CMPSC 40",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "02790/B",
+              "enrollment": 35,
+              "instructor": "",
+              "location": "PHELP3526",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 35,
+              "course_id": "CMPSC 40",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "02808/B",
+              "enrollment": 16,
+              "instructor": "",
+              "location": "PHELP3526",
+              "status": "",
+              "times": "3:30pm - 4:50pm"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 59,
+          "course_id": "CMPSC 56",
+          "course_title": "ADV APP PROGRAM",
+          "days": "TWR",
+          "enrollment": 59,
+          "instructor": "CONRAD P T",
+          "location": "PHELP3526",
+          "sections": [
+            {
+              "capacity": 29,
+              "course_id": "CMPSC 56",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16493/B",
+              "enrollment": 29,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 30,
+              "course_id": "CMPSC 56",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "16501/B",
+              "enrollment": 30,
+              "instructor": "",
+              "location": "PHELP3525",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 5,
+          "course_id": "CMPSC 99",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "02816",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 35,
+          "course_id": "CMPSC 138",
+          "course_title": "AUT & FORML LANG",
+          "days": "TWR",
+          "enrollment": 34,
+          "instructor": "EGECIOGLU O",
+          "location": "PHELP2510",
+          "sections": [
+            {
+              "capacity": 35,
+              "course_id": "CMPSC 138",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "02832/B",
+              "enrollment": 34,
+              "instructor": "",
+              "location": "PHELP2510",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 10,
+          "course_id": "CMPSC 190J",
+          "course_title": "SP TOP: GENERAL",
+          "days": "T",
+          "enrollment": 1,
+          "instructor": "CONRAD P T",
+          "location": "PHELP3526",
+          "sections": [
+            {
+              "capacity": 10,
+              "course_id": "CMPSC 190J",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "18796/B",
+              "enrollment": 1,
+              "instructor": "CONRAD P T",
+              "location": "PHELP3525",
+              "status": "",
+              "times": "9:30 am - 12:20pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:20pm"
+        },
+        {
+          "capacity": 0,
+          "course_id": "CMPSC 192",
+          "course_title": "PROJECTS COMP SCI",
+          "days": "",
+          "enroll_code": "02840",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 35,
+          "course_id": "CMPSC 193",
+          "course_title": "INTERN IN INDUSTRY",
+          "days": "",
+          "enroll_code": "02857",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "CMPSC 196",
+          "course_title": "UNDERGRAD RESEARCH",
+          "days": "",
+          "enroll_code": "02865",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "CMPSC 596",
+          "course_title": "DIRECTED RESEARCH",
+          "days": "",
+          "enroll_code": "02873",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 40,
+          "course_id": "CMPSC 599",
+          "course_title": "PH.D DIS RES PREP",
+          "days": "",
+          "enroll_code": "02881",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Computer Science - CMPSC"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:15:34.758872"
+}

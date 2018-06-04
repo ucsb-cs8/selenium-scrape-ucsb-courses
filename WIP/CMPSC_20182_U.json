@@ -1,1 +1,987 @@
-[{"course_id": "CMPSC 8", "course_title": "INTRO TO COMP SCI", "status": "Full", "instructor": "CONRAD P T", "days": "T R", "times": "3:30pm - 4:45pm", "location": "CHEM 1171", "enrollment": 113, "capacity": 105, "sections": [{"course_id": "CMPSC 8", "course_title": "", "status": "Full", "enroll_code": "08037", "instructor": "DALEY C R", "days": "M", "times": "8:00 am - 8:50 am", "location": "PHELP3525", "enrollment": 28, "capacity": 26}, {"course_id": "CMPSC 8", "course_title": "", "status": "Full", "enroll_code": "08045", "instructor": "KOUPAEE M", "days": "M", "times": "9:00 am - 9:50 am", "location": "PHELP3525", "enrollment": 30, "capacity": 26}, {"course_id": "CMPSC 8", "course_title": "", "status": "Full", "enroll_code": "08052", "instructor": "MASUDA S Y", "days": "M", "times": "10:00am - 10:50am", "location": "PHELP3525", "enrollment": 28, "capacity": 26}, {"course_id": "CMPSC 8", "course_title": "", "status": "Full", "enroll_code": "08060", "instructor": "MASUDA S Y", "days": "M", "times": "11:00am - 11:50am", "location": "PHELP3525", "enrollment": 27, "capacity": 27}]}, {"course_id": "CMPSC 16", "course_title": "PROBLEM SOLVING I", "status": "Full", "instructor": "MATNI Z A", "days": "T R", "times": "2:00pm - 3:15pm", "location": "CHEM 1171", "enrollment": 107, "capacity": 105, "sections": [{"course_id": "CMPSC 16", "course_title": "", "status": "", "enroll_code": "08136", "instructor": "SHIYU J\nNAWAZ M M", "days": "W", "times": "8:00 am - 8:50 am", "location": "PHELP3525", "enrollment": 25, "capacity": 26}, {"course_id": "CMPSC 16", "course_title": "", "status": "Full", "enroll_code": "08144", "instructor": "NAWAZ M M\nSHIYU J", "days": "W", "times": "9:00 am - 9:50 am", "location": "PHELP3525", "enrollment": 27, "capacity": 26}, {"course_id": "CMPSC 16", "course_title": "", "status": "Full", "enroll_code": "08151", "instructor": "SHIYU J\nZHOU XIYOU", "days": "W", "times": "10:00am - 10:50am", "location": "PHELP3525", "enrollment": 28, "capacity": 26}, {"course_id": "CMPSC 16", "course_title": "", "status": "Full", "enroll_code": "50765", "instructor": "ZHOU XIYOU\nSHIYU J", "days": "W", "times": "11:00am - 11:50am", "location": "PHELP3525", "enrollment": 27, "capacity": 27}]}, {"course_id": "CMPSC 16", "course_title": "PROBLEM SOLVING I", "status": "Full", "instructor": "MIRZA D", "days": "M W", "times": "2:00pm - 3:15pm", "location": "CHEM 1171", "enrollment": 112, "capacity": 105, "sections": [{"course_id": "CMPSC 16", "course_title": "", "status": "Full", "enroll_code": "08177", "instructor": "CHEN YANJU", "days": "T", "times": "11:00am - 11:50am", "location": "PHELP3525", "enrollment": 27, "capacity": 26}, {"course_id": "CMPSC 16", "course_title": "", "status": "Full", "enroll_code": "08185", "instructor": "SCHWELLENBACH", "days": "T", "times": "12:00pm - 12:50pm", "location": "PHELP3525", "enrollment": 27, "capacity": 26}, {"course_id": "CMPSC 16", "course_title": "", "status": "Full", "enroll_code": "08193", "instructor": "SINGH H", "days": "T", "times": "1:00pm - 1:50pm", "location": "PHELP3525", "enrollment": 29, "capacity": 26}, {"course_id": "CMPSC 16", "course_title": "", "status": "Full", "enroll_code": "50773", "instructor": "SINGH H", "days": "T", "times": "2:00pm - 2:50pm", "location": "PHELP3525", "enrollment": 29, "capacity": 27}]}, {"course_id": "CMPSC 24", "course_title": "PROBLEM SOLVING II", "status": "Full", "instructor": "MIRZA D", "days": "M W", "times": "9:30 am - 10:45am", "location": "CHEM 1171", "enrollment": 105, "capacity": 105, "sections": [{"course_id": "CMPSC 24", "course_title": "", "status": "Full", "enroll_code": "08219", "instructor": "ALEXANDER J T", "days": "T", "times": "3:00pm - 3:50pm", "location": "PHELP3525", "enrollment": 29, "capacity": 26}, {"course_id": "CMPSC 24", "course_title": "", "status": "Full", "enroll_code": "08227", "instructor": "CHEN ZHIYU", "days": "T", "times": "4:00pm - 4:50pm", "location": "PHELP3525", "enrollment": 27, "capacity": 26}, {"course_id": "CMPSC 24", "course_title": "", "status": "Full", "enroll_code": "08235", "instructor": "SHAO J", "days": "T", "times": "5:00pm - 5:50pm", "location": "PHELP3525", "enrollment": 26, "capacity": 26}, {"course_id": "CMPSC 24", "course_title": "", "status": "", "enroll_code": "08243", "instructor": "SHAO J", "days": "T", "times": "6:00pm - 6:50pm", "location": "PHELP3525", "enrollment": 23, "capacity": 27}]}, {"course_id": "CMPSC 32", "course_title": "OBJ ORIENT DESIGN", "status": "Full", "instructor": "WANG R K", "days": "T R", "times": "12:30pm - 1:45pm", "location": "CHEM 1171", "enrollment": 120, "capacity": 105, "sections": [{"course_id": "CMPSC 32", "course_title": "", "status": "Full", "enroll_code": "08268", "instructor": "ZHAO Y", "days": "W", "times": "12:00pm - 12:50pm", "location": "PHELP3525", "enrollment": 31, "capacity": 26}, {"course_id": "CMPSC 32", "course_title": "", "status": "Full", "enroll_code": "08276", "instructor": "SAHAYARAJ S", "days": "W", "times": "1:00pm - 1:50pm", "location": "PHELP3525", "enrollment": 33, "capacity": 26}, {"course_id": "CMPSC 32", "course_title": "", "status": "Full", "enroll_code": "08284", "instructor": "WAN K", "days": "W", "times": "2:00pm - 2:50pm", "location": "PHELP3525", "enrollment": 29, "capacity": 26}, {"course_id": "CMPSC 32", "course_title": "", "status": "Full", "enroll_code": "08292", "instructor": "WAN K", "days": "W", "times": "3:00pm - 3:50pm", "location": "PHELP3525", "enrollment": 27, "capacity": 27}]}, {"course_id": "CMPSC 40", "course_title": "FOUNDATION COMP SCI", "status": "", "instructor": "SU J", "days": "T R", "times": "9:30 am - 10:45am", "location": "PSYCH1902", "enrollment": 72, "capacity": 75, "sections": [{"course_id": "CMPSC 40", "course_title": "", "status": "", "enroll_code": "50799", "instructor": "KIZILKALE C\nSHOWALTER E H", "days": "F", "times": "9:00 am - 9:50 am", "location": "GIRV 2129", "enrollment": 37, "capacity": 38}, {"course_id": "CMPSC 40", "course_title": "", "status": "", "enroll_code": "50807", "instructor": "SHOWALTER E H\nKIZILKALE C", "days": "F", "times": "10:00am - 10:50am", "location": "GIRV 2129", "enrollment": 35, "capacity": 37}]}, {"course_id": "CMPSC 48", "course_title": "COMP SCI PROJECT", "status": "", "instructor": "COSTANZO C", "days": "M W", "times": "12:30pm - 1:45pm", "location": "PSYCH1902", "enrollment": 66, "capacity": 75, "sections": [{"course_id": "CMPSC 48", "course_title": "", "status": "", "enroll_code": "08318", "instructor": "AMIRI M\nBRENNAN T S", "days": "F", "times": "11:00am - 11:50am", "location": "GIRV 2129", "enrollment": 29, "capacity": 38}, {"course_id": "CMPSC 48", "course_title": "", "status": "Full", "enroll_code": "08326", "instructor": "AMIRI M\nBRENNAN T S", "days": "F", "times": "12:00pm - 12:50pm", "location": "GIRV 2129", "enrollment": 37, "capacity": 37}]}, {"course_id": "CMPSC 64", "course_title": "COMP ORGANIZATION", "status": "Full", "instructor": "MATNI Z A", "days": "T R", "times": "11:00am - 12:15pm", "location": "PSYCH1902", "enrollment": 75, "capacity": 65, "sections": [{"course_id": "CMPSC 64", "course_title": "", "status": "Full", "enroll_code": "50823", "instructor": "BAKIR M\nB Y H", "days": "M", "times": "2:00pm - 2:50pm", "location": "PHELP3525", "enrollment": 25, "capacity": 25}, {"course_id": "CMPSC 64", "course_title": "", "status": "Full", "enroll_code": "50831", "instructor": "B Y H\nBAKIR M", "days": "M", "times": "3:00pm - 3:50pm", "location": "PHELP3525", "enrollment": 25, "capacity": 25}, {"course_id": "CMPSC 64", "course_title": "", "status": "Full", "enroll_code": "50849", "instructor": "BAKIR M\nB Y H", "days": "M", "times": "4:00pm - 4:50pm", "location": "PHELP3525", "enrollment": 25, "capacity": 25}, {"course_id": "CMPSC 99", "course_title": "INDEPENDENT STUDIES", "status": "Full", "enroll_code": "08334", "instructor": "T B A", "days": "", "times": "", "location": "T B A", "enrollment": 0, "capacity": 0}]}, {"course_id": "CMPSC 130A", "course_title": "DATA STRUCT ALGOR", "status": "", "instructor": "SINGH A K", "days": "T R", "times": "9:30 am - 10:45am", "location": "SH 1431", "enrollment": 63, "capacity": 90, "sections": [{"course_id": "CMPSC 130A", "course_title": "", "status": "", "enroll_code": "08359", "instructor": "ELEFTHERIOU L", "days": "F", "times": "10:00am - 10:50am", "location": "387 103", "enrollment": 27, "capacity": 40}, {"course_id": "CMPSC 130A", "course_title": "", "status": "", "enroll_code": "08367", "instructor": "HIREMATH N", "days": "F", "times": "11:00am - 11:50am", "location": "387 103", "enrollment": 30, "capacity": 40}, {"course_id": "CMPSC 130A", "course_title": "", "status": "", "enroll_code": "74856", "instructor": "MARAM S", "days": "F", "times": "2:00pm - 2:50pm", "location": "PHELP2510", "enrollment": 6, "capacity": 10}]}, {"course_id": "CMPSC 130B", "course_title": "DATA STRUCT ALG II", "status": "", "instructor": "SURI S", "days": "T R", "times": "9:30 am - 10:45am", "location": "CHEM 1171", "enrollment": 102, "capacity": 105, "sections": [{"course_id": "CMPSC 130B", "course_title": "", "status": "Full", "enroll_code": "08383", "instructor": "NEKRASOV M S", "days": "F", "times": "11:00am - 11:50am", "location": "PHELP1444", "enrollment": 36, "capacity": 35}, {"course_id": "CMPSC 130B", "course_title": "", "status": "Full", "enroll_code": "08391", "instructor": "HALLGRIMSSON", "days": "F", "times": "12:00pm - 12:50pm", "location": "PHELP1448", "enrollment": 35, "capacity": 35}, {"course_id": "CMPSC 130B", "course_title": "", "status": "", "enroll_code": "50856", "instructor": "KUMAR N", "days": "F", "times": "1:00pm - 1:50pm", "location": "PHELP1440", "enrollment": 31, "capacity": 35}]}, {"course_id": "CMPSC 138", "course_title": "AUT & FORML LANG", "status": "", "instructor": "TESSARO S M", "days": "M W", "times": "2:00pm - 3:15pm", "location": "SH 1431", "enrollment": 84, "capacity": 95, "sections": [{"course_id": "CMPSC 138", "course_title": "", "status": "", "enroll_code": "08417", "instructor": "ZHOLBARYSSOV", "days": "F", "times": "9:00 am - 9:50 am", "location": "PHELP2516", "enrollment": 44, "capacity": 49}, {"course_id": "CMPSC 138", "course_title": "", "status": "", "enroll_code": "08425", "instructor": "KADRON I B", "days": "F", "times": "10:00am - 10:50am", "location": "GIRV 1116", "enrollment": 40, "capacity": 46}]}, {"course_id": "CMPSC 154", "course_title": "COMPUTER ARCHITECT", "status": "", "instructor": "KOC C K", "days": "M W", "times": "12:30pm - 1:45pm", "location": "BRDA 1640", "enrollment": 74, "capacity": 80, "sections": [{"course_id": "CMPSC 154", "course_title": "", "status": "", "enroll_code": "08441", "instructor": "EIERS W J", "days": "R", "times": "3:00pm - 3:50pm", "location": "PHELP3525", "enrollment": 26, "capacity": 30}, {"course_id": "CMPSC 154", "course_title": "", "status": "", "enroll_code": "08458", "instructor": "SHUKLA P", "days": "R", "times": "4:00pm - 4:50pm", "location": "PHELP3525", "enrollment": 29, "capacity": 30}, {"course_id": "CMPSC 154", "course_title": "", "status": "", "enroll_code": "08466", "instructor": "SHUKLA P", "days": "R", "times": "5:00pm - 5:50pm", "location": "PHELP3525", "enrollment": 19, "capacity": 20}]}, {"course_id": "CMPSC 160", "course_title": "TRANS PROG LANG", "status": "", "instructor": "HARDEKOPF B C", "days": "M W", "times": "2:00pm - 3:15pm", "location": "PHELP1260", "enrollment": 55, "capacity": 90, "sections": [{"course_id": "CMPSC 160", "course_title": "", "status": "", "enroll_code": "08490", "instructor": "SEEMANTA S\nSTOJANOVIC N", "days": "T", "times": "5:00pm - 6:50pm", "location": "PHELP3526", "enrollment": 55, "capacity": 90}, {"course_id": "CMPSC 160", "course_title": "", "status": "Cancelled", "enroll_code": "50864", "instructor": "", "days": "T", "times": "6:00pm - 6:50pm", "location": "GIRV 1112", "enrollment": 0, "capacity": 45}]}, {"course_id": "CMPSC 165B", "course_title": "MACHINE LEARNING", "status": "", "instructor": "WANG Y W", "days": "T R", "times": "11:00am - 12:15pm", "location": "CHEM 1171", "enrollment": 101, "capacity": 105, "sections": [{"course_id": "CMPSC 165B", "course_title": "", "status": "Full", "enroll_code": "08540", "instructor": "DING YI", "days": "T", "times": "4:00pm - 4:50pm", "location": "GIRV 2108", "enrollment": 38, "capacity": 37}, {"course_id": "CMPSC 165B", "course_title": "", "status": "", "enroll_code": "08557", "instructor": "DING YI", "days": "T", "times": "5:00pm - 5:50pm", "location": "PHELP1445", "enrollment": 32, "capacity": 35}, {"course_id": "CMPSC 165B", "course_title": "", "status": "", "enroll_code": "50872", "instructor": "DING YI", "days": "T", "times": "6:00pm - 6:50pm", "location": "PHELP1445", "enrollment": 31, "capacity": 33}]}, {"course_id": "CMPSC 170", "course_title": "OPERATING SYSTEMS", "status": "Full", "instructor": "YANG T", "days": "T R", "times": "2:00pm - 3:15pm", "location": "SH 1431", "enrollment": 88, "capacity": 80, "sections": [{"course_id": "CMPSC 170", "course_title": "", "status": "Full", "enroll_code": "08573", "instructor": "AGUN D M\nEASTERMAN J A", "days": "R", "times": "5:00pm - 5:50pm", "location": "GIRV 2112", "enrollment": 46, "capacity": 45}, {"course_id": "CMPSC 170", "course_title": "", "status": "Full", "enroll_code": "08581", "instructor": "EASTERMAN J A\nAGUN D M", "days": "R", "times": "6:00pm - 6:50pm", "location": "GIRV 1116", "enrollment": 42, "capacity": 40}]}, {"course_id": "CMPSC 171", "course_title": "DISTRD SYSTEMS", "status": "", "instructor": "EL ABBADI A", "days": "M W", "times": "11:00am - 12:15pm", "location": "HSSB 1174", "enrollment": 73, "capacity": 80, "sections": [{"course_id": "CMPSC 171", "course_title": "", "status": "", "enroll_code": "08607", "instructor": "FENG B\nMAIYYA S A", "days": "F", "times": "10:00am - 10:50am", "location": "387 104", "enrollment": 36, "capacity": 40}, {"course_id": "CMPSC 171", "course_title": "", "status": "", "enroll_code": "08615", "instructor": "MAIYYA S A\nFENG B", "days": "F", "times": "11:00am - 11:50am", "location": "387 104", "enrollment": 37, "capacity": 40}]}, {"course_id": "CMPSC 176A", "course_title": "COMP COMM NETWORKS", "status": "", "instructor": "ALMEROTH K C", "days": "T R", "times": "12:30pm - 1:45pm", "location": "WEBB 1100", "enrollment": 69, "capacity": 88, "sections": [{"course_id": "CMPSC 176A", "course_title": "", "status": "", "enroll_code": "08631", "instructor": "ADARSH V\nZHANG D", "days": "W", "times": "5:00pm - 5:50pm", "location": "GIRV 2129", "enrollment": 38, "capacity": 44}, {"course_id": "CMPSC 176A", "course_title": "", "status": "", "enroll_code": "08649", "instructor": "ZHANG D\nADARSH V", "days": "W", "times": "6:00pm - 6:50pm", "location": "GIRV 2129", "enrollment": 31, "capacity": 44}]}, {"course_id": "CMPSC 178", "course_title": "INTRO CRYPTOGRAPHY", "status": "", "instructor": "LIN HUIJIA", "days": "M W", "times": "9:30 am - 10:45am", "location": "PHELP3505", "enrollment": 42, "capacity": 66, "sections": [{"course_id": "CMPSC 178", "course_title": "", "status": "", "enroll_code": "50898", "instructor": "BURK K T\nIBRAHIM A", "days": "F", "times": "9:00 am - 9:50 am", "location": "PHELP2510", "enrollment": 24, "capacity": 33}, {"course_id": "CMPSC 178", "course_title": "", "status": "", "enroll_code": "50906", "instructor": "IBRAHIM A\nBURK K T", "days": "F", "times": "10:00am - 10:50am", "location": "PHELP2510", "enrollment": 18, "capacity": 33}, {"course_id": "CMPSC 185", "course_title": "HUM-COMP INTERACT", "status": "", "enroll_code": "59337", "instructor": "O'DONOVAN J", "days": "T R", "times": "9:00 am - 10:50am", "location": "PHELP3526", "enrollment": 28, "capacity": 30}]}, {"course_id": "CMPSC 190J", "course_title": "SP TOP: GENERAL", "status": "", "instructor": "CONRAD P T\nWANG R K\nMIRZA D", "days": "R", "times": "9:30 am - 10:45am", "location": "HFH 1152", "enrollment": 8, "capacity": 20, "sections": [{"course_id": "CMPSC 190J", "course_title": "", "status": "", "enroll_code": "59840", "instructor": "CONRAD P T", "days": "M", "times": "9:00 am - 11:50am", "location": "PHELP3525", "enrollment": 2, "capacity": 5}, {"course_id": "CMPSC 190J", "course_title": "", "status": "", "enroll_code": "59857", "instructor": "MIRZA D", "days": "T", "times": "1:00pm - 3:50pm", "location": "PHELP3525", "enrollment": 3, "capacity": 5}, {"course_id": "CMPSC 190J", "course_title": "", "status": "", "enroll_code": "59865", "instructor": "MIRZA D", "days": "T", "times": "2:00pm - 4:50pm", "location": "PHELP3525", "enrollment": 2, "capacity": 5}, {"course_id": "CMPSC 190J", "course_title": "", "status": "", "enroll_code": "59873", "instructor": "WANG R K", "days": "W", "times": "12:00pm - 2:50pm", "location": "PHELP3525", "enrollment": 1, "capacity": 5}, {"course_id": "CMPSC 192", "course_title": "PROJECTS COMP SCI", "status": "", "enroll_code": "08706", "instructor": "T B A", "days": "", "times": "", "location": "T B A", "enrollment": 0, "capacity": 20}, {"course_id": "CMPSC 193", "course_title": "INTERN IN INDUSTRY", "status": "", "enroll_code": "08714", "instructor": "T B A", "days": "", "times": "", "location": "T B A", "enrollment": 0, "capacity": 5}, {"course_id": "CMPSC 196", "course_title": "UNDERGRAD RESEARCH", "status": "", "enroll_code": "08722", "instructor": "T B A", "days": "", "times": "", "location": "T B A", "enrollment": 0, "capacity": 10}, {"course_id": "CMPSC 199", "course_title": "IND STUD COMP SCI", "status": "", "enroll_code": "08730", "instructor": "T B A", "days": "", "times": "", "location": "T B A", "enrollment": 0, "capacity": 5}]}]
+[
+  {
+    "capacity": 105,
+    "course_id": "CMPSC 8",
+    "course_title": "INTRO TO COMP SCI",
+    "days": "T R",
+    "enrollment": 113,
+    "instructor": "CONRAD P T",
+    "location": "CHEM 1171",
+    "sections": [
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 8",
+        "course_title": "",
+        "days": "M",
+        "enroll_code": "08037",
+        "enrollment": 28,
+        "instructor": "DALEY C R",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "8:00 am - 8:50 am"
+      },
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 8",
+        "course_title": "",
+        "days": "M",
+        "enroll_code": "08045",
+        "enrollment": 30,
+        "instructor": "KOUPAEE M",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "9:00 am - 9:50 am"
+      },
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 8",
+        "course_title": "",
+        "days": "M",
+        "enroll_code": "08052",
+        "enrollment": 28,
+        "instructor": "MASUDA S Y",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "10:00am - 10:50am"
+      },
+      {
+        "capacity": 27,
+        "course_id": "CMPSC 8",
+        "course_title": "",
+        "days": "M",
+        "enroll_code": "08060",
+        "enrollment": 27,
+        "instructor": "MASUDA S Y",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "11:00am - 11:50am"
+      }
+    ],
+    "status": "Full",
+    "times": "3:30pm - 4:45pm"
+  },
+  {
+    "capacity": 105,
+    "course_id": "CMPSC 16",
+    "course_title": "PROBLEM SOLVING I",
+    "days": "T R",
+    "enrollment": 105,
+    "instructor": "MATNI Z A",
+    "location": "CHEM 1171",
+    "sections": [
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 16",
+        "course_title": "",
+        "days": "W",
+        "enroll_code": "08136",
+        "enrollment": 24,
+        "instructor": "SHIYU J\nNAWAZ M M",
+        "location": "PHELP3525",
+        "status": "",
+        "times": "8:00 am - 8:50 am"
+      },
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 16",
+        "course_title": "",
+        "days": "W",
+        "enroll_code": "08144",
+        "enrollment": 26,
+        "instructor": "NAWAZ M M\nSHIYU J",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "9:00 am - 9:50 am"
+      },
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 16",
+        "course_title": "",
+        "days": "W",
+        "enroll_code": "08151",
+        "enrollment": 28,
+        "instructor": "SHIYU J\nZHOU XIYOU",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "10:00am - 10:50am"
+      },
+      {
+        "capacity": 27,
+        "course_id": "CMPSC 16",
+        "course_title": "",
+        "days": "W",
+        "enroll_code": "50765",
+        "enrollment": 27,
+        "instructor": "ZHOU XIYOU\nSHIYU J",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "11:00am - 11:50am"
+      }
+    ],
+    "status": "Full",
+    "times": "2:00pm - 3:15pm"
+  },
+  {
+    "capacity": 105,
+    "course_id": "CMPSC 16",
+    "course_title": "PROBLEM SOLVING I",
+    "days": "M W",
+    "enrollment": 112,
+    "instructor": "MIRZA D",
+    "location": "CHEM 1171",
+    "sections": [
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 16",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "08177",
+        "enrollment": 27,
+        "instructor": "CHEN YANJU",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "11:00am - 11:50am"
+      },
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 16",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "08185",
+        "enrollment": 27,
+        "instructor": "SCHWELLENBACH",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "12:00pm - 12:50pm"
+      },
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 16",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "08193",
+        "enrollment": 29,
+        "instructor": "SINGH H",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "1:00pm - 1:50pm"
+      },
+      {
+        "capacity": 27,
+        "course_id": "CMPSC 16",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "50773",
+        "enrollment": 29,
+        "instructor": "SINGH H",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "2:00pm - 2:50pm"
+      }
+    ],
+    "status": "Full",
+    "times": "2:00pm - 3:15pm"
+  },
+  {
+    "capacity": 105,
+    "course_id": "CMPSC 24",
+    "course_title": "PROBLEM SOLVING II",
+    "days": "M W",
+    "enrollment": 105,
+    "instructor": "MIRZA D",
+    "location": "CHEM 1171",
+    "sections": [
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 24",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "08219",
+        "enrollment": 29,
+        "instructor": "ALEXANDER J T",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "3:00pm - 3:50pm"
+      },
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 24",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "08227",
+        "enrollment": 27,
+        "instructor": "CHEN ZHIYU",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "4:00pm - 4:50pm"
+      },
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 24",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "08235",
+        "enrollment": 26,
+        "instructor": "SHAO J",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "5:00pm - 5:50pm"
+      },
+      {
+        "capacity": 27,
+        "course_id": "CMPSC 24",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "08243",
+        "enrollment": 23,
+        "instructor": "SHAO J",
+        "location": "PHELP3525",
+        "status": "",
+        "times": "6:00pm - 6:50pm"
+      }
+    ],
+    "status": "Full",
+    "times": "9:30 am - 10:45am"
+  },
+  {
+    "capacity": 105,
+    "course_id": "CMPSC 32",
+    "course_title": "OBJ ORIENT DESIGN",
+    "days": "T R",
+    "enrollment": 120,
+    "instructor": "WANG R K",
+    "location": "CHEM 1171",
+    "sections": [
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 32",
+        "course_title": "",
+        "days": "W",
+        "enroll_code": "08268",
+        "enrollment": 31,
+        "instructor": "ZHAO Y",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "12:00pm - 12:50pm"
+      },
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 32",
+        "course_title": "",
+        "days": "W",
+        "enroll_code": "08276",
+        "enrollment": 33,
+        "instructor": "SAHAYARAJ S",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "1:00pm - 1:50pm"
+      },
+      {
+        "capacity": 26,
+        "course_id": "CMPSC 32",
+        "course_title": "",
+        "days": "W",
+        "enroll_code": "08284",
+        "enrollment": 29,
+        "instructor": "WAN K",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "2:00pm - 2:50pm"
+      },
+      {
+        "capacity": 27,
+        "course_id": "CMPSC 32",
+        "course_title": "",
+        "days": "W",
+        "enroll_code": "08292",
+        "enrollment": 27,
+        "instructor": "WAN K",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "3:00pm - 3:50pm"
+      }
+    ],
+    "status": "Full",
+    "times": "12:30pm - 1:45pm"
+  },
+  {
+    "capacity": 75,
+    "course_id": "CMPSC 40",
+    "course_title": "FOUNDATION COMP SCI",
+    "days": "T R",
+    "enrollment": 72,
+    "instructor": "SU J",
+    "location": "PSYCH1902",
+    "sections": [
+      {
+        "capacity": 38,
+        "course_id": "CMPSC 40",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "50799",
+        "enrollment": 37,
+        "instructor": "KIZILKALE C\nSHOWALTER E H",
+        "location": "GIRV 2129",
+        "status": "",
+        "times": "9:00 am - 9:50 am"
+      },
+      {
+        "capacity": 37,
+        "course_id": "CMPSC 40",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "50807",
+        "enrollment": 35,
+        "instructor": "SHOWALTER E H\nKIZILKALE C",
+        "location": "GIRV 2129",
+        "status": "",
+        "times": "10:00am - 10:50am"
+      }
+    ],
+    "status": "",
+    "times": "9:30 am - 10:45am"
+  },
+  {
+    "capacity": 75,
+    "course_id": "CMPSC 48",
+    "course_title": "COMP SCI PROJECT",
+    "days": "M W",
+    "enrollment": 66,
+    "instructor": "COSTANZO C",
+    "location": "PSYCH1902",
+    "sections": [
+      {
+        "capacity": 38,
+        "course_id": "CMPSC 48",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "08318",
+        "enrollment": 29,
+        "instructor": "AMIRI M\nBRENNAN T S",
+        "location": "GIRV 2129",
+        "status": "",
+        "times": "11:00am - 11:50am"
+      },
+      {
+        "capacity": 37,
+        "course_id": "CMPSC 48",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "08326",
+        "enrollment": 37,
+        "instructor": "AMIRI M\nBRENNAN T S",
+        "location": "GIRV 2129",
+        "status": "Full",
+        "times": "12:00pm - 12:50pm"
+      }
+    ],
+    "status": "",
+    "times": "12:30pm - 1:45pm"
+  },
+  {
+    "capacity": 65,
+    "course_id": "CMPSC 64",
+    "course_title": "COMP ORGANIZATION",
+    "days": "T R",
+    "enrollment": 74,
+    "instructor": "MATNI Z A",
+    "location": "PSYCH1902",
+    "sections": [
+      {
+        "capacity": 25,
+        "course_id": "CMPSC 64",
+        "course_title": "",
+        "days": "M",
+        "enroll_code": "50823",
+        "enrollment": 25,
+        "instructor": "BAKIR M\nB Y H",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "2:00pm - 2:50pm"
+      },
+      {
+        "capacity": 25,
+        "course_id": "CMPSC 64",
+        "course_title": "",
+        "days": "M",
+        "enroll_code": "50831",
+        "enrollment": 24,
+        "instructor": "B Y H\nBAKIR M",
+        "location": "PHELP3525",
+        "status": "",
+        "times": "3:00pm - 3:50pm"
+      },
+      {
+        "capacity": 25,
+        "course_id": "CMPSC 64",
+        "course_title": "",
+        "days": "M",
+        "enroll_code": "50849",
+        "enrollment": 25,
+        "instructor": "BAKIR M\nB Y H",
+        "location": "PHELP3525",
+        "status": "Full",
+        "times": "4:00pm - 4:50pm"
+      }
+    ],
+    "status": "Full",
+    "times": "11:00am - 12:15pm"
+  },
+  {
+    "capacity": 0,
+    "course_id": "CMPSC 99",
+    "course_title": "INDEPENDENT STUDIES",
+    "days": "",
+    "enroll_code": "08334",
+    "enrollment": 0,
+    "instructor": "T B A",
+    "location": "T B A",
+    "sections": [],
+    "status": "Full",
+    "times": ""
+  },
+  {
+    "capacity": 90,
+    "course_id": "CMPSC 130A",
+    "course_title": "DATA STRUCT ALGOR",
+    "days": "T R",
+    "enrollment": 60,
+    "instructor": "SINGH A K",
+    "location": "SH 1431",
+    "sections": [
+      {
+        "capacity": 40,
+        "course_id": "CMPSC 130A",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "08359",
+        "enrollment": 24,
+        "instructor": "ELEFTHERIOU L",
+        "location": "387 103",
+        "status": "",
+        "times": "10:00am - 10:50am"
+      },
+      {
+        "capacity": 40,
+        "course_id": "CMPSC 130A",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "08367",
+        "enrollment": 30,
+        "instructor": "HIREMATH N",
+        "location": "387 103",
+        "status": "",
+        "times": "11:00am - 11:50am"
+      },
+      {
+        "capacity": 10,
+        "course_id": "CMPSC 130A",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "74856",
+        "enrollment": 6,
+        "instructor": "MARAM S",
+        "location": "PHELP2510",
+        "status": "",
+        "times": "2:00pm - 2:50pm"
+      }
+    ],
+    "status": "",
+    "times": "9:30 am - 10:45am"
+  },
+  {
+    "capacity": 105,
+    "course_id": "CMPSC 130B",
+    "course_title": "DATA STRUCT ALG II",
+    "days": "T R",
+    "enrollment": 102,
+    "instructor": "SURI S",
+    "location": "CHEM 1171",
+    "sections": [
+      {
+        "capacity": 35,
+        "course_id": "CMPSC 130B",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "08383",
+        "enrollment": 36,
+        "instructor": "NEKRASOV M S",
+        "location": "PHELP1444",
+        "status": "Full",
+        "times": "11:00am - 11:50am"
+      },
+      {
+        "capacity": 35,
+        "course_id": "CMPSC 130B",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "08391",
+        "enrollment": 35,
+        "instructor": "HALLGRIMSSON",
+        "location": "PHELP1448",
+        "status": "Full",
+        "times": "12:00pm - 12:50pm"
+      },
+      {
+        "capacity": 35,
+        "course_id": "CMPSC 130B",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "50856",
+        "enrollment": 31,
+        "instructor": "KUMAR N",
+        "location": "PHELP1440",
+        "status": "",
+        "times": "1:00pm - 1:50pm"
+      }
+    ],
+    "status": "",
+    "times": "9:30 am - 10:45am"
+  },
+  {
+    "capacity": 95,
+    "course_id": "CMPSC 138",
+    "course_title": "AUT & FORML LANG",
+    "days": "M W",
+    "enrollment": 83,
+    "instructor": "TESSARO S M",
+    "location": "SH 1431",
+    "sections": [
+      {
+        "capacity": 49,
+        "course_id": "CMPSC 138",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "08417",
+        "enrollment": 44,
+        "instructor": "ZHOLBARYSSOV",
+        "location": "PHELP2516",
+        "status": "",
+        "times": "9:00 am - 9:50 am"
+      },
+      {
+        "capacity": 46,
+        "course_id": "CMPSC 138",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "08425",
+        "enrollment": 39,
+        "instructor": "KADRON I B",
+        "location": "GIRV 1116",
+        "status": "",
+        "times": "10:00am - 10:50am"
+      }
+    ],
+    "status": "",
+    "times": "2:00pm - 3:15pm"
+  },
+  {
+    "capacity": 80,
+    "course_id": "CMPSC 154",
+    "course_title": "COMPUTER ARCHITECT",
+    "days": "M W",
+    "enrollment": 74,
+    "instructor": "KOC C K",
+    "location": "BRDA 1640",
+    "sections": [
+      {
+        "capacity": 30,
+        "course_id": "CMPSC 154",
+        "course_title": "",
+        "days": "R",
+        "enroll_code": "08441",
+        "enrollment": 26,
+        "instructor": "EIERS W J",
+        "location": "PHELP3525",
+        "status": "",
+        "times": "3:00pm - 3:50pm"
+      },
+      {
+        "capacity": 30,
+        "course_id": "CMPSC 154",
+        "course_title": "",
+        "days": "R",
+        "enroll_code": "08458",
+        "enrollment": 29,
+        "instructor": "SHUKLA P",
+        "location": "PHELP3525",
+        "status": "",
+        "times": "4:00pm - 4:50pm"
+      },
+      {
+        "capacity": 20,
+        "course_id": "CMPSC 154",
+        "course_title": "",
+        "days": "R",
+        "enroll_code": "08466",
+        "enrollment": 19,
+        "instructor": "SHUKLA P",
+        "location": "PHELP3525",
+        "status": "",
+        "times": "5:00pm - 5:50pm"
+      }
+    ],
+    "status": "",
+    "times": "12:30pm - 1:45pm"
+  },
+  {
+    "capacity": 90,
+    "course_id": "CMPSC 160",
+    "course_title": "TRANS PROG LANG",
+    "days": "M W",
+    "enrollment": 55,
+    "instructor": "HARDEKOPF B C",
+    "location": "PHELP1260",
+    "sections": [
+      {
+        "capacity": 90,
+        "course_id": "CMPSC 160",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "08490",
+        "enrollment": 55,
+        "instructor": "SEEMANTA S\nSTOJANOVIC N",
+        "location": "PHELP3526",
+        "status": "",
+        "times": "5:00pm - 6:50pm"
+      },
+      {
+        "capacity": 45,
+        "course_id": "CMPSC 160",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "50864",
+        "enrollment": 0,
+        "instructor": "",
+        "location": "GIRV 1112",
+        "status": "Cancelled",
+        "times": "6:00pm - 6:50pm"
+      }
+    ],
+    "status": "",
+    "times": "2:00pm - 3:15pm"
+  },
+  {
+    "capacity": 105,
+    "course_id": "CMPSC 165B",
+    "course_title": "MACHINE LEARNING",
+    "days": "T R",
+    "enrollment": 99,
+    "instructor": "WANG Y W",
+    "location": "CHEM 1171",
+    "sections": [
+      {
+        "capacity": 37,
+        "course_id": "CMPSC 165B",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "08540",
+        "enrollment": 38,
+        "instructor": "DING YI",
+        "location": "GIRV 2108",
+        "status": "Full",
+        "times": "4:00pm - 4:50pm"
+      },
+      {
+        "capacity": 35,
+        "course_id": "CMPSC 165B",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "08557",
+        "enrollment": 30,
+        "instructor": "DING YI",
+        "location": "PHELP1445",
+        "status": "",
+        "times": "5:00pm - 5:50pm"
+      },
+      {
+        "capacity": 33,
+        "course_id": "CMPSC 165B",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "50872",
+        "enrollment": 31,
+        "instructor": "DING YI",
+        "location": "PHELP1445",
+        "status": "",
+        "times": "6:00pm - 6:50pm"
+      }
+    ],
+    "status": "",
+    "times": "11:00am - 12:15pm"
+  },
+  {
+    "capacity": 80,
+    "course_id": "CMPSC 170",
+    "course_title": "OPERATING SYSTEMS",
+    "days": "T R",
+    "enrollment": 88,
+    "instructor": "YANG T",
+    "location": "SH 1431",
+    "sections": [
+      {
+        "capacity": 45,
+        "course_id": "CMPSC 170",
+        "course_title": "",
+        "days": "R",
+        "enroll_code": "08573",
+        "enrollment": 46,
+        "instructor": "AGUN D M\nEASTERMAN J A",
+        "location": "GIRV 2112",
+        "status": "Full",
+        "times": "5:00pm - 5:50pm"
+      },
+      {
+        "capacity": 40,
+        "course_id": "CMPSC 170",
+        "course_title": "",
+        "days": "R",
+        "enroll_code": "08581",
+        "enrollment": 42,
+        "instructor": "EASTERMAN J A\nAGUN D M",
+        "location": "GIRV 1116",
+        "status": "Full",
+        "times": "6:00pm - 6:50pm"
+      }
+    ],
+    "status": "Full",
+    "times": "2:00pm - 3:15pm"
+  },
+  {
+    "capacity": 80,
+    "course_id": "CMPSC 171",
+    "course_title": "DISTRD SYSTEMS",
+    "days": "M W",
+    "enrollment": 73,
+    "instructor": "EL ABBADI A",
+    "location": "HSSB 1174",
+    "sections": [
+      {
+        "capacity": 40,
+        "course_id": "CMPSC 171",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "08607",
+        "enrollment": 36,
+        "instructor": "FENG B\nMAIYYA S A",
+        "location": "387 104",
+        "status": "",
+        "times": "10:00am - 10:50am"
+      },
+      {
+        "capacity": 40,
+        "course_id": "CMPSC 171",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "08615",
+        "enrollment": 37,
+        "instructor": "MAIYYA S A\nFENG B",
+        "location": "387 104",
+        "status": "",
+        "times": "11:00am - 11:50am"
+      }
+    ],
+    "status": "",
+    "times": "11:00am - 12:15pm"
+  },
+  {
+    "capacity": 88,
+    "course_id": "CMPSC 176A",
+    "course_title": "COMP COMM NETWORKS",
+    "days": "T R",
+    "enrollment": 69,
+    "instructor": "ALMEROTH K C",
+    "location": "WEBB 1100",
+    "sections": [
+      {
+        "capacity": 44,
+        "course_id": "CMPSC 176A",
+        "course_title": "",
+        "days": "W",
+        "enroll_code": "08631",
+        "enrollment": 38,
+        "instructor": "ADARSH V\nZHANG D",
+        "location": "GIRV 2129",
+        "status": "",
+        "times": "5:00pm - 5:50pm"
+      },
+      {
+        "capacity": 44,
+        "course_id": "CMPSC 176A",
+        "course_title": "",
+        "days": "W",
+        "enroll_code": "08649",
+        "enrollment": 31,
+        "instructor": "ZHANG D\nADARSH V",
+        "location": "GIRV 2129",
+        "status": "",
+        "times": "6:00pm - 6:50pm"
+      }
+    ],
+    "status": "",
+    "times": "12:30pm - 1:45pm"
+  },
+  {
+    "capacity": 66,
+    "course_id": "CMPSC 178",
+    "course_title": "INTRO CRYPTOGRAPHY",
+    "days": "M W",
+    "enrollment": 41,
+    "instructor": "LIN HUIJIA",
+    "location": "PHELP3505",
+    "sections": [
+      {
+        "capacity": 33,
+        "course_id": "CMPSC 178",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "50898",
+        "enrollment": 24,
+        "instructor": "BURK K T\nIBRAHIM A",
+        "location": "PHELP2510",
+        "status": "",
+        "times": "9:00 am - 9:50 am"
+      },
+      {
+        "capacity": 33,
+        "course_id": "CMPSC 178",
+        "course_title": "",
+        "days": "F",
+        "enroll_code": "50906",
+        "enrollment": 17,
+        "instructor": "IBRAHIM A\nBURK K T",
+        "location": "PHELP2510",
+        "status": "",
+        "times": "10:00am - 10:50am"
+      }
+    ],
+    "status": "",
+    "times": "9:30 am - 10:45am"
+  },
+  {
+    "capacity": 30,
+    "course_id": "CMPSC 185",
+    "course_title": "HUM-COMP INTERACT",
+    "days": "T R",
+    "enroll_code": "59337",
+    "enrollment": 26,
+    "instructor": "O'DONOVAN J",
+    "location": "PHELP3526",
+    "sections": [],
+    "status": "",
+    "times": "9:00 am - 10:50am"
+  },
+  {
+    "capacity": 20,
+    "course_id": "CMPSC 190J",
+    "course_title": "SP TOP: GENERAL",
+    "days": "R",
+    "enrollment": 8,
+    "instructor": "CONRAD P T\nWANG R K\nMIRZA D",
+    "location": "HFH 1152",
+    "sections": [
+      {
+        "capacity": 5,
+        "course_id": "CMPSC 190J",
+        "course_title": "",
+        "days": "M",
+        "enroll_code": "59840",
+        "enrollment": 2,
+        "instructor": "CONRAD P T",
+        "location": "PHELP3525",
+        "status": "",
+        "times": "9:00 am - 11:50am"
+      },
+      {
+        "capacity": 5,
+        "course_id": "CMPSC 190J",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "59857",
+        "enrollment": 3,
+        "instructor": "MIRZA D",
+        "location": "PHELP3525",
+        "status": "",
+        "times": "1:00pm - 3:50pm"
+      },
+      {
+        "capacity": 5,
+        "course_id": "CMPSC 190J",
+        "course_title": "",
+        "days": "T",
+        "enroll_code": "59865",
+        "enrollment": 2,
+        "instructor": "MIRZA D",
+        "location": "PHELP3525",
+        "status": "",
+        "times": "2:00pm - 4:50pm"
+      },
+      {
+        "capacity": 5,
+        "course_id": "CMPSC 190J",
+        "course_title": "",
+        "days": "W",
+        "enroll_code": "59873",
+        "enrollment": 1,
+        "instructor": "WANG R K",
+        "location": "PHELP3525",
+        "status": "",
+        "times": "12:00pm - 2:50pm"
+      }
+    ],
+    "status": "",
+    "times": "9:30 am - 10:45am"
+  },
+  {
+    "capacity": 20,
+    "course_id": "CMPSC 192",
+    "course_title": "PROJECTS COMP SCI",
+    "days": "",
+    "enroll_code": "08706",
+    "enrollment": 0,
+    "instructor": "T B A",
+    "location": "T B A",
+    "sections": [],
+    "status": "",
+    "times": ""
+  },
+  {
+    "capacity": 5,
+    "course_id": "CMPSC 193",
+    "course_title": "INTERN IN INDUSTRY",
+    "days": "",
+    "enroll_code": "08714",
+    "enrollment": 0,
+    "instructor": "T B A",
+    "location": "T B A",
+    "sections": [],
+    "status": "",
+    "times": ""
+  },
+  {
+    "capacity": 10,
+    "course_id": "CMPSC 196",
+    "course_title": "UNDERGRAD RESEARCH",
+    "days": "",
+    "enroll_code": "08722",
+    "enrollment": 0,
+    "instructor": "T B A",
+    "location": "T B A",
+    "sections": [],
+    "status": "",
+    "times": ""
+  },
+  {
+    "capacity": 5,
+    "course_id": "CMPSC 199",
+    "course_title": "IND STUD COMP SCI",
+    "days": "",
+    "enroll_code": "08730",
+    "enrollment": 0,
+    "instructor": "T B A",
+    "location": "T B A",
+    "sections": [],
+    "status": "",
+    "times": ""
+  }
+]

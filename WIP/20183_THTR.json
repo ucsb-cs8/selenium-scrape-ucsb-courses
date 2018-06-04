@@ -1,0 +1,249 @@
+{
+  "20183": {
+    "THTR": {
+      "courses": [
+        {
+          "capacity": 5,
+          "course_id": "THTR 43",
+          "course_title": "",
+          "days": "TWRF",
+          "enrollment": 0,
+          "instructor": "",
+          "location": "TD-W 1507",
+          "sections": [
+            {
+              "capacity": 26,
+              "course_id": "THTR 2A",
+              "course_title": "PRF GLOB:AFRICA CAR",
+              "days": "MTWR",
+              "enroll_code": "17384/A",
+              "enrollment": 18,
+              "instructor": "BAKI H A",
+              "location": "HSSB 1210",
+              "status": "",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "THTR 5",
+              "course_title": "INTRO TO ACTING",
+              "days": "MTW",
+              "enroll_code": "14548/A",
+              "enrollment": 18,
+              "instructor": "VALENCIA RAMI",
+              "location": "HSSB 1143",
+              "status": "Full",
+              "times": "2:00pm - 4:20pm"
+            },
+            {
+              "capacity": 13,
+              "course_id": "THTR 5",
+              "course_title": "INTRO TO ACTING",
+              "days": "MTW",
+              "enroll_code": "14555/B",
+              "enrollment": 17,
+              "instructor": "WEAR R S",
+              "location": "TD-W 1507",
+              "status": "Full",
+              "times": "2:00pm - 4:20pm"
+            },
+            {
+              "capacity": 40,
+              "course_id": "THTR W 19",
+              "course_title": "DESIGN DANCE/THEATR",
+              "days": "",
+              "enroll_code": "19166/B",
+              "enrollment": 32,
+              "instructor": "SCOTT V",
+              "location": "ONLINE",
+              "status": "",
+              "times": ""
+            },
+            {
+              "capacity": 5,
+              "course_id": "THTR 43",
+              "course_title": "THE PEOPLE'S VOICE",
+              "days": "TWRF",
+              "enroll_code": "14571/A",
+              "enrollment": 0,
+              "instructor": "MORGAN M",
+              "location": "TD-E 1101",
+              "status": "",
+              "times": "2:30pm - 5:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:30pm - 5:50pm"
+        },
+        {
+          "capacity": 20,
+          "course_id": "THTR 49",
+          "course_title": "THEATER WORKSHOP",
+          "days": "",
+          "enroll_code": "14589",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 15,
+          "course_id": "THTR 143",
+          "course_title": "PEOPLE'S VOICE",
+          "days": "TWRF",
+          "enroll_code": "14597/A",
+          "enrollment": 4,
+          "instructor": "MORGAN M",
+          "location": "TD-E 1101",
+          "sections": [],
+          "status": "",
+          "times": "2:30pm - 5:50pm"
+        },
+        {
+          "capacity": 15,
+          "course_id": "THTR 143",
+          "course_title": "",
+          "days": "TWRF",
+          "enrollment": 4,
+          "instructor": "",
+          "location": "TD-W 1507",
+          "sections": [],
+          "status": "",
+          "times": "2:30pm - 5:50pm"
+        },
+        {
+          "capacity": 30,
+          "course_id": "THTR 144A",
+          "course_title": "SHAKESPEARE PROD",
+          "days": "MTWRF",
+          "enroll_code": "14605/F",
+          "enrollment": 20,
+          "instructor": "APPEL I J",
+          "location": "TD-W 1507",
+          "sections": [],
+          "status": "",
+          "times": "6:00pm - 11:00pm"
+        },
+        {
+          "capacity": 30,
+          "course_id": "THTR 144B",
+          "course_title": "SHAKESPEARE PROD",
+          "days": "MTWRF",
+          "enroll_code": "14613/G",
+          "enrollment": 20,
+          "instructor": "APPEL I J",
+          "location": "TD-W 1507",
+          "sections": [],
+          "status": "",
+          "times": "6:00pm - 11:00pm"
+        },
+        {
+          "capacity": 12,
+          "course_id": "THTR 146",
+          "course_title": "LAUNCH PAD",
+          "days": "MTWRF",
+          "enroll_code": "14621/G",
+          "enrollment": 11,
+          "instructor": "BRAININ R\nFISHELL J K",
+          "location": "TD-W 1507",
+          "sections": [],
+          "status": "",
+          "times": "10:00am - 2:00pm"
+        },
+        {
+          "capacity": 12,
+          "course_id": "THTR 146",
+          "course_title": "",
+          "days": "R",
+          "enrollment": 11,
+          "instructor": "",
+          "location": "TD-W 1507",
+          "sections": [],
+          "status": "",
+          "times": "6:00pm - 10:00pm"
+        },
+        {
+          "capacity": 12,
+          "course_id": "THTR 146",
+          "course_title": "",
+          "days": "F",
+          "enrollment": 11,
+          "instructor": "",
+          "location": "TD-W 1507",
+          "sections": [],
+          "status": "",
+          "times": "6:00pm - 10:00pm"
+        },
+        {
+          "capacity": 12,
+          "course_id": "THTR 146",
+          "course_title": "",
+          "days": "S",
+          "enrollment": 11,
+          "instructor": "",
+          "location": "TD-W 1507",
+          "sections": [],
+          "status": "",
+          "times": "2:00pm - 6:00pm"
+        },
+        {
+          "capacity": 20,
+          "course_id": "THTR 149",
+          "course_title": "THEATRE WORKSHOP",
+          "days": "",
+          "enroll_code": "14639",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "THTR 194A",
+          "course_title": "GRP STD: ACT/DIRECT",
+          "days": "MTWRF",
+          "enroll_code": "14647/A",
+          "enrollment": 6,
+          "instructor": "CLAVERIA A J",
+          "location": "TD-W 1507",
+          "sections": [],
+          "status": "",
+          "times": "10:00am - 12:50pm"
+        },
+        {
+          "capacity": 20,
+          "course_id": "THTR 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "14654",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "THTR 599",
+          "course_title": "DIS RESEARCH & PREP",
+          "days": "",
+          "enroll_code": "14662",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Theater - THTR"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:29:34.235479"
+}

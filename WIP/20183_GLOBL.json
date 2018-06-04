@@ -1,0 +1,171 @@
+{
+  "20183": {
+    "GLOBL": {
+      "courses": [
+        {
+          "capacity": 198,
+          "course_id": "GLOBL 1",
+          "course_title": "GLOBL HIS/CUL/IDEOL",
+          "days": "MTWR",
+          "enrollment": 192,
+          "instructor": "T B A",
+          "location": "GIRV 1004",
+          "sections": [
+            {
+              "capacity": 22,
+              "course_id": "GLOBL 1",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "17079/A",
+              "enrollment": 22,
+              "instructor": "PINHEIRO DE O",
+              "location": "GIRV 2108",
+              "status": "Full",
+              "times": "12:30pm - 1:20pm"
+            },
+            {
+              "capacity": 22,
+              "course_id": "GLOBL 1",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "17087/A",
+              "enrollment": 22,
+              "instructor": "AHMED J",
+              "location": "GIRV 2108",
+              "status": "Full",
+              "times": "12:30pm - 1:20pm"
+            },
+            {
+              "capacity": 22,
+              "course_id": "GLOBL 1",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "17095/A",
+              "enrollment": 21,
+              "instructor": "AHMED J",
+              "location": "HSSB 1236",
+              "status": "",
+              "times": "9:30 am - 10:20am"
+            },
+            {
+              "capacity": 22,
+              "course_id": "GLOBL 1",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "17103/A",
+              "enrollment": 22,
+              "instructor": "SNAY H N",
+              "location": "HSSB 3201",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 22,
+              "course_id": "GLOBL 1",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "17111/A",
+              "enrollment": 22,
+              "instructor": "PINHEIRO DE O",
+              "location": "HSSB 4201",
+              "status": "Full",
+              "times": "3:30pm - 4:20pm"
+            },
+            {
+              "capacity": 22,
+              "course_id": "GLOBL 1",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "17129/A",
+              "enrollment": 21,
+              "instructor": "SNAY H N",
+              "location": "HSSB 3202",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 22,
+              "course_id": "GLOBL 1",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "17137/A",
+              "enrollment": 21,
+              "instructor": "AHMED J",
+              "location": "HSSB 1206",
+              "status": "",
+              "times": "9:30 am - 10:20am"
+            },
+            {
+              "capacity": 22,
+              "course_id": "GLOBL 1",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "17145/A",
+              "enrollment": 22,
+              "instructor": "SNAY H N",
+              "location": "HSSB 3201",
+              "status": "Full",
+              "times": "3:30pm - 4:20pm"
+            },
+            {
+              "capacity": 22,
+              "course_id": "GLOBL 1",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "17152/A",
+              "enrollment": 20,
+              "instructor": "PINHEIRO DE O",
+              "location": "GIRV 1116",
+              "status": "",
+              "times": "10:00am - 10:50am"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:25pm"
+        },
+        {
+          "capacity": 10,
+          "course_id": "GLOBL 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "07419",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "GLOBL 596",
+          "course_title": "DIR READ & RSCH",
+          "days": "",
+          "enroll_code": "07427",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "GLOBL 598",
+          "course_title": "THESIS RSCH & PREP",
+          "days": "",
+          "enroll_code": "07435",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Global Studies - GLOBL"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:21:07.096668"
+}

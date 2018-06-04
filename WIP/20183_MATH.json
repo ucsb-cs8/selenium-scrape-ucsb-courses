@@ -1,0 +1,943 @@
+{
+  "20183": {
+    "MATH": {
+      "courses": [
+        {
+          "capacity": 50,
+          "course_id": "MATH 3B",
+          "course_title": "CALC WITH APPLI 2",
+          "days": "MTWR",
+          "enrollment": 33,
+          "instructor": "KALAULI A K",
+          "location": "HSSB 1173",
+          "sections": [
+            {
+              "capacity": 35,
+              "course_id": "MATH 3A",
+              "course_title": "CALC WITH APPLI 1",
+              "days": "",
+              "enroll_code": "09449/A",
+              "enrollment": 0,
+              "instructor": "T B A",
+              "location": "T B A",
+              "status": "Cancelled",
+              "times": ""
+            },
+            {
+              "capacity": 20,
+              "course_id": "MATH 3A",
+              "course_title": "CALC WITH APPLI 1",
+              "days": "MTWRF",
+              "enroll_code": "09456/B",
+              "enrollment": 13,
+              "instructor": "GALAZ-GARCIA",
+              "location": "387 1015",
+              "status": "",
+              "times": "11:00am - 12:05pm"
+            },
+            {
+              "capacity": 35,
+              "course_id": "MATH 3B",
+              "course_title": "CALC WITH APPLI 2",
+              "days": "MTWRF",
+              "enroll_code": "09464/A",
+              "enrollment": 26,
+              "instructor": "DELANEY C R",
+              "location": "PHELP1444",
+              "status": "",
+              "times": "9:00 am - 10:05am"
+            },
+            {
+              "capacity": 10,
+              "course_id": "MATH 3B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09480/B",
+              "enrollment": 10,
+              "instructor": "BAGHERI A R",
+              "location": "HSSB 1215",
+              "status": "Full",
+              "times": "3:30pm - 4:20pm"
+            },
+            {
+              "capacity": 15,
+              "course_id": "MATH 3B",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "09498/B",
+              "enrollment": 15,
+              "instructor": "KHOSHBIN M",
+              "location": "HSSB 1206",
+              "status": "Full",
+              "times": "3:30pm - 4:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 3B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09506/B",
+              "enrollment": 8,
+              "instructor": "BAGHERI A R",
+              "location": "HSSB 1206",
+              "status": "",
+              "times": "4:30pm - 5:20pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:05pm"
+        },
+        {
+          "capacity": 100,
+          "course_id": "MATH 4A",
+          "course_title": "LIN ALG W/APPS",
+          "days": "MTWR",
+          "enrollment": 83,
+          "instructor": "BUENO CACHADI",
+          "location": "NH 1006",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "MATH 4A",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "09522/A",
+              "enrollment": 22,
+              "instructor": "ALTHAUSER S B",
+              "location": "HSSB 1210",
+              "status": "",
+              "times": "2:30pm - 3:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 4A",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "09530/A",
+              "enrollment": 21,
+              "instructor": "ALTHAUSER S B",
+              "location": "HSSB 1231",
+              "status": "",
+              "times": "1:30pm - 2:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 4A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09548/A",
+              "enrollment": 15,
+              "instructor": "SARAJIAN G P",
+              "location": "GIRV 2124",
+              "status": "",
+              "times": "11:30am - 12:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 4A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09555/A",
+              "enrollment": 25,
+              "instructor": "SARAJIAN G P",
+              "location": "GIRV 2108",
+              "status": "Full",
+              "times": "10:30am - 11:20am"
+            }
+          ],
+          "status": "",
+          "times": "8:00 am - 9:10 am"
+        },
+        {
+          "capacity": 72,
+          "course_id": "MATH 4A",
+          "course_title": "LIN ALG W/APPS",
+          "days": "MTWR",
+          "enrollment": 73,
+          "instructor": "KIRBY G R",
+          "location": "BUCHN1930",
+          "sections": [
+            {
+              "capacity": 18,
+              "course_id": "MATH 4A",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "09571/B",
+              "enrollment": 19,
+              "instructor": "TRISAL A V",
+              "location": "BUCHN1934",
+              "status": "Full",
+              "times": "3:30pm - 4:20pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "MATH 4A",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "09589/B",
+              "enrollment": 18,
+              "instructor": "TRISAL A V",
+              "location": "HSSB 1214",
+              "status": "Full",
+              "times": "2:30pm - 3:20pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "MATH 4A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09597/B",
+              "enrollment": 18,
+              "instructor": "ROBINETT E L",
+              "location": "HSSB 1214",
+              "status": "Full",
+              "times": "3:30pm - 4:20pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "MATH 4A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09605/B",
+              "enrollment": 18,
+              "instructor": "ROBINETT E L",
+              "location": "HSSB 1223",
+              "status": "Full",
+              "times": "2:30pm - 3:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 125,
+          "course_id": "MATH 4B",
+          "course_title": "DIFF EQUATIONS",
+          "days": "MTWR",
+          "enrollment": 97,
+          "instructor": "NGUYEN D",
+          "location": "NH 1006",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "MATH 4B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09621/A",
+              "enrollment": 15,
+              "instructor": "PABLO S R",
+              "location": "BUCHN1934",
+              "status": "",
+              "times": "8:30 am - 9:20 am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 4B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09639/A",
+              "enrollment": 18,
+              "instructor": "PABLO S R",
+              "location": "GIRV 2112",
+              "status": "",
+              "times": "9:30 am - 10:20am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 4B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09647/A",
+              "enrollment": 15,
+              "instructor": "ROBERTS J A",
+              "location": "HSSB 1236",
+              "status": "",
+              "times": "10:30am - 11:20am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 4B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09654/A",
+              "enrollment": 25,
+              "instructor": "ROBERTS J A",
+              "location": "HSSB 1236",
+              "status": "Full",
+              "times": "11:30am - 12:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 4B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "16899/A",
+              "enrollment": 24,
+              "instructor": "TRISAL A V",
+              "location": "HSSB 1215",
+              "status": "",
+              "times": "12:30pm - 1:20pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:05pm"
+        },
+        {
+          "capacity": 100,
+          "course_id": "MATH 4B",
+          "course_title": "DIFF EQUATIONS",
+          "days": "MTWR",
+          "enrollment": 100,
+          "instructor": "KELZ J M",
+          "location": "CHEM 1171",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "MATH 4B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09670/B",
+              "enrollment": 25,
+              "instructor": "PEDRICK M G",
+              "location": "HSSB 1210",
+              "status": "Full",
+              "times": "12:30pm - 1:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 4B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09688/B",
+              "enrollment": 25,
+              "instructor": "BALKIN R A",
+              "location": "HSSB 1210",
+              "status": "Full",
+              "times": "3:30pm - 4:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 4B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09696/B",
+              "enrollment": 25,
+              "instructor": "PEDRICK M G",
+              "location": "HSSB 1215",
+              "status": "Full",
+              "times": "1:30pm - 2:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 4B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09704/B",
+              "enrollment": 25,
+              "instructor": "BALKIN R A",
+              "location": "HSSB 1215",
+              "status": "Full",
+              "times": "2:30pm - 3:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:05pm"
+        },
+        {
+          "capacity": 125,
+          "course_id": "MATH 6A",
+          "course_title": "VECTOR CALCULUS 1",
+          "days": "MTWR",
+          "enrollment": 109,
+          "instructor": "PORTER M J",
+          "location": "BUCHN1920",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "MATH 6A",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "09738/A",
+              "enrollment": 21,
+              "instructor": "EPELBAUM D P",
+              "location": "BUCHN1934",
+              "status": "",
+              "times": "8:30 am - 9:20 am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 6A",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "09746/A",
+              "enrollment": 25,
+              "instructor": "EPELBAUM D P",
+              "location": "HSSB 1214",
+              "status": "Full",
+              "times": "12:30pm - 1:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 6A",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "09753/A",
+              "enrollment": 21,
+              "instructor": "MARTINS RODRI",
+              "location": "LSB 1101",
+              "status": "",
+              "times": "9:30 am - 10:20am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 6A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09761/A",
+              "enrollment": 24,
+              "instructor": "BALKIN R A",
+              "location": "GIRV 2108",
+              "status": "",
+              "times": "11:30am - 12:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 6A",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "16907/A",
+              "enrollment": 18,
+              "instructor": "MARTINS RODRI",
+              "location": "LSB 1101",
+              "status": "",
+              "times": "10:30am - 11:20am"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:05pm"
+        },
+        {
+          "capacity": 100,
+          "course_id": "MATH 6A",
+          "course_title": "VECTOR CALCULUS 1",
+          "days": "MTWR",
+          "enrollment": 100,
+          "instructor": "FROST G A",
+          "location": "BUCHN1930",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "MATH 6A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09787/B",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "HSSB 1233",
+              "status": "Full",
+              "times": "10:30am - 11:20am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 6A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09795/B",
+              "enrollment": 25,
+              "instructor": "EBRAHIM E",
+              "location": "HSSB 1207",
+              "status": "Full",
+              "times": "12:30pm - 1:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 6A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09803/B",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "HSSB 1233",
+              "status": "Full",
+              "times": "11:30am - 12:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 6A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09811/B",
+              "enrollment": 25,
+              "instructor": "EBRAHIM E",
+              "location": "HSSB 1214",
+              "status": "Full",
+              "times": "1:30pm - 2:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "3:30pm - 4:35pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 6B",
+          "course_title": "VECTOR CALCULUS 2",
+          "days": "MTWRF",
+          "enroll_code": "09837/A",
+          "enrollment": 35,
+          "instructor": "BLACKER C A",
+          "location": "GIRV 2108",
+          "sections": [],
+          "status": "Full",
+          "times": "2:00pm - 3:10pm"
+        },
+        {
+          "capacity": 75,
+          "course_id": "MATH 6B",
+          "course_title": "VECTOR CALCULUS 2",
+          "days": "MTWR",
+          "enrollment": 75,
+          "instructor": "SARAJIAN G P",
+          "location": "HSSB 1173",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "MATH 6B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09852/B",
+              "enrollment": 25,
+              "instructor": "SHIFLEY T H",
+              "location": "HSSB 1214",
+              "status": "Full",
+              "times": "2:30pm - 3:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 6B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09860/B",
+              "enrollment": 25,
+              "instructor": "WELLS S B",
+              "location": "HSSB 1224",
+              "status": "Full",
+              "times": "3:30pm - 4:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 6B",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09878/B",
+              "enrollment": 25,
+              "instructor": "WELLS S B",
+              "location": "HSSB 1224",
+              "status": "Full",
+              "times": "4:30pm - 5:20pm"
+            },
+            {
+              "capacity": 35,
+              "course_id": "MATH 6B",
+              "course_title": "VECTOR CALCULUS 2",
+              "days": "MTWRF",
+              "enroll_code": "18556/A",
+              "enrollment": 35,
+              "instructor": "FROST G A",
+              "location": "PHELP2514",
+              "status": "Full",
+              "times": "9:30 am - 10:40am"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 8",
+          "course_title": "TRANS HIGHER MATH",
+          "days": "M W F",
+          "enrollment": 35,
+          "instructor": "GARFIELD P M",
+          "location": "GIRV 2108",
+          "sections": [
+            {
+              "capacity": 18,
+              "course_id": "MATH 8",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09894/C",
+              "enrollment": 18,
+              "instructor": "LAINEZ REYES",
+              "location": "HSSB 2201",
+              "status": "Full",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 17,
+              "course_id": "MATH 8",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09902/C",
+              "enrollment": 17,
+              "instructor": "LAINEZ REYES",
+              "location": "HSSB 3202",
+              "status": "Full",
+              "times": "12:30pm - 1:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 11:50am"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 8",
+          "course_title": "TRANS HIGHER MATH",
+          "days": "M W F",
+          "enrollment": 35,
+          "instructor": "PANAGIOTOU E",
+          "location": "387 1015",
+          "sections": [
+            {
+              "capacity": 18,
+              "course_id": "MATH 8",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09928/C",
+              "enrollment": 18,
+              "instructor": "KUBLER J W",
+              "location": "HSSB 2202",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 17,
+              "course_id": "MATH 8",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "09936/C",
+              "enrollment": 17,
+              "instructor": "KUBLER J W",
+              "location": "HSSB 2202",
+              "status": "Full",
+              "times": "3:30pm - 4:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 2:50pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "MATH 34A",
+          "course_title": "CALC FOR SOCIAL SCI",
+          "days": "MTWR",
+          "enrollment": 42,
+          "instructor": "HAJOUJI N",
+          "location": "SH 1430",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "MATH 34A",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "09951/A",
+              "enrollment": 18,
+              "instructor": "SCHULTE A J",
+              "location": "LSB 1101",
+              "status": "",
+              "times": "3:30pm - 4:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 34A",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "09969/A",
+              "enrollment": 24,
+              "instructor": "SCHULTE A J",
+              "location": "HSSB 1223",
+              "status": "",
+              "times": "2:30pm - 3:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "MATH 34A",
+              "course_title": "CALC FOR SOCIAL SCI",
+              "days": "MTWRF",
+              "enroll_code": "09977/B",
+              "enrollment": 25,
+              "instructor": "XUAN Y",
+              "location": "387 1015",
+              "status": "Full",
+              "times": "12:30pm - 1:35pm"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 34B",
+          "course_title": "CALC-SOC & LIFE SCI",
+          "days": "MTWRF",
+          "enroll_code": "09985/A",
+          "enrollment": 35,
+          "instructor": "TAMAGAWA S K",
+          "location": "PHELP1445",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "MATH 34B",
+              "course_title": "CALC-SOC & LIFE SCI",
+              "days": "MTWRF",
+              "enroll_code": "09993/B",
+              "enrollment": 25,
+              "instructor": "HIGGINS V B",
+              "location": "NH 1111",
+              "status": "Full",
+              "times": "9:30 am - 10:35am"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 100A",
+          "course_title": "MATH ELEM TEACH I",
+          "days": "MTWRF",
+          "enroll_code": "10009/D",
+          "enrollment": 28,
+          "instructor": "JACOB W B",
+          "location": "ED 1215",
+          "sections": [],
+          "status": "",
+          "times": "9:00 am - 11:00am"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 100B",
+          "course_title": "MATH ELEM TEACH II",
+          "days": "MTWRF",
+          "enroll_code": "10017/E",
+          "enrollment": 28,
+          "instructor": "BLOOMQUIST W",
+          "location": "ED 1215",
+          "sections": [],
+          "status": "",
+          "times": "9:00 am - 11:00am"
+        },
+        {
+          "capacity": 50,
+          "course_id": "MATH 104A",
+          "course_title": "INTRO NUM ANALYSIS",
+          "days": "MTWR",
+          "enroll_code": "10025/A",
+          "enrollment": 50,
+          "instructor": "CHAI L",
+          "location": "ARTS 1353",
+          "sections": [],
+          "status": "Full",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 104B",
+          "course_title": "NUMERICAL ANALYSIS",
+          "days": "MTWR",
+          "enroll_code": "10033/B",
+          "enrollment": 29,
+          "instructor": "CHAI L",
+          "location": "PHELP1445",
+          "sections": [],
+          "status": "",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "MATH 117",
+          "course_title": "METHODS OF ANALYSIS",
+          "days": "MTWR",
+          "enroll_code": "10041/A",
+          "enrollment": 50,
+          "instructor": "CASTEELS K L",
+          "location": "ARTS 1349",
+          "sections": [
+            {
+              "capacity": 50,
+              "course_id": "MATH 117",
+              "course_title": "METHODS OF ANALYSIS",
+              "days": "MTWR",
+              "enroll_code": "10058/B",
+              "enrollment": 50,
+              "instructor": "CASTEELS K L",
+              "location": "ARTS 1349",
+              "status": "Full",
+              "times": "12:30pm - 1:35pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 119A",
+          "course_title": "ORD DIFF EQUATIONS",
+          "days": "MTWR",
+          "enroll_code": "16915/A",
+          "enrollment": 35,
+          "instructor": "FONSECA G E",
+          "location": "PHELP1444",
+          "sections": [],
+          "status": "Full",
+          "times": "2:00pm - 3:05pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 122A",
+          "course_title": "INTRO COMPLX VARIAB",
+          "days": "MTWR",
+          "enroll_code": "10066/A",
+          "enrollment": 31,
+          "instructor": "AKEMANN C A",
+          "location": "GIRV 2128",
+          "sections": [
+            {
+              "capacity": 35,
+              "course_id": "MATH 122A",
+              "course_title": "INTRO COMPLX VARIAB",
+              "days": "MTWR",
+              "enroll_code": "10074/A",
+              "enrollment": 35,
+              "instructor": "KELZ J M",
+              "location": "GIRV 1119",
+              "status": "Full",
+              "times": "9:30 am - 10:35am"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 122B",
+          "course_title": "INTRO COMPLX VARIAB",
+          "days": "MTWR",
+          "enroll_code": "10082/B",
+          "enrollment": 26,
+          "instructor": "OGRAIN C M",
+          "location": "PHELP1444",
+          "sections": [],
+          "status": "",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 124A",
+          "course_title": "PART DIFF EQUATIONS",
+          "days": "MTWR",
+          "enroll_code": "10090/A",
+          "enrollment": 35,
+          "instructor": "PANAGIOTOU E",
+          "location": "PHELP1440",
+          "sections": [],
+          "status": "Full",
+          "times": "11:00am - 12:05pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "MATH 124B",
+          "course_title": "FOURIER SER & NUM",
+          "days": "MTWR",
+          "enroll_code": "10116/B",
+          "enrollment": 19,
+          "instructor": "LABUTIN D A",
+          "location": "PHELP1444",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:05pm"
+        },
+        {
+          "capacity": 10,
+          "course_id": "MATH 193",
+          "course_title": "INTERN IN MATH",
+          "days": "",
+          "enroll_code": "10124",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 0,
+          "course_id": "MATH 197A",
+          "course_title": "SENIOR THESIS",
+          "days": "",
+          "enroll_code": "10132",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "MATH 197B",
+          "course_title": "SENIOR THESIS",
+          "days": "",
+          "enroll_code": "10140",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "MATH 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "10157",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "MATH 199RA",
+          "course_title": "IND RES ASSIST MATH",
+          "days": "",
+          "enroll_code": "10165",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "MATH 596",
+          "course_title": "DIR READ & RESEARCH",
+          "days": "",
+          "enroll_code": "10173",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Mathematics - MATH"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:24:05.044797"
+}

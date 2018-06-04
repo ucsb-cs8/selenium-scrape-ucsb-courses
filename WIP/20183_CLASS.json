@@ -1,0 +1,353 @@
+{
+  "20183": {
+    "CLASS": {
+      "courses": [
+        {
+          "capacity": 130,
+          "course_id": "CLASS 40",
+          "course_title": "GREEK MYTHOLOGY",
+          "days": "MTWR",
+          "enrollment": 105,
+          "instructor": "ERICKSON B L",
+          "location": "NH 1006",
+          "sections": [
+            {
+              "capacity": 40,
+              "course_id": "CLASS 20B",
+              "course_title": "ROMANS",
+              "days": "MTWR",
+              "enroll_code": "02360/B",
+              "enrollment": 35,
+              "instructor": "SMITH J S",
+              "location": "387 1011",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "02386/A",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "HSSB 1206",
+              "status": "",
+              "times": "9:00 am - 9:50 am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "02394/A",
+              "enrollment": 23,
+              "instructor": "",
+              "location": "BUCHN1934",
+              "status": "",
+              "times": "10:00am - 10:50am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "02402/A",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "HSSB 1210",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "02410/A",
+              "enrollment": 18,
+              "instructor": "",
+              "location": "LSB 1101",
+              "status": "",
+              "times": "10:00am - 10:50am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "02428/A",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "HSSB 1231",
+              "status": "",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "02436/A",
+              "enrollment": 18,
+              "instructor": "",
+              "location": "HSSB 1231",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 160,
+          "course_id": "CLASS 40",
+          "course_title": "GREEK MYTHOLOGY",
+          "days": "MTWR",
+          "enrollment": 205,
+          "instructor": "GALLUCCI R",
+          "location": "BUCHN1910",
+          "sections": [
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "02451/B",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "HSSB 3201",
+              "status": "Full",
+              "times": "8:00 am - 8:50 am"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "02469/B",
+              "enrollment": 14,
+              "instructor": "",
+              "location": "HSSB 3201",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "02477/B",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "HSSB 3202",
+              "status": "Full",
+              "times": "4:00pm - 4:50pm"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "02485/B",
+              "enrollment": 10,
+              "instructor": "",
+              "location": "HSSB 3201",
+              "status": "",
+              "times": "8:00 am - 8:50 am"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "02493/B",
+              "enrollment": 12,
+              "instructor": "",
+              "location": "HSSB 3201",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "02501/B",
+              "enrollment": 15,
+              "instructor": "",
+              "location": "HSSB 3202",
+              "status": "Full",
+              "times": "4:00pm - 4:50pm"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "02519/B",
+              "enrollment": 10,
+              "instructor": "",
+              "location": "HSSB 3202",
+              "status": "",
+              "times": "8:00 am - 8:50 am"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "02527/B",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "HSSB 3201",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "02535/B",
+              "enrollment": 17,
+              "instructor": "",
+              "location": "HSSB 3202",
+              "status": "Full",
+              "times": "4:00pm - 4:50pm"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "02543/B",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "HSSB 3202",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "02550/B",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "HSSB 3202",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "02568/B",
+              "enrollment": 17,
+              "instructor": "",
+              "location": "HSSB 3201",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "02576/B",
+              "enrollment": 17,
+              "instructor": "",
+              "location": "HSSB 3202",
+              "status": "Full",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "02584/B",
+              "enrollment": 14,
+              "instructor": "",
+              "location": "HSSB 3201",
+              "status": "Full",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 11,
+              "course_id": "CLASS 40",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "02592/B",
+              "enrollment": 14,
+              "instructor": "",
+              "location": "HSSB 3202",
+              "status": "Full",
+              "times": "11:00am - 11:50am"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 25,
+          "course_id": "CLASS 40H",
+          "course_title": "GREEK MYTH-HONORS",
+          "days": "W",
+          "enroll_code": "02600/B",
+          "enrollment": 11,
+          "instructor": "GALLUCCI R",
+          "location": "HSSB 4065",
+          "sections": [],
+          "status": "",
+          "times": "5:00pm - 5:50pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "CLASS 60",
+          "course_title": "SCIENCE IN GREECE",
+          "days": "MTWR",
+          "enroll_code": "15388/B",
+          "enrollment": 11,
+          "instructor": "DUNN F M",
+          "location": "HSSB 1173",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 20,
+          "course_id": "CLASS 99",
+          "course_title": "INTRO TO RESEARCH",
+          "days": "T",
+          "enroll_code": "02626/B",
+          "enrollment": 6,
+          "instructor": "GALLUCCI R",
+          "location": "HSSB 4065",
+          "sections": [
+            {
+              "capacity": 5,
+              "course_id": "CLASS 99",
+              "course_title": "INTRO TO RESEARCH",
+              "days": "",
+              "enroll_code": "02634/A",
+              "enrollment": 0,
+              "instructor": "GALLUCCI R",
+              "location": "T B A",
+              "status": "",
+              "times": ""
+            }
+          ],
+          "status": "",
+          "times": "3:30pm - 5:00pm"
+        }
+      ],
+      "text": "Classics - CLASS"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:14:52.660445"
+}

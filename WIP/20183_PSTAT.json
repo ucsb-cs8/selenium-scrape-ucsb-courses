@@ -1,0 +1,877 @@
+{
+  "20183": {
+    "PSTAT": {
+      "courses": [
+        {
+          "capacity": 80,
+          "course_id": "PSTAT 5A",
+          "course_title": "STATISTICS",
+          "days": "MTWR",
+          "enrollment": 80,
+          "instructor": "T B A",
+          "location": "PHELP3515",
+          "sections": [
+            {
+              "capacity": 26,
+              "course_id": "PSTAT 5A",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "12898/A",
+              "enrollment": 26,
+              "instructor": "",
+              "location": "HSSB 1237",
+              "status": "Full",
+              "times": "12:00pm - 12:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 26,
+          "course_id": "PSTAT 5A",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 26,
+          "instructor": "",
+          "location": "PHELP1529",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 5A",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "12906/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP1440",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:00pm - 12:50pm"
+        },
+        {
+          "capacity": 27,
+          "course_id": "PSTAT 5A",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 27,
+          "instructor": "",
+          "location": "SSMS 1303",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 5A",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "12914/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP1444",
+              "status": "Full",
+              "times": "11:00am - 11:50am"
+            }
+          ],
+          "status": "Full",
+          "times": "1:00pm - 1:50pm"
+        },
+        {
+          "capacity": 27,
+          "course_id": "PSTAT 5A",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 27,
+          "instructor": "",
+          "location": "SSMS 1301",
+          "sections": [],
+          "status": "Full",
+          "times": "11:00am - 11:50am"
+        },
+        {
+          "capacity": 81,
+          "course_id": "PSTAT 5A",
+          "course_title": "STATISTICS",
+          "days": "MTWR",
+          "enrollment": 81,
+          "instructor": "T B A",
+          "location": "BRDA 1640",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 5A",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "12930/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "387 1015",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 27,
+          "course_id": "PSTAT 5A",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 27,
+          "instructor": "",
+          "location": "SSMS 1302",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 5A",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "12948/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "387 1015",
+              "status": "Full",
+              "times": "3:00pm - 3:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 2:50pm"
+        },
+        {
+          "capacity": 27,
+          "course_id": "PSTAT 5A",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 27,
+          "instructor": "",
+          "location": "SSMS 1302",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 5A",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "12955/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "GIRV 2124",
+              "status": "Full",
+              "times": "5:00pm - 5:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "3:00pm - 3:50pm"
+        },
+        {
+          "capacity": 27,
+          "course_id": "PSTAT 5A",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 27,
+          "instructor": "",
+          "location": "SSMS 1302",
+          "sections": [],
+          "status": "Full",
+          "times": "5:00pm - 5:50pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "PSTAT 10",
+          "course_title": "DATA SCIENCE COMP",
+          "days": "MTWRF",
+          "enrollment": 50,
+          "instructor": "HOLMES D E",
+          "location": "SSMS 1304",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "PSTAT 10",
+              "course_title": "",
+              "days": "MTWR",
+              "enroll_code": "15693/D",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "SSMS 1304",
+              "status": "Full",
+              "times": "4:00pm - 4:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "PSTAT 10",
+              "course_title": "",
+              "days": "MTWR",
+              "enroll_code": "15701/D",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "SSMS 1304",
+              "status": "Full",
+              "times": "4:00pm - 4:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 3:50pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "PSTAT 10",
+          "course_title": "DATA SCIENCE COMP",
+          "days": "MTWR",
+          "enrollment": 50,
+          "instructor": "T B A",
+          "location": "SSMS 1303",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "PSTAT 10",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "15727/B",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "SSMS 1303",
+              "status": "Full",
+              "times": "12:30pm - 1:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "PSTAT 10",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "15735/B",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "SSMS 1304",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 54,
+          "course_id": "PSTAT 109",
+          "course_title": "STATISTICS FOR ECON",
+          "days": "MTWR",
+          "enrollment": 47,
+          "instructor": "NAVA M M",
+          "location": "ARTS 1349",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 109",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "12971/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP2532",
+              "status": "Full",
+              "times": "3:00pm - 3:50pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 27,
+          "course_id": "PSTAT 109",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 27,
+          "instructor": "",
+          "location": "PHELP1526",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 109",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "12989/A",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "PHELP1444",
+              "status": "",
+              "times": "5:00pm - 5:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "3:00pm - 3:50pm"
+        },
+        {
+          "capacity": 27,
+          "course_id": "PSTAT 109",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 20,
+          "instructor": "",
+          "location": "SSMS 1304",
+          "sections": [],
+          "status": "",
+          "times": "5:00pm - 5:50pm"
+        },
+        {
+          "capacity": 81,
+          "course_id": "PSTAT 109",
+          "course_title": "STATISTICS FOR ECON",
+          "days": "MTWR",
+          "enrollment": 81,
+          "instructor": "T B A",
+          "location": "SH 1431",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 109",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "13003/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP1444",
+              "status": "Full",
+              "times": "4:00pm - 4:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 27,
+          "course_id": "PSTAT 109",
+          "course_title": "",
+          "days": "R",
+          "enrollment": 27,
+          "instructor": "",
+          "location": "SSMS 1304",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 109",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "13011/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP2532",
+              "status": "Full",
+              "times": "5:00pm - 5:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "4:00pm - 4:50pm"
+        },
+        {
+          "capacity": 27,
+          "course_id": "PSTAT 109",
+          "course_title": "",
+          "days": "R",
+          "enrollment": 27,
+          "instructor": "",
+          "location": "SSMS 1304",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 109",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "15636/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "GIRV 1116",
+              "status": "Full",
+              "times": "3:00pm - 3:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "5:00pm - 5:50pm"
+        },
+        {
+          "capacity": 27,
+          "course_id": "PSTAT 109",
+          "course_title": "",
+          "days": "R",
+          "enrollment": 27,
+          "instructor": "",
+          "location": "SSMS 1304",
+          "sections": [],
+          "status": "Full",
+          "times": "3:00pm - 3:50pm"
+        },
+        {
+          "capacity": 108,
+          "course_id": "PSTAT 120A",
+          "course_title": "PROB & STATISTICS",
+          "days": "MTWR",
+          "enrollment": 96,
+          "instructor": "CHEN T",
+          "location": "PSYCH1924",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "13060/A",
+              "enrollment": 26,
+              "instructor": "",
+              "location": "PHELP2532",
+              "status": "",
+              "times": "6:00pm - 6:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "13078/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP1440",
+              "status": "Full",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "13086/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "387 1011",
+              "status": "Full",
+              "times": "3:00pm - 3:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "13094/A",
+              "enrollment": 16,
+              "instructor": "",
+              "location": "GIRV 2124",
+              "status": "",
+              "times": "6:00pm - 6:50pm"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 56,
+          "course_id": "PSTATW 120A",
+          "course_title": "PROB & STATISTICS",
+          "days": "",
+          "enrollment": 56,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [
+            {
+              "capacity": 28,
+              "course_id": "PSTATW 120A",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "13367/B",
+              "enrollment": 28,
+              "instructor": "",
+              "location": "T B A",
+              "status": "Full",
+              "times": ""
+            },
+            {
+              "capacity": 28,
+              "course_id": "PSTATW 120A",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "13375/B",
+              "enrollment": 28,
+              "instructor": "",
+              "location": "T B A",
+              "status": "Full",
+              "times": ""
+            }
+          ],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 81,
+          "course_id": "PSTAT 120B",
+          "course_title": "PROB & STATISTICS",
+          "days": "MTWR",
+          "enrollment": 81,
+          "instructor": "MYUNG JIYOUN",
+          "location": "PHELP1260",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120B",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "13110/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "GIRV 2124",
+              "status": "Full",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120B",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "13128/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP2532",
+              "status": "Full",
+              "times": "6:00pm - 6:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120B",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "13136/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "GIRV 2124",
+              "status": "Full",
+              "times": "6:00pm - 6:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 81,
+          "course_id": "PSTAT 120B",
+          "course_title": "PROB & STATISTICS",
+          "days": "MTWR",
+          "enrollment": 81,
+          "instructor": "T B A",
+          "location": "WEBB 1100",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120B",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "13151/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP1445",
+              "status": "Full",
+              "times": "6:00pm - 6:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120B",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "13169/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP1440",
+              "status": "Full",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120B",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "15644/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP1444",
+              "status": "Full",
+              "times": "6:00pm - 6:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:45am"
+        },
+        {
+          "capacity": 81,
+          "course_id": "PSTAT 120C",
+          "course_title": "PROB & STATISTICS",
+          "days": "MTWR",
+          "enrollment": 80,
+          "instructor": "SHATSKIKH E",
+          "location": "PHELP1260",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120C",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "13185/B",
+              "enrollment": 26,
+              "instructor": "",
+              "location": "PHELP1440",
+              "status": "",
+              "times": "6:00pm - 6:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120C",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "13193/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP2532",
+              "status": "Full",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 120C",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "13201/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP2532",
+              "status": "Full",
+              "times": "6:00pm - 6:50pm"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:45am"
+        },
+        {
+          "capacity": 50,
+          "course_id": "PSTAT 126",
+          "course_title": "REGRESSION ANALYSIS",
+          "days": "MTWR",
+          "enrollment": 50,
+          "instructor": "T B A",
+          "location": "ARTS 1353",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "PSTAT 126",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "15669/B",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "SSMS 1302",
+              "status": "Full",
+              "times": "6:00pm - 6:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "PSTAT 126",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "15677/B",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "SSMS 1302",
+              "status": "Full",
+              "times": "5:00pm - 5:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 55,
+          "course_id": "PSTAT 130",
+          "course_title": "SAS BASE PROGRAM",
+          "days": "MTWR",
+          "enrollment": 50,
+          "instructor": "T B A",
+          "location": "SSMS 1303",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "PSTAT 130",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "13227/A",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "SSMS 1304",
+              "status": "Full",
+              "times": "7:00pm - 7:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "PSTAT 130",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "13235/A",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "SSMS 1304",
+              "status": "Full",
+              "times": "7:00pm - 7:50pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 55,
+          "course_id": "PSTAT 130",
+          "course_title": "SAS BASE PROGRAM",
+          "days": "MTWRF",
+          "enrollment": 55,
+          "instructor": "SWENSON J S",
+          "location": "SSMS 1302",
+          "sections": [
+            {
+              "capacity": 30,
+              "course_id": "PSTAT 130",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "13250/F",
+              "enrollment": 30,
+              "instructor": "",
+              "location": "SSMS 1302",
+              "status": "Full",
+              "times": "4:00pm - 4:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "PSTAT 130",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "13268/F",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "SSMS 1302",
+              "status": "Full",
+              "times": "4:00pm - 4:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 3:50pm"
+        },
+        {
+          "capacity": 81,
+          "course_id": "PSTAT 171",
+          "course_title": "MATH COMPOUND INT",
+          "days": "MTWR",
+          "enrollment": 81,
+          "instructor": "DUNCAN I",
+          "location": "PHELP1260",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 171",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "13284/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP2532",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 171",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "13292/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP2532",
+              "status": "Full",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "PSTAT 171",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "13300/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP1444",
+              "status": "Full",
+              "times": "8:00 am - 8:50 am"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:45pm"
+        },
+        {
+          "capacity": 25,
+          "course_id": "PSTATW 182T",
+          "course_title": "ACTUARIAL TUTORIAL",
+          "days": "",
+          "enrollment": 19,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "PSTATW 182T",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "13391/B",
+              "enrollment": 19,
+              "instructor": "",
+              "location": "T B A",
+              "status": "",
+              "times": ""
+            }
+          ],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "PSTAT 193",
+          "course_title": "INTERNSHIP IN STATS",
+          "days": "",
+          "enroll_code": "13318",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "PSTAT 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "13326",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "PSTAT 596",
+          "course_title": "DIR READ & RSCH",
+          "days": "",
+          "enroll_code": "13342",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Statistics & Applied Probability - PSTAT"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:29:00.483780"
+}

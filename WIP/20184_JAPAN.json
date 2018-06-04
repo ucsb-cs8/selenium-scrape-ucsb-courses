@@ -1,0 +1,452 @@
+{
+  "20184": {
+    "JAPAN": {
+      "courses": [
+        {
+          "capacity": 13,
+          "course_id": "JAPAN 1",
+          "course_title": "",
+          "days": "F",
+          "enrollment": 13,
+          "instructor": "",
+          "location": "ARTS 1353",
+          "sections": [
+            {
+              "capacity": 13,
+              "course_id": "JAPAN 1",
+              "course_title": "FIRST YR JAPANESE I",
+              "days": "MTWR",
+              "enroll_code": "28415",
+              "enrollment": 13,
+              "instructor": "SHINAGAWA C",
+              "location": "HSSB 1223",
+              "status": "Full",
+              "times": "9:00 am - 9:50 am"
+            },
+            {
+              "capacity": 13,
+              "course_id": "JAPAN 1",
+              "course_title": "FIRST YR JAPANESE I",
+              "days": "MTWRF",
+              "enroll_code": "28423",
+              "enrollment": 13,
+              "instructor": "SUGAWARA H",
+              "location": "HSSB 1224",
+              "status": "Full",
+              "times": "10:00am - 10:50am"
+            },
+            {
+              "capacity": 13,
+              "course_id": "JAPAN 1",
+              "course_title": "FIRST YR JAPANESE I",
+              "days": "MTWRF",
+              "enroll_code": "28431",
+              "enrollment": 11,
+              "instructor": "SUGAWARA H",
+              "location": "HSSB 1224",
+              "status": "",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 13,
+              "course_id": "JAPAN 1",
+              "course_title": "FIRST YR JAPANESE I",
+              "days": "MTWRF",
+              "enroll_code": "28449",
+              "enrollment": 13,
+              "instructor": "SHINAGAWA C",
+              "location": "HSSB 1215",
+              "status": "Full",
+              "times": "12:00pm - 12:50pm"
+            },
+            {
+              "capacity": 13,
+              "course_id": "JAPAN 1",
+              "course_title": "FIRST YR JAPANESE I",
+              "days": "MTWR",
+              "enroll_code": "28456",
+              "enrollment": 10,
+              "instructor": "SUGAWARA H",
+              "location": "HSSB 1236",
+              "status": "",
+              "times": "1:00pm - 1:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:00 am - 9:50 am"
+        },
+        {
+          "capacity": 13,
+          "course_id": "JAPAN 1",
+          "course_title": "",
+          "days": "F",
+          "enrollment": 10,
+          "instructor": "",
+          "location": "ARTS 1353",
+          "sections": [
+            {
+              "capacity": 13,
+              "course_id": "JAPAN 1",
+              "course_title": "FIRST YR JAPANESE I",
+              "days": "MTWRF",
+              "enroll_code": "28464",
+              "enrollment": 11,
+              "instructor": "CANTRELL A M",
+              "location": "HSSB 1223",
+              "status": "",
+              "times": "11:00am - 11:50am"
+            }
+          ],
+          "status": "",
+          "times": "1:00pm - 1:50pm"
+        },
+        {
+          "capacity": 15,
+          "course_id": "JAPAN 4",
+          "course_title": "SECND YR JAPANESE",
+          "days": "MTWRF",
+          "enroll_code": "28472",
+          "enrollment": 15,
+          "instructor": "CANTRELL A M",
+          "location": "HSSB 1223",
+          "sections": [
+            {
+              "capacity": 15,
+              "course_id": "JAPAN 4",
+              "course_title": "SECND YR JAPANESE",
+              "days": "MTWRF",
+              "enroll_code": "28480",
+              "enrollment": 15,
+              "instructor": "SHINAGAWA C",
+              "location": "HSSB 1215",
+              "status": "Full",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 15,
+              "course_id": "JAPAN 4",
+              "course_title": "SECND YR JAPANESE",
+              "days": "MTWR",
+              "enroll_code": "28498",
+              "enrollment": 15,
+              "instructor": "YAMAUCHI Y",
+              "location": "HSSB 1237",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "10:00am - 10:50am"
+        },
+        {
+          "capacity": 15,
+          "course_id": "JAPAN 4",
+          "course_title": "",
+          "days": "F",
+          "enrollment": 15,
+          "instructor": "",
+          "location": "ARTS 1356",
+          "sections": [],
+          "status": "Full",
+          "times": "1:00pm - 1:50pm"
+        },
+        {
+          "capacity": 60,
+          "course_id": "JAPAN 17",
+          "course_title": "IMAGINING SAMURAI",
+          "days": "T R",
+          "enrollment": 17,
+          "instructor": "T B A",
+          "location": "PHELP1160",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "JAPAN 17",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "59402",
+              "enrollment": 3,
+              "instructor": "",
+              "location": "HSSB 1214",
+              "status": "",
+              "times": "9:00 am - 9:50 am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "JAPAN 17",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "59410",
+              "enrollment": 12,
+              "instructor": "",
+              "location": "HSSB 1227",
+              "status": "",
+              "times": "3:00pm - 3:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "JAPAN 17",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "59428",
+              "enrollment": 2,
+              "instructor": "",
+              "location": "HSSB 1206",
+              "status": "",
+              "times": "4:00pm - 4:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:15pm"
+        },
+        {
+          "capacity": 60,
+          "course_id": "JAPAN 80",
+          "course_title": "MSTRPCES JAPAN LIT",
+          "days": "T R",
+          "enrollment": 60,
+          "instructor": "T B A",
+          "location": "TD-W 2600",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "JAPAN 80",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "59345",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "GIRV 1108",
+              "status": "Full",
+              "times": "9:00 am - 9:50 am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "JAPAN 80",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "59352",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "GIRV 1108",
+              "status": "Full",
+              "times": "10:00am - 10:50am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "JAPAN 80",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "59360",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "BUCHN1934",
+              "status": "Full",
+              "times": "12:00pm - 12:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "3:30pm - 4:45pm"
+        },
+        {
+          "capacity": 15,
+          "course_id": "JAPAN 120A",
+          "course_title": "THIRD-YEAR JAPANESE",
+          "days": "MTWR",
+          "enroll_code": "28548",
+          "enrollment": 10,
+          "instructor": "YAMAUCHI Y",
+          "location": "ARTS 1353",
+          "sections": [
+            {
+              "capacity": 15,
+              "course_id": "JAPAN 120A",
+              "course_title": "THIRD-YEAR JAPANESE",
+              "days": "MTWR",
+              "enroll_code": "28555",
+              "enrollment": 7,
+              "instructor": "YAMAUCHI Y",
+              "location": "HSSB 1224",
+              "status": "",
+              "times": "9:00 am - 9:50 am"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 11:50am"
+        },
+        {
+          "capacity": 26,
+          "course_id": "JAPAN 144",
+          "course_title": "ADV JAP READING I",
+          "days": "T R",
+          "enroll_code": "57786",
+          "enrollment": 5,
+          "instructor": "T B A",
+          "location": "HSSB 1228",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:15pm"
+        },
+        {
+          "capacity": 15,
+          "course_id": "JAPAN 180JE",
+          "course_title": "SPECIAL TOPICS",
+          "days": "M",
+          "enroll_code": "59386",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "HSSB 4041",
+          "sections": [],
+          "status": "",
+          "times": "12:00pm - 2:50pm"
+        },
+        {
+          "capacity": 20,
+          "course_id": "JAPAN 181",
+          "course_title": "CLASSICAL JAPANESE",
+          "days": "M W",
+          "enroll_code": "28571",
+          "enrollment": 3,
+          "instructor": "SALTZMAN-LI K",
+          "location": "HSSB 2201",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:15pm"
+        },
+        {
+          "capacity": 3,
+          "course_id": "JAPAN 197",
+          "course_title": "SR HONORS PROJECT",
+          "days": "",
+          "enroll_code": "28589",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "JAPAN 198",
+          "course_title": "READINGS IN JAPAN",
+          "days": "",
+          "enroll_code": "28597",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "JAPAN 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "28605",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "JAPAN 199RA",
+          "course_title": "INDEP RESEARCH ASST",
+          "days": "",
+          "enroll_code": "28613",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 6,
+          "course_id": "JAPAN 287J",
+          "course_title": "JAPAN COLLOQUIUM",
+          "days": "W",
+          "enroll_code": "28621",
+          "enrollment": 0,
+          "instructor": "SALTZMAN-LI K",
+          "location": "HSSB 4080",
+          "sections": [],
+          "status": "",
+          "times": "4:00pm - 5:30pm"
+        },
+        {
+          "capacity": 3,
+          "course_id": "JAPAN 501",
+          "course_title": "APPRENTICE TEACHING",
+          "days": "",
+          "enroll_code": "28639",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "JAPAN 596",
+          "course_title": "DIR READ & RESEARCH",
+          "days": "",
+          "enroll_code": "28647",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "JAPAN 597",
+          "course_title": "PREP FOR COMP EXAMS",
+          "days": "",
+          "enroll_code": "28654",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "JAPAN 598",
+          "course_title": "MASTERS THESIS RES",
+          "days": "",
+          "enroll_code": "28662",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "JAPAN 599",
+          "course_title": "PH D DISS PREP",
+          "days": "",
+          "enroll_code": "28670",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Japanese - JAPAN"
+    },
+    "text": "FALL 2018"
+  },
+  "date": "2018-06-03T18:58:19.453381"
+}

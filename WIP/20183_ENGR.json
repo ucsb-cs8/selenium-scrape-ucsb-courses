@@ -1,0 +1,87 @@
+{
+  "20183": {
+    "ENGR": {
+      "courses": [
+        {
+          "capacity": 35,
+          "course_id": "ENGR W 3",
+          "course_title": "INTRO TO PROG",
+          "days": "",
+          "enrollment": 11,
+          "instructor": "MOEHLIS J M",
+          "location": "T B A",
+          "sections": [
+            {
+              "capacity": 11,
+              "course_id": "ENGR W 3",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "05942/B",
+              "enrollment": 10,
+              "instructor": "",
+              "location": "T B A",
+              "status": "",
+              "times": ""
+            },
+            {
+              "capacity": 10,
+              "course_id": "ENGR W 3",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "05959/B",
+              "enrollment": 1,
+              "instructor": "",
+              "location": "T B A",
+              "status": "",
+              "times": ""
+            }
+          ],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 40,
+          "course_id": "ENGR 101",
+          "course_title": "ETHICS IN ENGR",
+          "days": "M W",
+          "enroll_code": "05918/A",
+          "enrollment": 27,
+          "instructor": "WALLING O W",
+          "location": "GIRV 1116",
+          "sections": [
+            {
+              "capacity": 40,
+              "course_id": "ENGR 101",
+              "course_title": "ETHICS IN ENGR",
+              "days": "MTWRF",
+              "enroll_code": "05926/F",
+              "enrollment": 22,
+              "instructor": "WALLING O W",
+              "location": "ARTS 1353",
+              "status": "",
+              "times": "2:00pm - 3:40pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 4:05pm"
+        },
+        {
+          "capacity": 5,
+          "course_id": "ENGR 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "18325",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Engineering Sciences - ENGR"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:18:26.216186"
+}

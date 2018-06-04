@@ -1,0 +1,101 @@
+{
+  "20183": {
+    "MATRL": {
+      "courses": [
+        {
+          "capacity": 28,
+          "course_id": "MATRL 101",
+          "course_title": "INTRO STRUCT & PROP",
+          "days": "MTWR",
+          "enrollment": 22,
+          "instructor": "T B A",
+          "location": "PHELP1417",
+          "sections": [
+            {
+              "capacity": 28,
+              "course_id": "MATRL 101",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "10231/B",
+              "enrollment": 22,
+              "instructor": "",
+              "location": "PHELP1417",
+              "status": "",
+              "times": "11:00am - 11:50am"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 15,
+          "course_id": "MATRL 290",
+          "course_title": "RESRCH GRP STUDIES",
+          "days": "",
+          "enroll_code": "10249",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 99,
+          "course_id": "MATRL 501",
+          "course_title": "TEACH ASSIST PRACT",
+          "days": "",
+          "enroll_code": "10256",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "MATRL 596",
+          "course_title": "READING & RESEARCH",
+          "days": "",
+          "enroll_code": "10264",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "MATRL 598",
+          "course_title": "MS THESIS RSCH-PREP",
+          "days": "",
+          "enroll_code": "10272",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "MATRL 599",
+          "course_title": "PH D DISS PREP",
+          "days": "",
+          "enroll_code": "10280",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Materials - MATRL"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:23:56.676913"
+}

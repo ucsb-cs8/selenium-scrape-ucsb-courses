@@ -1,0 +1,611 @@
+{
+  "20183": {
+    "FAMST": {
+      "courses": [
+        {
+          "capacity": 56,
+          "course_id": "FAMST 46",
+          "course_title": "INTRO TO CINEMA",
+          "days": "T R",
+          "enrollment": 53,
+          "instructor": "FABIAN R C",
+          "location": "PLLOKTHTR",
+          "sections": [
+            {
+              "capacity": 18,
+              "course_id": "FAMST 46",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "06239/A",
+              "enrollment": 18,
+              "instructor": "STROBEL N E",
+              "location": "SSMS 2013",
+              "status": "Full",
+              "times": "12:00pm - 12:50pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "FAMST 46",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "06247/A",
+              "enrollment": 18,
+              "instructor": "STROBEL N E",
+              "location": "SSMS 2013",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "FAMST 46",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "06254/A",
+              "enrollment": 17,
+              "instructor": "STROBEL N E",
+              "location": "SSMS 2013",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            }
+          ],
+          "status": "",
+          "times": "10:00am - 12:50pm"
+        },
+        {
+          "capacity": 78,
+          "course_id": "FAMST 46",
+          "course_title": "INTRO TO CINEMA",
+          "days": "M W",
+          "enrollment": 83,
+          "instructor": "BRUSUTTI A",
+          "location": "BUCHN1920",
+          "sections": [
+            {
+              "capacity": 13,
+              "course_id": "FAMST 46",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "06270/B",
+              "enrollment": 14,
+              "instructor": "",
+              "location": "SSMS 2013",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 13,
+              "course_id": "FAMST 46",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "06288/B",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "SSMS 2013",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 13,
+              "course_id": "FAMST 46",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "06296/B",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "SSMS 2013",
+              "status": "Full",
+              "times": "3:00pm - 3:50pm"
+            },
+            {
+              "capacity": 13,
+              "course_id": "FAMST 46",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "06304/B",
+              "enrollment": 14,
+              "instructor": "",
+              "location": "SSMS 2013",
+              "status": "Full",
+              "times": "10:00am - 10:50am"
+            },
+            {
+              "capacity": 13,
+              "course_id": "FAMST 46",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "06312/B",
+              "enrollment": 14,
+              "instructor": "",
+              "location": "SSMS 2013",
+              "status": "Full",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 13,
+              "course_id": "FAMST 46",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "06320/B",
+              "enrollment": 15,
+              "instructor": "",
+              "location": "SSMS 2013",
+              "status": "Full",
+              "times": "12:00pm - 12:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "10:00am - 12:50pm"
+        },
+        {
+          "capacity": 48,
+          "course_id": "FAMST 70",
+          "course_title": "MEDIA CRITICISM",
+          "days": "T R",
+          "enrollment": 47,
+          "instructor": "HESSLER J M",
+          "location": "BUCHN1920",
+          "sections": [
+            {
+              "capacity": 16,
+              "course_id": "FAMST 70",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "06346/B",
+              "enrollment": 16,
+              "instructor": "BALL R C",
+              "location": "SSMS 2013",
+              "status": "Full",
+              "times": "10:00am - 10:50am"
+            },
+            {
+              "capacity": 16,
+              "course_id": "FAMST 70",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "06353/B",
+              "enrollment": 15,
+              "instructor": "BALL R C",
+              "location": "SSMS 2013",
+              "status": "",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 16,
+              "course_id": "FAMST 70",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "06361/B",
+              "enrollment": 16,
+              "instructor": "BALL R C",
+              "location": "SSMS 2013",
+              "status": "Full",
+              "times": "9:00 am - 9:50 am"
+            }
+          ],
+          "status": "",
+          "times": "10:00am - 12:50pm"
+        },
+        {
+          "capacity": 0,
+          "course_id": "FAMST 95",
+          "course_title": "INTERNSHIP",
+          "days": "",
+          "enroll_code": "06379",
+          "enrollment": 0,
+          "instructor": "PALLADINO J N",
+          "location": "T B A",
+          "sections": [],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 50,
+          "course_id": "FAMST 96",
+          "course_title": "ADV FILM ANALYSIS",
+          "days": "M W",
+          "enrollment": 31,
+          "instructor": "FELANDO C L",
+          "location": "PLLOKTHTR",
+          "sections": [],
+          "status": "",
+          "times": "10:00am - 11:50am"
+        },
+        {
+          "capacity": 50,
+          "course_id": "FAMST 96",
+          "course_title": "",
+          "days": "M",
+          "enrollment": 31,
+          "instructor": "",
+          "location": "PLLOKTHTR",
+          "sections": [],
+          "status": "",
+          "times": "1:30pm - 3:30pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "FAMST 96",
+          "course_title": "",
+          "days": "M",
+          "enrollment": 31,
+          "instructor": "",
+          "location": "PLLOKTHTR",
+          "sections": [
+            {
+              "capacity": 17,
+              "course_id": "FAMST 96",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "06395/A",
+              "enrollment": 17,
+              "instructor": "MOORE J S",
+              "location": "SSMS 2013",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 17,
+              "course_id": "FAMST 96",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "06403/A",
+              "enrollment": 12,
+              "instructor": "MOORE J S",
+              "location": "SSMS 2013",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 17,
+              "course_id": "FAMST 96",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "06411/A",
+              "enrollment": 2,
+              "instructor": "MOORE J S",
+              "location": "SSMS 2013",
+              "status": "",
+              "times": "3:00pm - 3:50pm"
+            }
+          ],
+          "status": "",
+          "times": "4:30pm - 6:30pm"
+        },
+        {
+          "capacity": 0,
+          "course_id": "FAMST 99",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "06429",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 16,
+          "course_id": "FAMST 108",
+          "course_title": "SHORT PRODUCTION",
+          "days": "T R",
+          "enroll_code": "17673/A",
+          "enrollment": 16,
+          "instructor": "JENKINS C L",
+          "location": "SSMS 2013",
+          "sections": [],
+          "status": "Full",
+          "times": "10:00am - 12:50pm"
+        },
+        {
+          "capacity": 18,
+          "course_id": "FAMST 109EM",
+          "course_title": "TOPICS IN FILM PROD",
+          "days": "M W",
+          "enroll_code": "06445/A",
+          "enrollment": 17,
+          "instructor": "HANRAHAN M S",
+          "location": "SSMS 2303",
+          "sections": [],
+          "status": "",
+          "times": "9:00 am - 11:50am"
+        },
+        {
+          "capacity": 18,
+          "course_id": "FAMST 109EP",
+          "course_title": "TOPICS IN FILM PROD",
+          "days": "M W",
+          "enroll_code": "06452/F",
+          "enrollment": 17,
+          "instructor": "HANRAHAN M S",
+          "location": "SSMS 2303",
+          "sections": [],
+          "status": "",
+          "times": "9:00 am - 11:50am"
+        },
+        {
+          "capacity": 12,
+          "course_id": "FAMST 115",
+          "course_title": "SOUND PRODUCTION",
+          "days": "M W",
+          "enroll_code": "15180/B",
+          "enrollment": 12,
+          "instructor": "HOLCOMB S J",
+          "location": "SSMS 2414",
+          "sections": [],
+          "status": "Full",
+          "times": "1:00pm - 3:50pm"
+        },
+        {
+          "capacity": 18,
+          "course_id": "FAMST 182",
+          "course_title": "INTRO ENV MEDIA",
+          "days": "T R",
+          "enroll_code": "06478/A",
+          "enrollment": 17,
+          "instructor": "HUTTON R E",
+          "location": "SSMS 2303",
+          "sections": [],
+          "status": "",
+          "times": "9:00 am - 11:50am"
+        },
+        {
+          "capacity": 18,
+          "course_id": "FAMST 187CN",
+          "course_title": "TOPICS IN ANALYSIS",
+          "days": "M W",
+          "enroll_code": "15198/B",
+          "enrollment": 12,
+          "instructor": "BRUSUTTI A",
+          "location": "SSMS 2017",
+          "sections": [],
+          "status": "",
+          "times": "3:00pm - 5:50pm"
+        },
+        {
+          "capacity": 18,
+          "course_id": "FAMST 187QT",
+          "course_title": "TOPICS IN ANALYSIS",
+          "days": "T R",
+          "enroll_code": "15206/A",
+          "enrollment": 18,
+          "instructor": "FELANDO C L",
+          "location": "PLLOKTHTR",
+          "sections": [],
+          "status": "Full",
+          "times": "1:00pm - 3:50pm"
+        },
+        {
+          "capacity": 20,
+          "course_id": "FAMST 188A",
+          "course_title": "BASIC SCREENWRITING",
+          "days": "T R",
+          "enroll_code": "06502/A",
+          "enrollment": 19,
+          "instructor": "GOLDING J L",
+          "location": "SSMS 2303",
+          "sections": [
+            {
+              "capacity": 18,
+              "course_id": "FAMST 188A",
+              "course_title": "BASIC SCREENWRITING",
+              "days": "T R",
+              "enroll_code": "06510/B",
+              "enrollment": 17,
+              "instructor": "GOLDING J L",
+              "location": "SSMS 2013",
+              "status": "",
+              "times": "3:00pm - 5:50pm"
+            }
+          ],
+          "status": "",
+          "times": "3:00pm - 5:50pm"
+        },
+        {
+          "capacity": 58,
+          "course_id": "FAMST 192CT",
+          "course_title": "FILM & MEDIA THEORY",
+          "days": "M W",
+          "enrollment": 57,
+          "instructor": "MORGENSTERN T",
+          "location": "BUCHN1920",
+          "sections": [
+            {
+              "capacity": 19,
+              "course_id": "FAMST 192CT",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "06536/B",
+              "enrollment": 19,
+              "instructor": "KILEY J T",
+              "location": "SSMS 2303",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 19,
+              "course_id": "FAMST 192CT",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "06544/B",
+              "enrollment": 19,
+              "instructor": "KILEY J T",
+              "location": "SSMS 2303",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "FAMST 192CT",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "06551/B",
+              "enrollment": 19,
+              "instructor": "KILEY J T",
+              "location": "SSMS 2303",
+              "status": "",
+              "times": "3:00pm - 3:50pm"
+            }
+          ],
+          "status": "",
+          "times": "1:00pm - 3:50pm"
+        },
+        {
+          "capacity": 55,
+          "course_id": "FAMST 192FT",
+          "course_title": "FILM & MEDIA THEORY",
+          "days": "T R",
+          "enrollment": 53,
+          "instructor": "LANGDALE G A",
+          "location": "BUCHN1940",
+          "sections": [
+            {
+              "capacity": 16,
+              "course_id": "FAMST 192FT",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "06577/A",
+              "enrollment": 16,
+              "instructor": "BALLINA CALDE",
+              "location": "SSMS 2303",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "FAMST 192FT",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "06585/A",
+              "enrollment": 18,
+              "instructor": "BALLINA CALDE",
+              "location": "SSMS 2303",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 19,
+              "course_id": "FAMST 192FT",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "06593/A",
+              "enrollment": 19,
+              "instructor": "BALLINA CALDE",
+              "location": "SSMS 2303",
+              "status": "Full",
+              "times": "3:00pm - 3:50pm"
+            }
+          ],
+          "status": "",
+          "times": "1:00pm - 3:50pm"
+        },
+        {
+          "capacity": 10,
+          "course_id": "FAMST 195I",
+          "course_title": "INTERNSHIP",
+          "days": "",
+          "enroll_code": "06601/A",
+          "enrollment": 0,
+          "instructor": "PALLADINO J N",
+          "location": "T B A",
+          "sections": [
+            {
+              "capacity": 10,
+              "course_id": "FAMST 195I",
+              "course_title": "INTERNSHIP",
+              "days": "",
+              "enroll_code": "06619/B",
+              "enrollment": 2,
+              "instructor": "PALLADINO J N",
+              "location": "T B A",
+              "status": "",
+              "times": ""
+            },
+            {
+              "capacity": 5,
+              "course_id": "FAMST 195I",
+              "course_title": "INTERNSHIP",
+              "days": "",
+              "enroll_code": "06627/C",
+              "enrollment": 0,
+              "instructor": "PALLADINO J N",
+              "location": "T B A",
+              "status": "",
+              "times": ""
+            }
+          ],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 0,
+          "course_id": "FAMST 196",
+          "course_title": "SENIOR HONORS SEM",
+          "days": "",
+          "enroll_code": "06635",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "FAMST 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "06643",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "FAMST 501",
+          "course_title": "TA PRACTICUM",
+          "days": "",
+          "enroll_code": "06650",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "FAMST 596",
+          "course_title": "DIR READING & RES",
+          "days": "",
+          "enroll_code": "06668",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 0,
+          "course_id": "FAMST 599",
+          "course_title": "DISS RESRCH/WRITING",
+          "days": "",
+          "enroll_code": "06676",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Full",
+          "times": ""
+        }
+      ],
+      "text": "Film and Media Studies - FAMST"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:19:45.889753"
+}

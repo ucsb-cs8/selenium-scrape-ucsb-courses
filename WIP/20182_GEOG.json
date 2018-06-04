@@ -1,0 +1,1032 @@
+{
+  "20182": {
+    "GEOG": {
+      "courses": [
+        {
+          "capacity": 216,
+          "course_id": "GEOG 3B",
+          "course_title": "LAND, WATER & LIFE",
+          "days": "M W F",
+          "enrollment": 165,
+          "instructor": "ROBERTS D A",
+          "location": "EMBARHALL",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "GEOG 3B",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "24125",
+              "enrollment": 21,
+              "instructor": "TUHOLSKE C P",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 3B",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "24133",
+              "enrollment": 25,
+              "instructor": "TUHOLSKE C P",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "4:00pm - 4:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 3B",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "24158",
+              "enrollment": 23,
+              "instructor": "TUHOLSKE C P",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 3B",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "24166",
+              "enrollment": 17,
+              "instructor": "ROMICH T L",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "10:00am - 10:50am"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 3B",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "24174",
+              "enrollment": 22,
+              "instructor": "DORSEY J E",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 3B",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "24182",
+              "enrollment": 20,
+              "instructor": "ROMICH T L",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "10:00am - 10:50am"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 3B",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "24190",
+              "enrollment": 24,
+              "instructor": "DORSEY J E",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 3B",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "59238",
+              "enrollment": 13,
+              "instructor": "ROMICH T L",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "9:00 am - 9:50 am"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 11:50am"
+        },
+        {
+          "capacity": 188,
+          "course_id": "GEOG 5",
+          "course_title": "PEOPLE/PLACE/ENVIRO",
+          "days": "M W F",
+          "enrollment": 170,
+          "instructor": "CHRASTIL E R",
+          "location": "HFH 1104",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "GEOG 5",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "24224",
+              "enrollment": 25,
+              "instructor": "GOTO E A",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 5",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "24232",
+              "enrollment": 27,
+              "instructor": "CHENG YOU",
+              "location": "ELLSN2620",
+              "status": "Full",
+              "times": "3:00pm - 3:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 5",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "24240",
+              "enrollment": 24,
+              "instructor": "CHENG YOU",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 5",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "24257",
+              "enrollment": 19,
+              "instructor": "GOTO E A",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "9:00 am - 9:50 am"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 5",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "24265",
+              "enrollment": 25,
+              "instructor": "GOTO E A",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "1:00pm - 1:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 5",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "24273",
+              "enrollment": 25,
+              "instructor": "RAMOS R G",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "4:00pm - 4:50pm"
+            },
+            {
+              "capacity": 27,
+              "course_id": "GEOG 5",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "24281",
+              "enrollment": 25,
+              "instructor": "CHENG YOU",
+              "location": "ELLSN3621",
+              "status": "",
+              "times": "12:00pm - 12:50pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 11:50am"
+        },
+        {
+          "capacity": 120,
+          "course_id": "GEOG W 12",
+          "course_title": "MAPS SPAT REAS",
+          "days": "",
+          "enrollment": 116,
+          "instructor": "MWENDA K M",
+          "location": "T B A",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG W 12",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "59485",
+              "enrollment": 20,
+              "instructor": "YE H",
+              "location": "ELLSN2610",
+              "status": "",
+              "times": "9:00 am - 11:50am"
+            },
+            {
+              "capacity": 24,
+              "course_id": "GEOG W 12",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "59493",
+              "enrollment": 25,
+              "instructor": "XIAO J",
+              "location": "ELLSN2610",
+              "status": "Full",
+              "times": "5:00pm - 7:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "GEOG W 12",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "59501",
+              "enrollment": 23,
+              "instructor": "ALLEN M",
+              "location": "ELLSN2610",
+              "status": "",
+              "times": "9:00 am - 11:50am"
+            },
+            {
+              "capacity": 24,
+              "course_id": "GEOG W 12",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "59519",
+              "enrollment": 24,
+              "instructor": "VAHEDI TORGHA",
+              "location": "ELLSN2610",
+              "status": "Full",
+              "times": "2:00pm - 4:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "GEOG W 12",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "67827",
+              "enrollment": 24,
+              "instructor": "SUAREZ A M",
+              "location": "ELLSN3620",
+              "status": "Full",
+              "times": "5:00pm - 7:50pm"
+            }
+          ],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 48,
+          "course_id": "GEOG 109",
+          "course_title": "ECON GEOG",
+          "days": "T R",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "GIRV 1119",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 109",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "24307",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "ELLSN2620",
+              "status": "Cancelled",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 24,
+              "course_id": "GEOG 109",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "24315",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "ELLSN3621",
+              "status": "Cancelled",
+              "times": "9:00 am - 9:50 am"
+            }
+          ],
+          "status": "Cancelled",
+          "times": "11:00am - 12:15pm"
+        },
+        {
+          "capacity": 24,
+          "course_id": "GEOG 113",
+          "course_title": "POLAR ENVIRONMENTS",
+          "days": "M W",
+          "enrollment": 26,
+          "instructor": "CHU V W",
+          "location": "ELLSN2620",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 113",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "56051",
+              "enrollment": 26,
+              "instructor": "ZIGNER K M",
+              "location": "ELLSN2620",
+              "status": "Full",
+              "times": "12:00pm - 12:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:45pm"
+        },
+        {
+          "capacity": 48,
+          "course_id": "GEOG 115C",
+          "course_title": "REMOTE SENS ENV 3",
+          "days": "M W",
+          "enrollment": 36,
+          "instructor": "CHU V W",
+          "location": "GIRV 1115",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 115C",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "24356",
+              "enrollment": 23,
+              "instructor": "KIBLER C L",
+              "location": "ELLSN2610",
+              "status": "",
+              "times": "5:00pm - 7:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "GEOG 115C",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "56069",
+              "enrollment": 13,
+              "instructor": "MILLER D L",
+              "location": "ELLSN2610",
+              "status": "",
+              "times": "9:00 am - 11:50am"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:15pm"
+        },
+        {
+          "capacity": 48,
+          "course_id": "GEOG 117",
+          "course_title": "RESEARCH METHODS",
+          "days": "T R",
+          "enrollment": 41,
+          "instructor": "MONTELLO D R",
+          "location": "ARTS 1356",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 117",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "56085",
+              "enrollment": 18,
+              "instructor": "BAE C J",
+              "location": "ELLSN3621",
+              "status": "",
+              "times": "10:00am - 10:50am"
+            },
+            {
+              "capacity": 24,
+              "course_id": "GEOG 117",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "56093",
+              "enrollment": 23,
+              "instructor": "KIRKBY J M",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "12:00pm - 12:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:15pm"
+        },
+        {
+          "capacity": 24,
+          "course_id": "GEOG 137",
+          "course_title": "QUANT GEOMORPH",
+          "days": "M W",
+          "enrollment": 19,
+          "instructor": "GANTI N K",
+          "location": "ELLSN3621",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 137",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "56119",
+              "enrollment": 19,
+              "instructor": "VOSS K A",
+              "location": "ELLSN2610",
+              "status": "",
+              "times": "9:00 am - 12:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:15pm"
+        },
+        {
+          "capacity": 24,
+          "course_id": "GEOG 142",
+          "course_title": "GLOB BIOGEO CYC",
+          "days": "M W",
+          "enrollment": 18,
+          "instructor": "KING J Y",
+          "location": "ELLSN3621",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 142",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "56135",
+              "enrollment": 18,
+              "instructor": "WANG JIAN",
+              "location": "ELLSN3621",
+              "status": "",
+              "times": "1:00pm - 2:50pm"
+            }
+          ],
+          "status": "Closed",
+          "times": "12:30pm - 1:45pm"
+        },
+        {
+          "capacity": 24,
+          "course_id": "GEOG 144",
+          "course_title": "RIVERS",
+          "days": "T R",
+          "enrollment": 24,
+          "instructor": "MORET S L",
+          "location": "ARTS 1349",
+          "sections": [
+            {
+              "capacity": 12,
+              "course_id": "GEOG 144",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "24414",
+              "enrollment": 11,
+              "instructor": "WHITE J A",
+              "location": "ELLSN3620",
+              "status": "",
+              "times": "9:00 am - 11:50am"
+            },
+            {
+              "capacity": 12,
+              "course_id": "GEOG 144",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "24422",
+              "enrollment": 13,
+              "instructor": "WHITE J A",
+              "location": "ELLSN3620",
+              "status": "Full",
+              "times": "12:00pm - 2:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:45pm"
+        },
+        {
+          "capacity": 60,
+          "course_id": "GEOG 148",
+          "course_title": "CALIFORNIA",
+          "days": "T R",
+          "enroll_code": "56143",
+          "enrollment": 65,
+          "instructor": "LAFIA S K",
+          "location": "NH 1105",
+          "sections": [],
+          "status": "Full",
+          "times": "12:30pm - 1:45pm"
+        },
+        {
+          "capacity": 30,
+          "course_id": "GEOG 153A",
+          "course_title": "BEHAVIORAL GEOG",
+          "days": "M W F",
+          "enrollment": 27,
+          "instructor": "PHILLIPS D W",
+          "location": "ELLSN3621",
+          "sections": [
+            {
+              "capacity": 30,
+              "course_id": "GEOG 153A",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "56168",
+              "enrollment": 27,
+              "instructor": "SCHUMACHER B",
+              "location": "ELLSN2620",
+              "status": "",
+              "times": "1:00pm - 1:50pm"
+            }
+          ],
+          "status": "",
+          "times": "9:00 am - 9:50 am"
+        },
+        {
+          "capacity": 30,
+          "course_id": "GEOG 162",
+          "course_title": "WATER QUALITY",
+          "days": "T R",
+          "enrollment": 35,
+          "instructor": "LOAICIGA H",
+          "location": "GIRV 1115",
+          "sections": [
+            {
+              "capacity": 15,
+              "course_id": "GEOG 162",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "24463",
+              "enrollment": 19,
+              "instructor": "RUBIO-VELAZQU",
+              "location": "ELLSN2610",
+              "status": "Full",
+              "times": "3:00pm - 4:50pm"
+            },
+            {
+              "capacity": 15,
+              "course_id": "GEOG 162",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "24471",
+              "enrollment": 16,
+              "instructor": "EYELADE O D",
+              "location": "ELLSN2610",
+              "status": "Full",
+              "times": "5:00pm - 6:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:45am"
+        },
+        {
+          "capacity": 48,
+          "course_id": "GEOG 176C",
+          "course_title": "GIS APPLICATIONS",
+          "days": "M W",
+          "enrollment": 28,
+          "instructor": "JANOWICZ K W",
+          "location": "HSSB 1173",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 176C",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "24588",
+              "enrollment": 16,
+              "instructor": "UPPAL A",
+              "location": "ELLSN2610",
+              "status": "",
+              "times": "5:00pm - 6:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "GEOG 176C",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "24596",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "ELLSN2610",
+              "status": "Cancelled",
+              "times": "12:00pm - 1:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "GEOG 176C",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "24604",
+              "enrollment": 12,
+              "instructor": "HERVEY T A",
+              "location": "ELLSN2610",
+              "status": "",
+              "times": "2:00pm - 3:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:15pm"
+        },
+        {
+          "capacity": 24,
+          "course_id": "GEOG 183",
+          "course_title": "CART DESIGN & GEOVI",
+          "days": "M W",
+          "enrollment": 30,
+          "instructor": "CLARKE K",
+          "location": "ELLSN3621",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 183",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "24620",
+              "enrollment": 30,
+              "instructor": "JOHNSON M",
+              "location": "ELLSN2610",
+              "status": "Full",
+              "times": "2:00pm - 3:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "3:30pm - 4:45pm"
+        },
+        {
+          "capacity": 48,
+          "course_id": "GEOG 185B",
+          "course_title": "ENVIRO DECISION MKG",
+          "days": "M W",
+          "enrollment": 41,
+          "instructor": "CHURCH R L",
+          "location": "GIRV 1115",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 185B",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "24646",
+              "enrollment": 22,
+              "instructor": "PLUDOW B A",
+              "location": "ELLSN3620",
+              "status": "",
+              "times": "9:00 am - 10:50am"
+            },
+            {
+              "capacity": 24,
+              "course_id": "GEOG 185B",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "24653",
+              "enrollment": 19,
+              "instructor": "FENG X",
+              "location": "ELLSN3620",
+              "status": "",
+              "times": "4:00pm - 5:50pm"
+            }
+          ],
+          "status": "",
+          "times": "3:30pm - 4:45pm"
+        },
+        {
+          "capacity": 30,
+          "course_id": "GEOG 193",
+          "course_title": "INTERN IN GEOGRAPHY",
+          "days": "",
+          "enroll_code": "24687",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 48,
+          "course_id": "GEOG 195KG",
+          "course_title": "SELECTED TOPICS",
+          "days": "T R",
+          "enroll_code": "56176",
+          "enrollment": 47,
+          "instructor": "GOULIAS K",
+          "location": "ELLSN3621",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:15pm"
+        },
+        {
+          "capacity": 30,
+          "course_id": "GEOG 198",
+          "course_title": "READINGS IN GEOG",
+          "days": "",
+          "enroll_code": "24695",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 30,
+          "course_id": "GEOG 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "24703",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 30,
+          "course_id": "GEOG 199RA",
+          "course_title": "INDEP RESEARCH ASST",
+          "days": "",
+          "enroll_code": "24711",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 15,
+          "course_id": "GEOG 200C",
+          "course_title": "INTRO GEOG RESEARCH",
+          "days": "",
+          "enroll_code": "63024",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 70,
+          "course_id": "GEOG 201",
+          "course_title": "SEMINAR GEOGRAPHY",
+          "days": "T R",
+          "enroll_code": "24737",
+          "enrollment": 31,
+          "instructor": "JONES C",
+          "location": "BREN 1414",
+          "sections": [],
+          "status": "",
+          "times": "3:30pm - 4:45pm"
+        },
+        {
+          "capacity": 15,
+          "course_id": "GEOG 210C",
+          "course_title": "ANALYTICAL METH III",
+          "days": "F",
+          "enrollment": 11,
+          "instructor": "DING Q",
+          "location": "ELLSN2616",
+          "sections": [
+            {
+              "capacity": 15,
+              "course_id": "GEOG 210C",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "24752",
+              "enrollment": 11,
+              "instructor": "DING Q",
+              "location": "ELLSN2616",
+              "status": "",
+              "times": "12:00pm - 1:50pm"
+            }
+          ],
+          "status": "",
+          "times": "12:00pm - 2:50pm"
+        },
+        {
+          "capacity": 5,
+          "course_id": "GEOG 213",
+          "course_title": "POLAR ENVIRONMENTS",
+          "days": "M W",
+          "enrollment": 2,
+          "instructor": "CHU V W",
+          "location": "ELLSN2620",
+          "sections": [
+            {
+              "capacity": 5,
+              "course_id": "GEOG 213",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "56192",
+              "enrollment": 2,
+              "instructor": "CHU V W",
+              "location": "ELLSN4824",
+              "status": "",
+              "times": "10:00am - 10:50am"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:45pm"
+        },
+        {
+          "capacity": 5,
+          "course_id": "GEOG 217",
+          "course_title": "RESEARCH METHODS",
+          "days": "T R",
+          "enrollment": 8,
+          "instructor": "MONTELLO D R",
+          "location": "ARTS 1356",
+          "sections": [
+            {
+              "capacity": 5,
+              "course_id": "GEOG 217",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "56218",
+              "enrollment": 8,
+              "instructor": "MONTELLO D R",
+              "location": "ELLSN4824",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 3:15pm"
+        },
+        {
+          "capacity": 5,
+          "course_id": "GEOG 237",
+          "course_title": "QUANT GEOMORPH",
+          "days": "M W",
+          "enrollment": 1,
+          "instructor": "GANTI N K",
+          "location": "ELLSN3621",
+          "sections": [
+            {
+              "capacity": 5,
+              "course_id": "GEOG 237",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "56234",
+              "enrollment": 1,
+              "instructor": "GANTI N K",
+              "location": "ELLSN2616",
+              "status": "",
+              "times": "9:00 am - 12:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:15pm"
+        },
+        {
+          "capacity": 8,
+          "course_id": "GEOG 260",
+          "course_title": "BIOGEOCHEM CYCLES",
+          "days": "M W",
+          "enrollment": 5,
+          "instructor": "KING J Y",
+          "location": "ELLSN3621",
+          "sections": [
+            {
+              "capacity": 8,
+              "course_id": "GEOG 260",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "56259",
+              "enrollment": 5,
+              "instructor": "KING J Y",
+              "location": "ELLSN4824",
+              "status": "",
+              "times": "3:30pm - 4:20pm"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:45pm"
+        },
+        {
+          "capacity": 15,
+          "course_id": "GEOG 263",
+          "course_title": "PHYS OCEANOGRAPHY",
+          "days": "M W",
+          "enroll_code": "24778",
+          "enrollment": 9,
+          "instructor": "NIDZIEKO N J",
+          "location": "ELLSN4824",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:15pm"
+        },
+        {
+          "capacity": 10,
+          "course_id": "GEOG 288CJ",
+          "course_title": "SPECIAL TOPIC GEOG",
+          "days": "M W",
+          "enroll_code": "24786",
+          "enrollment": 5,
+          "instructor": "JONES C",
+          "location": "ELLSN5824",
+          "sections": [],
+          "status": "",
+          "times": "10:00am - 11:15am"
+        },
+        {
+          "capacity": 15,
+          "course_id": "GEOG 288KJ",
+          "course_title": "SPECIAL TOPIC GEOG",
+          "days": "W",
+          "enroll_code": "56275",
+          "enrollment": 11,
+          "instructor": "JANOWICZ K W",
+          "location": "ELLSN5824",
+          "sections": [],
+          "status": "",
+          "times": "12:00pm - 1:15pm"
+        },
+        {
+          "capacity": 10,
+          "course_id": "GEOG 294",
+          "course_title": "ADV LOC & TRANS SYS",
+          "days": "W",
+          "enroll_code": "59360",
+          "enrollment": 5,
+          "instructor": "MURRAY A",
+          "location": "ELLSN4824",
+          "sections": [],
+          "status": "",
+          "times": "3:30pm - 6:20pm"
+        },
+        {
+          "capacity": 15,
+          "course_id": "GEOG 295",
+          "course_title": "ADV TOP IN PEDOLOGY",
+          "days": "R",
+          "enroll_code": "56283",
+          "enrollment": 6,
+          "instructor": "CHADWICK O A",
+          "location": "ELLSN4824",
+          "sections": [],
+          "status": "",
+          "times": "10:00am - 12:50pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "GEOG 596",
+          "course_title": "DIR READING & RES",
+          "days": "",
+          "enroll_code": "24828",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 25,
+          "course_id": "GEOG 597",
+          "course_title": "IND STUDY-PH D EXAM",
+          "days": "",
+          "enroll_code": "24836",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 25,
+          "course_id": "GEOG 598",
+          "course_title": "MASTER'S THESIS",
+          "days": "",
+          "enroll_code": "24844",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 25,
+          "course_id": "GEOG 599",
+          "course_title": "PH D DISSERTATION",
+          "days": "",
+          "enroll_code": "24851",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Geography - GEOG"
+    },
+    "text": "SPRING 2018"
+  },
+  "date": "2018-06-03T19:46:15.037703"
+}

@@ -1,0 +1,284 @@
+{
+  "20183": {
+    "PHIL": {
+      "courses": [
+        {
+          "capacity": 50,
+          "course_id": "PHIL 1",
+          "course_title": "SHORT INTRO TO PHIL",
+          "days": "MTWR",
+          "enrollment": 50,
+          "instructor": "KOTLOW Z A",
+          "location": "ARTS 1353",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "PHIL 1",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "11494/A",
+              "enrollment": 25,
+              "instructor": "COSTIGAN T J",
+              "location": "HSSB 1214",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "PHIL 1",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "11502/A",
+              "enrollment": 25,
+              "instructor": "COSTIGAN T J",
+              "location": "HSSB 1211",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 67,
+          "course_id": "PHIL 3",
+          "course_title": "CRITICAL THINKING",
+          "days": "MTWR",
+          "enrollment": 65,
+          "instructor": "MOKRISKI D A",
+          "location": "HSSB 1174",
+          "sections": [
+            {
+              "capacity": 17,
+              "course_id": "PHIL 3",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "11528/B",
+              "enrollment": 17,
+              "instructor": "BARNES D B",
+              "location": "HSSB 1207",
+              "status": "Full",
+              "times": "4:00pm - 5:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "PHIL 3",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "11536/B",
+              "enrollment": 25,
+              "instructor": "BARNES D B",
+              "location": "HSSB 1207",
+              "status": "Full",
+              "times": "4:00pm - 5:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "PHIL 3",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "19257/B",
+              "enrollment": 23,
+              "instructor": "BARNES D B",
+              "location": "HSSB 1207",
+              "status": "",
+              "times": "4:00pm - 5:20pm"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 76,
+          "course_id": "PHIL 4",
+          "course_title": "INTRO ETHICS",
+          "days": "MTWR",
+          "enrollment": 94,
+          "instructor": "ZAHN S E",
+          "location": "PSYCH1924",
+          "sections": [
+            {
+              "capacity": 19,
+              "course_id": "PHIL 4",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "11551/B",
+              "enrollment": 23,
+              "instructor": "",
+              "location": "LSB 1101",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 19,
+              "course_id": "PHIL 4",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "11569/B",
+              "enrollment": 23,
+              "instructor": "",
+              "location": "LSB 1101",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 19,
+              "course_id": "PHIL 4",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "11577/B",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "BUCHN1934",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 19,
+              "course_id": "PHIL 4",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "11585/B",
+              "enrollment": 23,
+              "instructor": "",
+              "location": "BUCHN1934",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:05pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "PHIL 100B",
+          "course_title": "THEORY OF KNOWLEDGE",
+          "days": "TWR",
+          "enrollment": 50,
+          "instructor": "STORY D E",
+          "location": "PHELP2524",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "PHIL 100B",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "11601/B",
+              "enrollment": 25,
+              "instructor": "BAGWELL J N",
+              "location": "HSSB 1231",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "PHIL 100B",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "11619/B",
+              "enrollment": 25,
+              "instructor": "BAGWELL J N",
+              "location": "HSSB 1211",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "PHIL 100D",
+          "course_title": "PHILOSOPHY OF MIND",
+          "days": "TWR",
+          "enrollment": 50,
+          "instructor": "DICKEY K M",
+          "location": "ARTS 1356",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "PHIL 100D",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "17285/A",
+              "enrollment": 25,
+              "instructor": "KYLER B E",
+              "location": "HSSB 1207",
+              "status": "Full",
+              "times": "3:30pm - 4:45pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "PHIL 100D",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "17293/A",
+              "enrollment": 25,
+              "instructor": "KYLER B E",
+              "location": "HSSB 1207",
+              "status": "Full",
+              "times": "3:30pm - 4:45pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "PHIL 112",
+          "course_title": "PHIL OF RELIGION",
+          "days": "TWR",
+          "enroll_code": "11650/A",
+          "enrollment": 46,
+          "instructor": "HANSCHMANN J",
+          "location": "ARTS 1356",
+          "sections": [],
+          "status": "",
+          "times": "2:00pm - 3:20pm"
+        },
+        {
+          "capacity": 75,
+          "course_id": "PHIL 145",
+          "course_title": "PUNISHMENT & RESPON",
+          "days": "TWR",
+          "enroll_code": "17301/B",
+          "enrollment": 68,
+          "instructor": "CONKLIN S L",
+          "location": "BUCHN1930",
+          "sections": [],
+          "status": "",
+          "times": "2:00pm - 3:20pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "PHIL 180",
+          "course_title": "PHILOSOPHICAL PSYCH",
+          "days": "TWR",
+          "enroll_code": "17319/A",
+          "enrollment": 34,
+          "instructor": "FALVEY K T",
+          "location": "PHELP2524",
+          "sections": [],
+          "status": "",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 4,
+          "course_id": "PHIL 599",
+          "course_title": "PH D DISS PREP",
+          "days": "",
+          "enroll_code": "11718",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Philosophy - PHIL"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:26:19.307674"
+}

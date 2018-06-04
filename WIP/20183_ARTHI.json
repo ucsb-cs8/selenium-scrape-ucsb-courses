@@ -1,0 +1,374 @@
+{
+  "20183": {
+    "ARTHI": {
+      "courses": [
+        {
+          "capacity": 50,
+          "course_id": "ARTHI 5B",
+          "course_title": "INTRO MUSEUM STUDY",
+          "days": "",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "ARTHI 5B",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "16113/A",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "T B A",
+              "status": "Cancelled",
+              "times": ""
+            },
+            {
+              "capacity": 25,
+              "course_id": "ARTHI 5B",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "16121/A",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "T B A",
+              "status": "Cancelled",
+              "times": ""
+            }
+          ],
+          "status": "Cancelled",
+          "times": ""
+        },
+        {
+          "capacity": 50,
+          "course_id": "ARTHI 6A",
+          "course_title": "SURVEY I: ANC-MED",
+          "days": "MTWR",
+          "enrollment": 50,
+          "instructor": "BOLLI C M",
+          "location": "ARTS 1341",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "ARTHI 6A",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16170/A",
+              "enrollment": 25,
+              "instructor": "MORRIS S C",
+              "location": "ARTS 2324",
+              "status": "Full",
+              "times": "3:30pm - 4:40pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "ARTHI 6A",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16188/A",
+              "enrollment": 25,
+              "instructor": "MORRIS S C",
+              "location": "ARTS 2324",
+              "status": "Full",
+              "times": "5:00pm - 6:10pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 41,
+          "course_id": "ARTHI 6B",
+          "course_title": "SURVEY II: REN-BAR",
+          "days": "MTWR",
+          "enrollment": 46,
+          "instructor": "MANSFIELD M E",
+          "location": "ARTS 1341",
+          "sections": [
+            {
+              "capacity": 16,
+              "course_id": "ARTHI 6B",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "00711/B",
+              "enrollment": 21,
+              "instructor": "GOOD F E",
+              "location": "ARTS 2324",
+              "status": "Full",
+              "times": "3:30pm - 4:40pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "ARTHI 6B",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "00729/B",
+              "enrollment": 25,
+              "instructor": "GOOD F E",
+              "location": "ARTS 2324",
+              "status": "Full",
+              "times": "5:00pm - 6:10pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 32,
+          "course_id": "ARTHI 6C",
+          "course_title": "SURVEY III: MOD-CON",
+          "days": "MTWR",
+          "enrollment": 37,
+          "instructor": "FAUST M R",
+          "location": "ARTS 1341",
+          "sections": [
+            {
+              "capacity": 16,
+              "course_id": "ARTHI 6C",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "00745/B",
+              "enrollment": 18,
+              "instructor": "WINTER R E",
+              "location": "ARTS 2324",
+              "status": "Full",
+              "times": "11:00am - 12:10pm"
+            },
+            {
+              "capacity": 16,
+              "course_id": "ARTHI 6C",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "00752/B",
+              "enrollment": 19,
+              "instructor": "WINTER R E",
+              "location": "ARTS 2324",
+              "status": "Full",
+              "times": "12:30pm - 1:40pm"
+            }
+          ],
+          "status": "Full",
+          "times": "3:30pm - 4:45pm"
+        },
+        {
+          "capacity": 32,
+          "course_id": "ARTHI 6E",
+          "course_title": "AFR,OCEANIA,N. AMER",
+          "days": "MTWR",
+          "enrollment": 36,
+          "instructor": "OGBECHIE S O",
+          "location": "ARTS 1341",
+          "sections": [
+            {
+              "capacity": 16,
+              "course_id": "ARTHI 6E",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "16147/B",
+              "enrollment": 16,
+              "instructor": "BASKETT M E",
+              "location": "ARTS 2324",
+              "status": "Full",
+              "times": "2:00pm - 3:10pm"
+            },
+            {
+              "capacity": 16,
+              "course_id": "ARTHI 6E",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "16154/B",
+              "enrollment": 20,
+              "instructor": "BASKETT M E",
+              "location": "ARTS 2324",
+              "status": "Full",
+              "times": "3:30pm - 4:40pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 50,
+          "course_id": "ARTHI 6F",
+          "course_title": "SUR ARCH & PLAN",
+          "days": "MTWR",
+          "enrollment": 44,
+          "instructor": "WHITE J S",
+          "location": "ARTS 1341",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "ARTHI 6F",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "00778/A",
+              "enrollment": 24,
+              "instructor": "LIMB M K",
+              "location": "ARTS 2324",
+              "status": "",
+              "times": "3:30pm - 4:40pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "ARTHI 6F",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "00786/A",
+              "enrollment": 20,
+              "instructor": "LIMB M K",
+              "location": "ARTS 2324",
+              "status": "",
+              "times": "5:00pm - 6:10pm"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 50,
+          "course_id": "ARTHI 6G",
+          "course_title": "SUR HIST OF PHOTOG",
+          "days": "MTWR",
+          "enrollment": 50,
+          "instructor": "MCLEMORE E L",
+          "location": "ARTS 1341",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "ARTHI 6G",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "17699/B",
+              "enrollment": 25,
+              "instructor": "WINTER R E",
+              "location": "ARTS 2324",
+              "status": "Full",
+              "times": "11:00am - 12:10pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "ARTHI 6G",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "17707/B",
+              "enrollment": 25,
+              "instructor": "WINTER R E",
+              "location": "ARTS 2324",
+              "status": "Full",
+              "times": "12:30pm - 1:40pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 3:20pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "ARTHI 117F",
+          "course_title": "IMPRESSIONISM",
+          "days": "MTWR",
+          "enroll_code": "16196/A",
+          "enrollment": 32,
+          "instructor": "GARFINKLE C G",
+          "location": "ARTS 1341",
+          "sections": [],
+          "status": "",
+          "times": "2:00pm - 3:20pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "ARTHI 136I",
+          "course_title": "CITY IN HISTORY",
+          "days": "MTWR",
+          "enroll_code": "00885/A",
+          "enrollment": 35,
+          "instructor": "CHATTOPADHYAY",
+          "location": "ARTS 1341",
+          "sections": [],
+          "status": "Full",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 5,
+          "course_id": "ARTHI 141E",
+          "course_title": "UNIV ART MUS INTERN",
+          "days": "",
+          "enroll_code": "00901/A",
+          "enrollment": 0,
+          "instructor": "ROBERTSON E B",
+          "location": "T B A",
+          "sections": [
+            {
+              "capacity": 5,
+              "course_id": "ARTHI 141E",
+              "course_title": "UNIV ART MUS INTERN",
+              "days": "",
+              "enroll_code": "00919/B",
+              "enrollment": 0,
+              "instructor": "ROBERTSON E B",
+              "location": "T B A",
+              "status": "",
+              "times": ""
+            }
+          ],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 35,
+          "course_id": "ARTHI 148A",
+          "course_title": "CONTEMP ART HISTORY",
+          "days": "MTWR",
+          "enroll_code": "16204/B",
+          "enrollment": 35,
+          "instructor": "MCLEMORE E L",
+          "location": "ARTS 1341",
+          "sections": [],
+          "status": "Full",
+          "times": "5:00pm - 6:20pm"
+        },
+        {
+          "capacity": 10,
+          "course_id": "ARTHI 198",
+          "course_title": "IND READINGS ARTHI",
+          "days": "",
+          "enroll_code": "00927",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "ARTHI 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "00935",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "ARTHI 596",
+          "course_title": "INDEPENDENT STUDY",
+          "days": "",
+          "enroll_code": "00976",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Art History - ARTHI"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:12:27.180197"
+}

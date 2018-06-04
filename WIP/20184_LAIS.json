@@ -1,0 +1,187 @@
+{
+  "20184": {
+    "LAIS": {
+      "courses": [
+        {
+          "capacity": 100,
+          "course_id": "LAIS 10",
+          "course_title": "INTRO TO LAIS WORLD",
+          "days": "T R",
+          "enrollment": 96,
+          "instructor": "T B A",
+          "location": "LSB 1001",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "LAIS 10",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "28753",
+              "enrollment": 14,
+              "instructor": "",
+              "location": "NH 1111",
+              "status": "",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "LAIS 10",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "28761",
+              "enrollment": 7,
+              "instructor": "",
+              "location": "PHELP2524",
+              "status": "",
+              "times": "6:00pm - 6:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "LAIS 10",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "28779",
+              "enrollment": 8,
+              "instructor": "",
+              "location": "PHELP3523",
+              "status": "",
+              "times": "5:00pm - 5:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "LAIS 10",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "28787",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "HSSB 1232",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "LAIS 10",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "28795",
+              "enrollment": 23,
+              "instructor": "",
+              "location": "HSSB 1232",
+              "status": "",
+              "times": "11:00am - 11:50am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "LAIS 10",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "28803",
+              "enrollment": 19,
+              "instructor": "",
+              "location": "GIRV 2127",
+              "status": "",
+              "times": "11:00am - 11:50am"
+            }
+          ],
+          "status": "",
+          "times": "3:30pm - 4:45pm"
+        },
+        {
+          "capacity": 5,
+          "course_id": "LAIS 195A",
+          "course_title": "SENIOR HONRS THESIS",
+          "days": "",
+          "enroll_code": "28811",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "LAIS 195B",
+          "course_title": "SENIOR HONRS THESIS",
+          "days": "",
+          "enroll_code": "28829",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "LAIS 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "28837",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "LAIS 591",
+          "course_title": "TA PRACTICUM",
+          "days": "",
+          "enroll_code": "28845",
+          "enrollment": 0,
+          "instructor": "SANTOS-GOMEZ",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "LAIS 596",
+          "course_title": "DIR READ & RESCH",
+          "days": "",
+          "enroll_code": "28852",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "LAIS 597",
+          "course_title": "IND STD M.A. COMP",
+          "days": "",
+          "enroll_code": "28860",
+          "enrollment": 0,
+          "instructor": "SANTOS-GOMEZ",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "LAIS 598",
+          "course_title": "MASTER'S THESIS",
+          "days": "",
+          "enroll_code": "28878",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Latin American and Iberian Studies - LAIS"
+    },
+    "text": "FALL 2018"
+  },
+  "date": "2018-06-03T18:58:39.759095"
+}

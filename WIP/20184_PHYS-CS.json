@@ -1,0 +1,134 @@
+{
+  "20184": {
+    "PHYS CS ": {
+      "courses": [
+        {
+          "capacity": 13,
+          "course_id": "PHYS CS 15A",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 11,
+          "instructor": "",
+          "location": "BRDA 3314",
+          "sections": [
+            {
+              "capacity": 13,
+              "course_id": "PHYS CS 15A",
+              "course_title": "INTRO: EXP PHYSICS",
+              "days": "W",
+              "enroll_code": "41335",
+              "enrollment": 11,
+              "instructor": "T B A",
+              "location": "BRDA 3314",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 13,
+              "course_id": "PHYS CS 15A",
+              "course_title": "INTRO: EXP PHYSICS",
+              "days": "W",
+              "enroll_code": "41343",
+              "enrollment": 7,
+              "instructor": "T B A",
+              "location": "BRDA 3314",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            }
+          ],
+          "status": "",
+          "times": "3:00pm - 5:50pm"
+        },
+        {
+          "capacity": 13,
+          "course_id": "PHYS CS 15A",
+          "course_title": "",
+          "days": "F",
+          "enrollment": 7,
+          "instructor": "",
+          "location": "BRDA 3314",
+          "sections": [],
+          "status": "",
+          "times": "3:00pm - 5:50pm"
+        },
+        {
+          "capacity": 25,
+          "course_id": "PHYS CS 31",
+          "course_title": "NEWTONIAN MECHANICS",
+          "days": "T R",
+          "enroll_code": "41392",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "BUCHN1934",
+          "sections": [],
+          "status": "",
+          "times": "3:30pm - 4:45pm"
+        },
+        {
+          "capacity": 25,
+          "course_id": "PHYS CS 31",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 0,
+          "instructor": "",
+          "location": "BUCHN1934",
+          "sections": [],
+          "status": "",
+          "times": "1:00pm - 2:50pm"
+        },
+        {
+          "capacity": 25,
+          "course_id": "PHYS CS 31",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 0,
+          "instructor": "",
+          "location": "BUCHN1934",
+          "sections": [],
+          "status": "",
+          "times": "3:00pm - 4:50pm"
+        },
+        {
+          "capacity": 25,
+          "course_id": "PHYS CS 34",
+          "course_title": "ELECTROMAGNETISM",
+          "days": "T R",
+          "enroll_code": "41400",
+          "enrollment": 10,
+          "instructor": "T B A",
+          "location": "HSSB 1224",
+          "sections": [],
+          "status": "",
+          "times": "3:30pm - 4:50pm"
+        },
+        {
+          "capacity": 25,
+          "course_id": "PHYS CS 34",
+          "course_title": "",
+          "days": "R",
+          "enrollment": 10,
+          "instructor": "",
+          "location": "GIRV 2120",
+          "sections": [],
+          "status": "",
+          "times": "1:00pm - 2:50pm"
+        },
+        {
+          "capacity": 25,
+          "course_id": "PHYS CS 34",
+          "course_title": "",
+          "days": "R",
+          "enrollment": 10,
+          "instructor": "",
+          "location": "GIRV 2120",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:50pm"
+        }
+      ],
+      "text": "Physics (Creative Studies) - PHYS CS"
+    },
+    "text": "FALL 2018"
+  },
+  "date": "2018-06-03T19:05:24.222631"
+}

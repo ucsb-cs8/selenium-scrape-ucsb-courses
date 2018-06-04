@@ -1,0 +1,326 @@
+{
+  "20183": {
+    "EARTH": {
+      "courses": [
+        {
+          "capacity": 25,
+          "course_id": "EARTH 2",
+          "course_title": "PHYSICAL GEOLOGY",
+          "days": "TWR",
+          "enrollment": 23,
+          "instructor": "GREANEY A",
+          "location": "PHELP1448",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "EARTH 2",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "03558/A",
+              "enrollment": 23,
+              "instructor": "",
+              "location": "PSB-S2724",
+              "status": "",
+              "times": "2:00pm - 4:50pm"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 27,
+          "course_id": "EARTH 4",
+          "course_title": "INTRO OCEANOGRAPHY",
+          "days": "TWR",
+          "enrollment": 25,
+          "instructor": "SPRATT R M",
+          "location": "PHELP2514",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "EARTH 4",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "03582/A",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "PSB-S2712",
+              "status": "",
+              "times": "2:00pm - 3:25pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 42,
+          "course_id": "EARTH 7",
+          "course_title": "DINOSAURS",
+          "days": "TWR",
+          "enrollment": 20,
+          "instructor": "T B A",
+          "location": "PSB-S2712",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "EARTH 7",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "03616/A",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "PSB-S2725",
+              "status": "",
+              "times": "2:00pm - 3:25pm"
+            },
+            {
+              "capacity": 21,
+              "course_id": "EARTH 7",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "03624/A",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "PSB-S2725",
+              "status": "Closed",
+              "times": "2:00pm - 3:25pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:25pm"
+        },
+        {
+          "capacity": 44,
+          "course_id": "EARTH 10",
+          "course_title": "ANTARCTICA",
+          "days": "TWR",
+          "enrollment": 23,
+          "instructor": "ERICKSON E A",
+          "location": "PSB-S2712",
+          "sections": [
+            {
+              "capacity": 22,
+              "course_id": "EARTH 10",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "03657/B",
+              "enrollment": 14,
+              "instructor": "",
+              "location": "PSB-S2712",
+              "status": "",
+              "times": "3:00pm - 4:25pm"
+            },
+            {
+              "capacity": 22,
+              "course_id": "EARTH 10",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "03665/B",
+              "enrollment": 9,
+              "instructor": "",
+              "location": "PSB-S2712",
+              "status": "",
+              "times": "2:00pm - 3:25pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 60,
+          "course_id": "EARTHW 20",
+          "course_title": "GEOL CATASTROPHES",
+          "days": "",
+          "enrollment": 60,
+          "instructor": "ALESSIO P A",
+          "location": "T B A",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "EARTHW 20",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "16287/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "ON LINE",
+              "status": "Full",
+              "times": "6:00pm - 8:00pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EARTHW 20",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16295/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "ON LINE",
+              "status": "Full",
+              "times": "6:00pm - 8:00pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "EARTHW 20",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "16303/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "ON LINE",
+              "status": "Full",
+              "times": "6:00pm - 8:00pm"
+            }
+          ],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 27,
+          "course_id": "EARTH 123",
+          "course_title": "THE SOLAR SYSTEM",
+          "days": "TWR",
+          "enrollment": 26,
+          "instructor": "ADAMS J V",
+          "location": "PHELP1448",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "EARTH 123",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16261/B",
+              "enrollment": 26,
+              "instructor": "",
+              "location": "PSB-S2711",
+              "status": "",
+              "times": "3:00pm - 4:25pm"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 3,
+          "course_id": "EARTH 187",
+          "course_title": "TEACHING PRACTICUM",
+          "days": "",
+          "enroll_code": "03723",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "EARTH 192",
+          "course_title": "INTERNSHIP GEOL SCI",
+          "days": "",
+          "enroll_code": "03731",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 0,
+          "course_id": "EARTH 196HC",
+          "course_title": "SR HONORS THESIS",
+          "days": "",
+          "enroll_code": "03749",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 2,
+          "course_id": "EARTH 198",
+          "course_title": "READINGS IN GEOL SC",
+          "days": "",
+          "enroll_code": "03756",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 2,
+          "course_id": "EARTH 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "03764",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "EARTH 199RA",
+          "course_title": "IND. RESEARCH ASST.",
+          "days": "",
+          "enroll_code": "03772",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 0,
+          "course_id": "EARTH 503",
+          "course_title": "PRACTICUM/RESEARCH",
+          "days": "",
+          "enroll_code": "03780/C",
+          "enrollment": 0,
+          "instructor": "AWRAMIK S M",
+          "location": "T B A",
+          "sections": [],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "EARTH 596",
+          "course_title": "DIR READ & RESEARCH",
+          "days": "",
+          "enroll_code": "03798",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "EARTH 597",
+          "course_title": "INDIV STD MA & PHD",
+          "days": "",
+          "enroll_code": "03806",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Earth Science - EARTH"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:16:48.870406"
+}

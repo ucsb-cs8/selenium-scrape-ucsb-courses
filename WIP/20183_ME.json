@@ -1,0 +1,216 @@
+{
+  "20183": {
+    "ME": {
+      "courses": [
+        {
+          "capacity": 30,
+          "course_id": "ME 14",
+          "course_title": "STATICS",
+          "days": "MTWR",
+          "enrollment": 12,
+          "instructor": "QALANDAR K R",
+          "location": "GIRV 1112",
+          "sections": [
+            {
+              "capacity": 30,
+              "course_id": "ME 14",
+              "course_title": "",
+              "days": "W F",
+              "enroll_code": "10926/D",
+              "enrollment": 12,
+              "instructor": "",
+              "location": "PHELP2532",
+              "status": "",
+              "times": "4:00pm - 5:25pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:40pm"
+        },
+        {
+          "capacity": 30,
+          "course_id": "ME 15",
+          "course_title": "STRENGTH-MATERIALS",
+          "days": "MTWR",
+          "enrollment": 18,
+          "instructor": "BELTZ G",
+          "location": "GIRV 1112",
+          "sections": [
+            {
+              "capacity": 30,
+              "course_id": "ME 15",
+              "course_title": "",
+              "days": "W F",
+              "enroll_code": "10942/E",
+              "enrollment": 18,
+              "instructor": "BELTZ G",
+              "location": "PHELP2532",
+              "status": "",
+              "times": "4:00pm - 5:25pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:40pm"
+        },
+        {
+          "capacity": 30,
+          "course_id": "ME 16",
+          "course_title": "ENGR MECH: DYNAMICS",
+          "days": "MTWR",
+          "enrollment": 17,
+          "instructor": "JAFARPOUR S",
+          "location": "PHELP1440",
+          "sections": [
+            {
+              "capacity": 30,
+              "course_id": "ME 16",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "10967/B",
+              "enrollment": 17,
+              "instructor": "",
+              "location": "PHELP2532",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:20pm"
+        },
+        {
+          "capacity": 35,
+          "course_id": "ME 95",
+          "course_title": "INTRO TO MECH ENGR",
+          "days": "",
+          "enroll_code": "10975",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 35,
+          "course_id": "ME 97",
+          "course_title": "DESIGN PROJECTS",
+          "days": "",
+          "enroll_code": "10983",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 35,
+          "course_id": "ME 99",
+          "course_title": "INTRO RESEARCH",
+          "days": "",
+          "enroll_code": "10991",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 22,
+          "course_id": "ME 179L",
+          "course_title": "ROBOTICS: DESIGN",
+          "days": "MTWRF",
+          "enroll_code": "11015/A",
+          "enrollment": 16,
+          "instructor": "DAHLEN G A",
+          "location": "ENGR22133",
+          "sections": [],
+          "status": "",
+          "times": "10:30am - 12:20pm"
+        },
+        {
+          "capacity": 30,
+          "course_id": "ME 197",
+          "course_title": "IND STUDIES DESIGN",
+          "days": "",
+          "enroll_code": "11031",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "ME 199",
+          "course_title": "INDEP STUDIES IN ME",
+          "days": "",
+          "enroll_code": "11049",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "ME 596",
+          "course_title": "DIRECTED RESEARCH",
+          "days": "",
+          "enroll_code": "11056",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "ME 597",
+          "course_title": "STUDY FOR PH D EXAM",
+          "days": "",
+          "enroll_code": "11064",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "ME 598",
+          "course_title": "MS THESIS RSCH-PREP",
+          "days": "",
+          "enroll_code": "11072",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "ME 599",
+          "course_title": "PH D DISS PREP",
+          "days": "",
+          "enroll_code": "11080",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Mechanical Engineering - ME"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:24:39.049352"
+}

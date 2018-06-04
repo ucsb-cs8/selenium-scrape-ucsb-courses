@@ -1,0 +1,174 @@
+{
+  "20183": {
+    "AS AM": {
+      "courses": [
+        {
+          "capacity": 40,
+          "course_id": "AS AM 1",
+          "course_title": "INTRO AS AM HISTORY",
+          "days": "MTW",
+          "enrollment": 36,
+          "instructor": "ZHAO X",
+          "location": "HSSB 1173",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "AS AM 1",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "01024/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "HSSB 1232",
+              "status": "Full",
+              "times": "12:00pm - 12:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "AS AM 1",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "01032/B",
+              "enrollment": 16,
+              "instructor": "",
+              "location": "HSSB 1232",
+              "status": "",
+              "times": "1:00pm - 1:50pm"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:55am"
+        },
+        {
+          "capacity": 50,
+          "course_id": "AS AM 2",
+          "course_title": "AMERICAN MIGRATION",
+          "days": "MTW",
+          "enrollment": 50,
+          "instructor": "ZULUETA B C",
+          "location": "ARTS 1349",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "AS AM 2",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "01065/A",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "HSSB 1211",
+              "status": "Full",
+              "times": "12:00pm - 12:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "AS AM 2",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "01073/A",
+              "enrollment": 25,
+              "instructor": "",
+              "location": "HSSB 1211",
+              "status": "Full",
+              "times": "1:00pm - 1:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:55am"
+        },
+        {
+          "capacity": 50,
+          "course_id": "AS AM 5",
+          "course_title": "INTRO ASIAN AM LIT",
+          "days": "MTW",
+          "enrollment": 31,
+          "instructor": "PANDYA S P",
+          "location": "NH 1105",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "AS AM 5",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16030/A",
+              "enrollment": 18,
+              "instructor": "",
+              "location": "HSSB 1224",
+              "status": "",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "AS AM 5",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "16048/A",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "HSSB 1224",
+              "status": "",
+              "times": "3:00pm - 3:50pm"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:55pm"
+        },
+        {
+          "capacity": 25,
+          "course_id": "AS AM 100CC",
+          "course_title": "FILIPINO AMERICANS",
+          "days": "MTW",
+          "enroll_code": "01107/A",
+          "enrollment": 25,
+          "instructor": "ZULUETA B C",
+          "location": "HSSB 1207",
+          "sections": [],
+          "status": "Full",
+          "times": "12:30pm - 1:55pm"
+        },
+        {
+          "capacity": 25,
+          "course_id": "AS AM 100FF",
+          "course_title": "SO ASIAN AMERICANS",
+          "days": "MTW",
+          "enroll_code": "16055/A",
+          "enrollment": 25,
+          "instructor": "PANDYA S P",
+          "location": "HSSB 1214",
+          "sections": [],
+          "status": "Full",
+          "times": "2:00pm - 3:25pm"
+        },
+        {
+          "capacity": 25,
+          "course_id": "AS AM 157",
+          "course_title": "AS AM EDUCATION",
+          "days": "MTW",
+          "enroll_code": "01123/A",
+          "enrollment": 25,
+          "instructor": "MACIAS H C",
+          "location": "BUCHN1934",
+          "sections": [],
+          "status": "Full",
+          "times": "9:30 am - 10:55am"
+        },
+        {
+          "capacity": 0,
+          "course_id": "AS AM 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "01149",
+          "enrollment": 0,
+          "instructor": "ZULUETA B C",
+          "location": "T B A",
+          "sections": [],
+          "status": "Full",
+          "times": ""
+        }
+      ],
+      "text": "Asian American Studies - AS AM"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:12:53.805936"
+}

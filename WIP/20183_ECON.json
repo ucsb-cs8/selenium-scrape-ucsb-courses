@@ -1,0 +1,595 @@
+{
+  "20183": {
+    "ECON": {
+      "courses": [
+        {
+          "capacity": 40,
+          "course_id": "ECON 2",
+          "course_title": "PRIN ECON-MACRO",
+          "days": "MTW",
+          "enrollment": 30,
+          "instructor": "RUPERT P",
+          "location": "PHELP3505",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "ECON 2",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "03954/B",
+              "enrollment": 19,
+              "instructor": "",
+              "location": "PHELP1448",
+              "status": "",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "ECON 2",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "03962/B",
+              "enrollment": 11,
+              "instructor": "",
+              "location": "PHELP1444",
+              "status": "",
+              "times": "3:30pm - 4:50pm"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 60,
+          "course_id": "ECON 3A",
+          "course_title": "FINANCIAL ACCTG",
+          "days": "MTW",
+          "enrollment": 43,
+          "instructor": "HARMON C J",
+          "location": "PHELP1260",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "ECON 3A",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "03988/A",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "NH 1122",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "ECON 3A",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "03996/A",
+              "enrollment": 13,
+              "instructor": "",
+              "location": "NH 1122",
+              "status": "",
+              "times": "8:00 am - 9:20 am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "ECON 3A",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "04002/A",
+              "enrollment": 10,
+              "instructor": "",
+              "location": "NH 1122",
+              "status": "",
+              "times": "9:30 am - 10:50am"
+            }
+          ],
+          "status": "",
+          "times": "8:00 am - 9:20 am"
+        },
+        {
+          "capacity": 60,
+          "course_id": "ECON 3B",
+          "course_title": "FINANCIAL ACCTG",
+          "days": "M W",
+          "enrollment": 44,
+          "instructor": "FULKERSON S D",
+          "location": "WEBB 1100",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "ECON 3B",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "04028/B",
+              "enrollment": 17,
+              "instructor": "",
+              "location": "NH 1122",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "ECON 3B",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "04036/B",
+              "enrollment": 11,
+              "instructor": "",
+              "location": "NH 1122",
+              "status": "",
+              "times": "3:30pm - 4:50pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "ECON 3B",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "04044/B",
+              "enrollment": 16,
+              "instructor": "",
+              "location": "NH 1122",
+              "status": "",
+              "times": "11:00am - 12:20pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 4:10pm"
+        },
+        {
+          "capacity": 210,
+          "course_id": "ECON 10A",
+          "course_title": "MICROECON THEORY",
+          "days": "MTWR",
+          "enrollment": 184,
+          "instructor": "HARTMAN J L",
+          "location": "BRDA 1610",
+          "sections": [],
+          "status": "",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 210,
+          "course_id": "ECON 10A",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 184,
+          "instructor": "",
+          "location": "BRDA 1610",
+          "sections": [
+            {
+              "capacity": 35,
+              "course_id": "ECON 10A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "04069/B",
+              "enrollment": 35,
+              "instructor": "",
+              "location": "387 1015",
+              "status": "Full",
+              "times": "4:00pm - 4:50pm"
+            },
+            {
+              "capacity": 35,
+              "course_id": "ECON 10A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "04077/B",
+              "enrollment": 35,
+              "instructor": "",
+              "location": "GIRV 1119",
+              "status": "Full",
+              "times": "3:00pm - 3:50pm"
+            },
+            {
+              "capacity": 35,
+              "course_id": "ECON 10A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "04085/B",
+              "enrollment": 37,
+              "instructor": "",
+              "location": "GIRV 1116",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 35,
+              "course_id": "ECON 10A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "04093/B",
+              "enrollment": 33,
+              "instructor": "",
+              "location": "NH 1111",
+              "status": "",
+              "times": "3:00pm - 3:50pm"
+            },
+            {
+              "capacity": 35,
+              "course_id": "ECON 10A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "18721/B",
+              "enrollment": 35,
+              "instructor": "",
+              "location": "NH 1111",
+              "status": "Full",
+              "times": "2:00pm - 2:50pm"
+            },
+            {
+              "capacity": 35,
+              "course_id": "ECON 10A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "18739/B",
+              "enrollment": 9,
+              "instructor": "",
+              "location": "NH 1109",
+              "status": "",
+              "times": "3:00pm - 3:50pm"
+            },
+            {
+              "capacity": 35,
+              "course_id": "ECON 10A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "18747/B",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "NH 1111",
+              "status": "Closed",
+              "times": "4:00pm - 4:50pm"
+            },
+            {
+              "capacity": 35,
+              "course_id": "ECON 10A",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "18754/B",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "GIRV 1119",
+              "status": "Closed",
+              "times": "2:00pm - 2:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:20pm"
+        },
+        {
+          "capacity": 160,
+          "course_id": "ECON 101",
+          "course_title": "MACROECON THEORY",
+          "days": "MTW",
+          "enrollment": 159,
+          "instructor": "BIRCHENALL J",
+          "location": "HFH 1104",
+          "sections": [
+            {
+              "capacity": 40,
+              "course_id": "ECON 101",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "04168/B",
+              "enrollment": 40,
+              "instructor": "",
+              "location": "387 1015",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 40,
+              "course_id": "ECON 101",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "04176/B",
+              "enrollment": 39,
+              "instructor": "",
+              "location": "387 1011",
+              "status": "",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 40,
+              "course_id": "ECON 101",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "04184/B",
+              "enrollment": 40,
+              "instructor": "",
+              "location": "GIRV 1116",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 40,
+              "course_id": "ECON 101",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "04192/B",
+              "enrollment": 40,
+              "instructor": "",
+              "location": "387 1011",
+              "status": "Full",
+              "times": "3:30pm - 4:50pm"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 125,
+          "course_id": "ECON 114B",
+          "course_title": "ECONOMIC DEVELOP",
+          "days": "MTW",
+          "enroll_code": "04200/B",
+          "enrollment": 107,
+          "instructor": "BIRCHENALL J",
+          "location": "LSB 1001",
+          "sections": [],
+          "status": "",
+          "times": "2:00pm - 3:20pm"
+        },
+        {
+          "capacity": 72,
+          "course_id": "ECON 118",
+          "course_title": "FIN ACCTG ANALYSIS",
+          "days": "MTW",
+          "enroll_code": "04218/A",
+          "enrollment": 53,
+          "instructor": "LOSTER D R",
+          "location": "NH 1110",
+          "sections": [],
+          "status": "",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 30,
+          "course_id": "ECON 118H",
+          "course_title": "ACCTG ANAL HONORS",
+          "days": "W",
+          "enroll_code": "04226/A",
+          "enrollment": 0,
+          "instructor": "LOSTER D R",
+          "location": "NH 1110",
+          "sections": [],
+          "status": "",
+          "times": "11:30am - 12:25pm"
+        },
+        {
+          "capacity": 88,
+          "course_id": "ECON 134A",
+          "course_title": "FIN MANAGEMENT",
+          "days": "TWR",
+          "enrollment": 82,
+          "instructor": "HARTMAN J L",
+          "location": "PHELP3515",
+          "sections": [
+            {
+              "capacity": 44,
+              "course_id": "ECON 134A",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "04242/B",
+              "enrollment": 42,
+              "instructor": "",
+              "location": "387 1011",
+              "status": "",
+              "times": "11:00am - 12:25pm"
+            },
+            {
+              "capacity": 44,
+              "course_id": "ECON 134A",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "04259/B",
+              "enrollment": 40,
+              "instructor": "",
+              "location": "387 1011",
+              "status": "",
+              "times": "9:30 am - 10:55am"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:25pm"
+        },
+        {
+          "capacity": 40,
+          "course_id": "ECON 135",
+          "course_title": "MONETARY ECONOMICS",
+          "days": "MT RF",
+          "enroll_code": "04267/G",
+          "enrollment": 40,
+          "instructor": "BOHN H",
+          "location": "GIRV 2129",
+          "sections": [
+            {
+              "capacity": 40,
+              "course_id": "ECON 135",
+              "course_title": "MONETARY ECONOMICS",
+              "days": "MT RF",
+              "enroll_code": "18564/G",
+              "enrollment": 36,
+              "instructor": "BOHN H",
+              "location": "GIRV 2129",
+              "status": "",
+              "times": "12:30pm - 2:35pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 11:35am"
+        },
+        {
+          "capacity": 65,
+          "course_id": "ECON 136B",
+          "course_title": "INTERMED ACCOUNTING",
+          "days": "MTW",
+          "enroll_code": "17541/A",
+          "enrollment": 50,
+          "instructor": "HARMON C J",
+          "location": "PHELP1425",
+          "sections": [],
+          "status": "",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 60,
+          "course_id": "ECON 136C",
+          "course_title": "INTERMED ACCOUNTING",
+          "days": "MTW",
+          "enroll_code": "04275/A",
+          "enrollment": 27,
+          "instructor": "HARMON C J",
+          "location": "PHELP1425",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 112,
+          "course_id": "ECON 140A",
+          "course_title": "INTRO ECONOMETRICS",
+          "days": "MTW",
+          "enrollment": 111,
+          "instructor": "STEIGERWALD D",
+          "location": "CHEM 1171",
+          "sections": [
+            {
+              "capacity": 28,
+              "course_id": "ECON 140A",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "04291/B",
+              "enrollment": 28,
+              "instructor": "",
+              "location": "PHELP2532",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 28,
+              "course_id": "ECON 140A",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "04309/B",
+              "enrollment": 28,
+              "instructor": "",
+              "location": "GIRV 2108",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 28,
+              "course_id": "ECON 140A",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "04317/B",
+              "enrollment": 28,
+              "instructor": "",
+              "location": "GIRV 1116",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 28,
+              "course_id": "ECON 140A",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "17061/B",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "PHELP1445",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:50pm"
+        },
+        {
+          "capacity": 12,
+          "course_id": "ECON 193",
+          "course_title": "ECON INTERNSHIP",
+          "days": "",
+          "enroll_code": "04333",
+          "enrollment": 0,
+          "instructor": "ROYER H N",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "ECON 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "04341",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "ECON 199RA",
+          "course_title": "INDEP RESEARCH ASST",
+          "days": "",
+          "enroll_code": "04358",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "ECON 596",
+          "course_title": "DIR READ & RESEARCH",
+          "days": "",
+          "enroll_code": "04366",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "ECON 597",
+          "course_title": "INDV STDY PRLIM EXM",
+          "days": "",
+          "enroll_code": "04374",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 25,
+          "course_id": "ECON 599",
+          "course_title": "PH D DISS PREP",
+          "days": "",
+          "enroll_code": "04382",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Economics - ECON"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:17:34.130448"
+}

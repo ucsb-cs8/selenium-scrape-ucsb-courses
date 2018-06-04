@@ -1,0 +1,97 @@
+{
+  "20184": {
+    "ART  CS ": {
+      "courses": [
+        {
+          "capacity": 0,
+          "course_id": "ART CS 105",
+          "course_title": "",
+          "days": "W",
+          "enrollment": 7,
+          "instructor": "",
+          "location": "CRST 107",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "ART CS 15",
+              "course_title": "ART COLLOQUIUM",
+              "days": "T",
+              "enroll_code": "01362",
+              "enrollment": 1,
+              "instructor": "T B A",
+              "location": "CRST 136",
+              "status": "",
+              "times": "10:00am - 11:50am"
+            },
+            {
+              "capacity": 9,
+              "course_id": "ART CS 101",
+              "course_title": "DRAWING & PAINTING",
+              "days": "M",
+              "enroll_code": "01396",
+              "enrollment": 6,
+              "instructor": "T B A",
+              "location": "CRST 120",
+              "status": "",
+              "times": "1:00pm - 4:50pm"
+            },
+            {
+              "capacity": 12,
+              "course_id": "ART CS 102",
+              "course_title": "THEMES",
+              "days": "T R",
+              "enroll_code": "01461",
+              "enrollment": 3,
+              "instructor": "T B A",
+              "location": "CRST 136",
+              "status": "",
+              "times": "2:00pm - 3:50pm"
+            },
+            {
+              "capacity": 12,
+              "course_id": "ART CS 102",
+              "course_title": "THEMES",
+              "days": "W",
+              "enroll_code": "01487",
+              "enrollment": 3,
+              "instructor": "T B A",
+              "location": "CRST 120",
+              "status": "",
+              "times": "2:00pm - 4:50pm"
+            },
+            {
+              "capacity": 0,
+              "course_id": "ART CS 105",
+              "course_title": "BOOK ARTS",
+              "days": "W",
+              "enroll_code": "01545",
+              "enrollment": 7,
+              "instructor": "T B A",
+              "location": "CRST 107",
+              "status": "Full",
+              "times": "1:00pm - 4:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "6:00pm - 7:50pm"
+        },
+        {
+          "capacity": 8,
+          "course_id": "ART CS 112",
+          "course_title": "SPECIAL TOPICS",
+          "days": "M",
+          "enroll_code": "01628",
+          "enrollment": 5,
+          "instructor": "T B A",
+          "location": "CRST 136",
+          "sections": [],
+          "status": "",
+          "times": "3:00pm - 4:50pm"
+        }
+      ],
+      "text": "Art (Creative Studies) - ART CS"
+    },
+    "text": "FALL 2018"
+  },
+  "date": "2018-06-03T18:44:34.859190"
+}

@@ -1,0 +1,271 @@
+{
+  "20183": {
+    "RG ST": {
+      "courses": [
+        {
+          "capacity": 30,
+          "course_id": "RG ST 113",
+          "course_title": "RELIGION AND FILM",
+          "days": "MTWR",
+          "enrollment": 27,
+          "instructor": "CHAVEZ W S",
+          "location": "PHELP2532",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "RG ST 1",
+              "course_title": "INTROD TO STUDY REL",
+              "days": "MTWR",
+              "enroll_code": "13763/A",
+              "enrollment": 18,
+              "instructor": "AMIHAY A",
+              "location": "HSSB 2201",
+              "status": "",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 15,
+              "course_id": "RG ST 1",
+              "course_title": "INTROD TO STUDY REL",
+              "days": "MTWR",
+              "enroll_code": "13771/B",
+              "enrollment": 19,
+              "instructor": "T B A",
+              "location": "GIRV 1108",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "RG ST 3",
+              "course_title": "ASIAN RELIG TRADS",
+              "days": "MTWR",
+              "enroll_code": "13789/A",
+              "enrollment": 24,
+              "instructor": "IUM M H",
+              "location": "BUCHN1934",
+              "status": "",
+              "times": "5:00pm - 6:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "RG ST 4",
+              "course_title": "INTRO TO BUDDHISM",
+              "days": "MTWR",
+              "enroll_code": "13797/A",
+              "enrollment": 25,
+              "instructor": "MURPHY C L",
+              "location": "HSSB 1232",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "RG ST 4",
+              "course_title": "INTRO TO BUDDHISM",
+              "days": "MTWR",
+              "enroll_code": "13805/B",
+              "enrollment": 21,
+              "instructor": "TAKKINEN J H",
+              "location": "HSSB 1211",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 15,
+              "course_id": "RG ST 5",
+              "course_title": "JUDAISM/CHTY/ISLAM",
+              "days": "MTWR",
+              "enroll_code": "13813/B",
+              "enrollment": 15,
+              "instructor": "T B A",
+              "location": "HSSB 2201",
+              "status": "Full",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 15,
+              "course_id": "RG ST 6",
+              "course_title": "ISLAM & MODERNITY",
+              "days": "MTWR",
+              "enroll_code": "13821/B",
+              "enrollment": 13,
+              "instructor": "T B A",
+              "location": "HSSB 2201",
+              "status": "",
+              "times": "8:00 am - 9:20 am"
+            },
+            {
+              "capacity": 25,
+              "course_id": "RG ST 7",
+              "course_title": "INTRO TO AMER RELIG",
+              "days": "MTWR",
+              "enroll_code": "13839/A",
+              "enrollment": 23,
+              "instructor": "DESLIPPE P R",
+              "location": "HSSB 1206",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "RG ST 12",
+              "course_title": "RELIG APPR TO DEATH",
+              "days": "MTWR",
+              "enroll_code": "13854/A",
+              "enrollment": 23,
+              "instructor": "WHITESIDES K",
+              "location": "HSSB 1206",
+              "status": "",
+              "times": "12:30pm - 1:50pm"
+            },
+            {
+              "capacity": 18,
+              "course_id": "RG ST 21",
+              "course_title": "ZEN BUDDHISM",
+              "days": "MTWR",
+              "enroll_code": "15453/B",
+              "enrollment": 18,
+              "instructor": "PORATH O",
+              "location": "HSSB 1214",
+              "status": "Full",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 20,
+              "course_id": "RG ST 25",
+              "course_title": "GLOBAL CATHOLICISM",
+              "days": "MTWR",
+              "enroll_code": "15461/A",
+              "enrollment": 10,
+              "instructor": "T B A",
+              "location": "HSSB 2201",
+              "status": "",
+              "times": "3:30pm - 4:50pm"
+            },
+            {
+              "capacity": 25,
+              "course_id": "RG ST 31",
+              "course_title": "RELIGIONS OF TIBET",
+              "days": "MTWR",
+              "enroll_code": "15479/A",
+              "enrollment": 12,
+              "instructor": "ERDENE-OCHIR",
+              "location": "HSSB 1207",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 30,
+              "course_id": "RG ST 113",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "13896/B",
+              "enrollment": 27,
+              "instructor": "CHAVEZ W S",
+              "location": "BUCHN1930",
+              "status": "",
+              "times": "6:00pm - 8:50pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 20,
+          "course_id": "RG ST 133B",
+          "course_title": "JWSH GRAPHIC NOVEL",
+          "days": "MTWR",
+          "enroll_code": "15487/A",
+          "enrollment": 20,
+          "instructor": "AMIHAY O",
+          "location": "HSSB 1210",
+          "sections": [],
+          "status": "Full",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 20,
+          "course_id": "RG ST 163A",
+          "course_title": "CHIN SEX DRUG MEDIT",
+          "days": "MTWR",
+          "enroll_code": "15495/B",
+          "enrollment": 20,
+          "instructor": "STEAVU-BALINT",
+          "location": "HSSB 3201",
+          "sections": [],
+          "status": "Full",
+          "times": "3:30pm - 4:50pm"
+        },
+        {
+          "capacity": 10,
+          "course_id": "RG ST 195",
+          "course_title": "SR HON RESEARCH",
+          "days": "",
+          "enroll_code": "13912",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "RG ST 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "13920",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 10,
+          "course_id": "RG ST 199RA",
+          "course_title": "INDEPEN RES ASST",
+          "days": "",
+          "enroll_code": "13938",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 1,
+          "course_id": "RG ST 598",
+          "course_title": "MA PROJECT RES-PREP",
+          "days": "",
+          "enroll_code": "13961",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 30,
+          "course_id": "RG ST 599",
+          "course_title": "PH D DISS PREP",
+          "days": "",
+          "enroll_code": "13979",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Religious Studies - RG ST"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:27:51.790218"
+}

@@ -1,0 +1,302 @@
+{
+  "20183": {
+    "GEOG": {
+      "courses": [
+        {
+          "capacity": 24,
+          "course_id": "GEOG 3A",
+          "course_title": "OCEAN/ATMOSPHERE",
+          "days": "MTWR",
+          "enrollment": 24,
+          "instructor": "EYELADE O D",
+          "location": "ELLSN3621",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 3A",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "07112/A",
+              "enrollment": 24,
+              "instructor": "WANG V",
+              "location": "PHELP2525",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 21,
+          "course_id": "GEOG 3B",
+          "course_title": "LAND, WATER & LIFE",
+          "days": "MTWR",
+          "enrollment": 21,
+          "instructor": "GAMELIN B L",
+          "location": "ELLSN3621",
+          "sections": [
+            {
+              "capacity": 21,
+              "course_id": "GEOG 3B",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "15917/B",
+              "enrollment": 21,
+              "instructor": "XU JING",
+              "location": "ELLSN3621",
+              "status": "Full",
+              "times": "2:00pm - 3:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:35am"
+        },
+        {
+          "capacity": 27,
+          "course_id": "GEOG 5",
+          "course_title": "PEOPLE/PLACE/ENVIRO",
+          "days": "MTWR",
+          "enrollment": 26,
+          "instructor": "KIRKBY J M",
+          "location": "ELLSN3621",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "GEOG 5",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "07138/A",
+              "enrollment": 26,
+              "instructor": "PHILLIPS D W",
+              "location": "ELLSN3621",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            }
+          ],
+          "status": "",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 100,
+          "course_id": "GEOG W 8",
+          "course_title": "GLOBAL WARMING",
+          "days": "",
+          "enrollment": 98,
+          "instructor": "GAUTIER C H",
+          "location": "T B A",
+          "sections": [
+            {
+              "capacity": 100,
+              "course_id": "GEOG W 8",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "07294/A",
+              "enrollment": 98,
+              "instructor": "JOHNSON M\nGOTO E A",
+              "location": "T B A",
+              "status": "",
+              "times": ""
+            }
+          ],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 60,
+          "course_id": "GEOG W 12",
+          "course_title": "MAPS SPAT REAS",
+          "days": "",
+          "enrollment": 60,
+          "instructor": "SUAREZ A M",
+          "location": "T B A",
+          "sections": [
+            {
+              "capacity": 60,
+              "course_id": "GEOG W 12",
+              "course_title": "",
+              "days": "",
+              "enroll_code": "15891/B",
+              "enrollment": 60,
+              "instructor": "BAE C J",
+              "location": "T B A",
+              "status": "Full",
+              "times": ""
+            }
+          ],
+          "status": "Full",
+          "times": ""
+        },
+        {
+          "capacity": 48,
+          "course_id": "GEOG 145",
+          "course_title": "SOCIETY & HAZARDS",
+          "days": "MTWR",
+          "enroll_code": "15925/B",
+          "enrollment": 36,
+          "instructor": "STIEFEL M S",
+          "location": "GIRV 1115",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:05pm"
+        },
+        {
+          "capacity": 48,
+          "course_id": "GEOG 165",
+          "course_title": "OCEAN WAVES",
+          "days": "MTWR",
+          "enrollment": 33,
+          "instructor": "NASH D L",
+          "location": "GIRV 1112",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 165",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "15941/A",
+              "enrollment": 23,
+              "instructor": "RUBIO-VELAZQU",
+              "location": "ELLSN3621",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "GEOG 165",
+              "course_title": "",
+              "days": "W",
+              "enroll_code": "15958/A",
+              "enrollment": 10,
+              "instructor": "RUBIO-VELAZQU",
+              "location": "ELLSN3621",
+              "status": "",
+              "times": "2:00pm - 3:20pm"
+            }
+          ],
+          "status": "",
+          "times": "11:00am - 12:05pm"
+        },
+        {
+          "capacity": 24,
+          "course_id": "GEOG 176A",
+          "course_title": "INTRO GEOG INF SYS",
+          "days": "MTWR",
+          "enrollment": 24,
+          "instructor": "ZHU R",
+          "location": "ELLSN3621",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "GEOG 176A",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "07195/B",
+              "enrollment": 24,
+              "instructor": "VAHEDI TORGHA",
+              "location": "ELLSN3620",
+              "status": "Full",
+              "times": "2:00pm - 4:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:35pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "GEOG 193",
+          "course_title": "INTERN IN GEOGRAPHY",
+          "days": "",
+          "enroll_code": "07203",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 50,
+          "course_id": "GEOG 199",
+          "course_title": "INDEPENDENT STUDIES",
+          "days": "",
+          "enroll_code": "07229",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 50,
+          "course_id": "GEOG 199RA",
+          "course_title": "INDEP RESEARCH ASST",
+          "days": "",
+          "enroll_code": "07237",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 30,
+          "course_id": "GEOG 596",
+          "course_title": "DIR READING & RES",
+          "days": "",
+          "enroll_code": "07245",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 20,
+          "course_id": "GEOG 597",
+          "course_title": "IND STUDY-PH D EXAM",
+          "days": "",
+          "enroll_code": "07252",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 25,
+          "course_id": "GEOG 598",
+          "course_title": "MASTER'S THESIS",
+          "days": "",
+          "enroll_code": "07260",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": 30,
+          "course_id": "GEOG 599",
+          "course_title": "PH D DISSERTATION",
+          "days": "",
+          "enroll_code": "07278",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Geography - GEOG"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:20:35.342459"
+}

@@ -1,0 +1,808 @@
+{
+  "20183": {
+    "PHYS": {
+      "courses": [
+        {
+          "capacity": 90,
+          "course_id": "PHYS 2",
+          "course_title": "BASIC PHYSICS",
+          "days": "MTW",
+          "enrollment": 61,
+          "instructor": "T B A",
+          "location": "BRDA 1640",
+          "sections": [
+            {
+              "capacity": 45,
+              "course_id": "PHYS 2",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "11734/B",
+              "enrollment": 29,
+              "instructor": "",
+              "location": "GIRV 1119",
+              "status": "",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 45,
+              "course_id": "PHYS 2",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "11742/B",
+              "enrollment": 32,
+              "instructor": "",
+              "location": "GIRV 1119",
+              "status": "",
+              "times": "12:30pm - 1:50pm"
+            }
+          ],
+          "status": "",
+          "times": "2:00pm - 3:20pm"
+        },
+        {
+          "capacity": 275,
+          "course_id": "PHYS 6A",
+          "course_title": "INTRODUCTORY PHYSIC",
+          "days": "MTW",
+          "enroll_code": "11759/A",
+          "enrollment": 246,
+          "instructor": "FREUND E G",
+          "location": "BRDA 1610",
+          "sections": [],
+          "status": "",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 24,
+          "course_id": "PHYS 6AL",
+          "course_title": "INTRO EXPER PHYSICS",
+          "days": "T",
+          "enroll_code": "11767/A",
+          "enrollment": 24,
+          "instructor": "T B A",
+          "location": "942 1010",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6AL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "T",
+              "enroll_code": "11775/A",
+              "enrollment": 24,
+              "instructor": "T B A",
+              "location": "942 1010",
+              "status": "Full",
+              "times": "4:00pm - 5:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6AL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "T",
+              "enroll_code": "11783/A",
+              "enrollment": 24,
+              "instructor": "T B A",
+              "location": "942 1010",
+              "status": "Full",
+              "times": "6:00pm - 7:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6AL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "W",
+              "enroll_code": "11791/A",
+              "enrollment": 24,
+              "instructor": "T B A",
+              "location": "942 1010",
+              "status": "Full",
+              "times": "2:00pm - 3:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6AL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "W",
+              "enroll_code": "11809/A",
+              "enrollment": 24,
+              "instructor": "T B A",
+              "location": "942 1010",
+              "status": "Full",
+              "times": "4:00pm - 5:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6AL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "W",
+              "enroll_code": "11817/A",
+              "enrollment": 24,
+              "instructor": "T B A",
+              "location": "942 1010",
+              "status": "Full",
+              "times": "6:00pm - 7:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6AL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "R",
+              "enroll_code": "18242/A",
+              "enrollment": 23,
+              "instructor": "T B A",
+              "location": "942 1010",
+              "status": "",
+              "times": "2:00pm - 3:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6AL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "R",
+              "enroll_code": "18259/A",
+              "enrollment": 24,
+              "instructor": "T B A",
+              "location": "942 1010",
+              "status": "Full",
+              "times": "4:00pm - 5:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6AL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "R",
+              "enroll_code": "18267/A",
+              "enrollment": 15,
+              "instructor": "T B A",
+              "location": "942 1010",
+              "status": "",
+              "times": "6:00 am - 7:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 3:50pm"
+        },
+        {
+          "capacity": 192,
+          "course_id": "PHYS 6B",
+          "course_title": "INTRODUCTORY PHYSIC",
+          "days": "MTW",
+          "enroll_code": "11866/B",
+          "enrollment": 192,
+          "instructor": "T B A",
+          "location": "BRDA 1610",
+          "sections": [],
+          "status": "Full",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 24,
+          "course_id": "PHYS 6BL",
+          "course_title": "INTRO EXPER PHYSICS",
+          "days": "T",
+          "enroll_code": "11874/B",
+          "enrollment": 24,
+          "instructor": "T B A",
+          "location": "942 1020",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6BL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "T",
+              "enroll_code": "11882/B",
+              "enrollment": 24,
+              "instructor": "T B A",
+              "location": "942 1020",
+              "status": "Full",
+              "times": "4:00pm - 5:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6BL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "W",
+              "enroll_code": "11890/B",
+              "enrollment": 24,
+              "instructor": "T B A",
+              "location": "942 1020",
+              "status": "Full",
+              "times": "2:00pm - 3:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6BL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "W",
+              "enroll_code": "11908/B",
+              "enrollment": 24,
+              "instructor": "T B A",
+              "location": "942 1020",
+              "status": "Full",
+              "times": "4:00pm - 5:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6BL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "T",
+              "enroll_code": "18275/B",
+              "enrollment": 24,
+              "instructor": "T B A",
+              "location": "942 1020",
+              "status": "Full",
+              "times": "6:00pm - 7:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6BL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "W",
+              "enroll_code": "18283/B",
+              "enrollment": 19,
+              "instructor": "T B A",
+              "location": "942 1020",
+              "status": "Closed",
+              "times": "6:00pm - 7:50pm"
+            }
+          ],
+          "status": "Full",
+          "times": "2:00pm - 3:50pm"
+        },
+        {
+          "capacity": 192,
+          "course_id": "PHYS 6C",
+          "course_title": "INTRODUCTORY PHYSIC",
+          "days": "MTW",
+          "enroll_code": "11957/A",
+          "enrollment": 165,
+          "instructor": "FREUND E G",
+          "location": "BRDA 1610",
+          "sections": [],
+          "status": "",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 24,
+          "course_id": "PHYS 6CL",
+          "course_title": "INTRO EXPER PHYSICS",
+          "days": "T",
+          "enroll_code": "11965/A",
+          "enrollment": 23,
+          "instructor": "T B A",
+          "location": "942 1020",
+          "sections": [
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6CL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "T",
+              "enroll_code": "11973/A",
+              "enrollment": 23,
+              "instructor": "T B A",
+              "location": "942 1020",
+              "status": "",
+              "times": "3:00pm - 4:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6CL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "W",
+              "enroll_code": "11981/A",
+              "enrollment": 24,
+              "instructor": "T B A",
+              "location": "942 1020",
+              "status": "Full",
+              "times": "1:00pm - 2:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6CL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "W",
+              "enroll_code": "11999/A",
+              "enrollment": 22,
+              "instructor": "T B A",
+              "location": "942 1020",
+              "status": "",
+              "times": "3:00pm - 4:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6CL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "R",
+              "enroll_code": "12005/A",
+              "enrollment": 23,
+              "instructor": "T B A",
+              "location": "942 1020",
+              "status": "",
+              "times": "1:00pm - 2:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6CL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "R",
+              "enroll_code": "12013/A",
+              "enrollment": 22,
+              "instructor": "T B A",
+              "location": "942 1020",
+              "status": "",
+              "times": "3:00pm - 4:50pm"
+            },
+            {
+              "capacity": 24,
+              "course_id": "PHYS 6CL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "T",
+              "enroll_code": "18291/A",
+              "enrollment": 17,
+              "instructor": "T B A",
+              "location": "942 1020",
+              "status": "",
+              "times": "5:00pm - 6:50pm"
+            },
+            {
+              "capacity": 0,
+              "course_id": "PHYS 6CL",
+              "course_title": "INTRO EXPER PHYSICS",
+              "days": "",
+              "enroll_code": "18309/A",
+              "enrollment": 0,
+              "instructor": "T B A",
+              "location": "T B A",
+              "status": "Full",
+              "times": ""
+            }
+          ],
+          "status": "",
+          "times": "1:00pm - 2:50pm"
+        },
+        {
+          "capacity": 0,
+          "course_id": "PHYS 98",
+          "course_title": "READING IN PHYSICS",
+          "days": "",
+          "enroll_code": "12047/B",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Closed",
+          "times": ""
+        },
+        {
+          "capacity": 0,
+          "course_id": "PHYS 99",
+          "course_title": "RESEARCH IN PHYSICS",
+          "days": "",
+          "enroll_code": "12054",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Closed",
+          "times": ""
+        },
+        {
+          "capacity": 27,
+          "course_id": "PHYS 101",
+          "course_title": "COMPLEX VARIABLES",
+          "days": "MTW",
+          "enrollment": 26,
+          "instructor": "GURUSWAMY S",
+          "location": "PHELP2532",
+          "sections": [
+            {
+              "capacity": 27,
+              "course_id": "PHYS 101",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "12070/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "GIRV 2124",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 48,
+          "course_id": "PHYS 103",
+          "course_title": "INTERMED MECHANICS",
+          "days": "M W F",
+          "enrollment": 50,
+          "instructor": "BIBILASHVILI",
+          "location": "GIRV 2127",
+          "sections": [
+            {
+              "capacity": 30,
+              "course_id": "PHYS 103",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "12096/A",
+              "enrollment": 30,
+              "instructor": "",
+              "location": "GIRV 2124",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 30,
+              "course_id": "PHYS 103",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "12104/A",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "GIRV 2124",
+              "status": "",
+              "times": "12:30pm - 1:45pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 50,
+          "course_id": "PHYS 103",
+          "course_title": "INTERMED MECHANICS",
+          "days": "MTW",
+          "enrollment": 25,
+          "instructor": "T B A",
+          "location": "PHELP2516",
+          "sections": [
+            {
+              "capacity": 25,
+              "course_id": "PHYS 103",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "12120/B",
+              "enrollment": 21,
+              "instructor": "",
+              "location": "HSSB 1231",
+              "status": "",
+              "times": "2:00pm - 3:15pm"
+            },
+            {
+              "capacity": 0,
+              "course_id": "PHYS 103",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "12138/B",
+              "enrollment": 4,
+              "instructor": "",
+              "location": "PHELP2514",
+              "status": "Closed",
+              "times": "9:30 am - 10:50am"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 40,
+          "course_id": "PHYS 104",
+          "course_title": "ADVANCED MECHANICS",
+          "days": "MTW",
+          "enrollment": 21,
+          "instructor": "T B A",
+          "location": "387 1015",
+          "sections": [
+            {
+              "capacity": 40,
+              "course_id": "PHYS 104",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "12153/B",
+              "enrollment": 21,
+              "instructor": "",
+              "location": "387 1015",
+              "status": "",
+              "times": "9:30 am - 10:50am"
+            }
+          ],
+          "status": "",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 40,
+          "course_id": "PHYS 110A",
+          "course_title": "ELECTROMAGNETISM",
+          "days": "MTW",
+          "enrollment": 40,
+          "instructor": "T B A",
+          "location": "GIRV 1116",
+          "sections": [
+            {
+              "capacity": 40,
+              "course_id": "PHYS 110A",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "12179/B",
+              "enrollment": 40,
+              "instructor": "",
+              "location": "NH 1111",
+              "status": "Full",
+              "times": "11:00am - 12:15pm"
+            }
+          ],
+          "status": "Full",
+          "times": "12:30pm - 1:45pm"
+        },
+        {
+          "capacity": 30,
+          "course_id": "PHYS 115A",
+          "course_title": "QUANTUM MECHANICS",
+          "days": "M W F",
+          "enrollment": 39,
+          "instructor": "BIBILASHVILI",
+          "location": "PHELP1508",
+          "sections": [
+            {
+              "capacity": 20,
+              "course_id": "PHYS 115A",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "12195/B",
+              "enrollment": 19,
+              "instructor": "",
+              "location": "HSSB 1228",
+              "status": "",
+              "times": "9:30 am - 10:50am"
+            },
+            {
+              "capacity": 20,
+              "course_id": "PHYS 115A",
+              "course_title": "",
+              "days": "F",
+              "enroll_code": "12203/B",
+              "enrollment": 20,
+              "instructor": "",
+              "location": "HSSB 2201",
+              "status": "Full",
+              "times": "12:30pm - 1:45pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 40,
+          "course_id": "PHYS 115C",
+          "course_title": "QUANTUM MECHANICS",
+          "days": "MTW",
+          "enrollment": 27,
+          "instructor": "YOUNGBLOOD BJ",
+          "location": "PHELP2524",
+          "sections": [
+            {
+              "capacity": 40,
+              "course_id": "PHYS 115C",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "17566/A",
+              "enrollment": 27,
+              "instructor": "",
+              "location": "GIRV 2129",
+              "status": "",
+              "times": "11:00am - 12:20pm"
+            },
+            {
+              "capacity": 0,
+              "course_id": "PHYS 115C",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "17574/A",
+              "enrollment": 0,
+              "instructor": "",
+              "location": "HSSB 1207",
+              "status": "Closed",
+              "times": "11:00am - 12:20pm"
+            }
+          ],
+          "status": "",
+          "times": "8:00 am - 9:20 am"
+        },
+        {
+          "capacity": 40,
+          "course_id": "PHYS 119A",
+          "course_title": "THERMO & STAT PHYS",
+          "days": "MTW",
+          "enrollment": 40,
+          "instructor": "YOUNGBLOOD BJ",
+          "location": "387 1011",
+          "sections": [
+            {
+              "capacity": 40,
+              "course_id": "PHYS 119A",
+              "course_title": "",
+              "days": "R",
+              "enroll_code": "12229/B",
+              "enrollment": 40,
+              "instructor": "",
+              "location": "387 1011",
+              "status": "Full",
+              "times": "9:30 am - 10:50am"
+            }
+          ],
+          "status": "Full",
+          "times": "9:30 am - 10:50am"
+        },
+        {
+          "capacity": 24,
+          "course_id": "PHYS 127AL",
+          "course_title": "ANALOG ELECTRONICS",
+          "days": "T R",
+          "enrollment": 24,
+          "instructor": "EL-SOUSSI M",
+          "location": "HSSB 3201",
+          "sections": [
+            {
+              "capacity": 12,
+              "course_id": "PHYS 127AL",
+              "course_title": "",
+              "days": "M W",
+              "enroll_code": "12245/C",
+              "enrollment": 12,
+              "instructor": "",
+              "location": "BRDA 3233",
+              "status": "Full",
+              "times": "1:00pm - 4:20pm"
+            },
+            {
+              "capacity": 12,
+              "course_id": "PHYS 127AL",
+              "course_title": "",
+              "days": "T R",
+              "enroll_code": "12252/C",
+              "enrollment": 12,
+              "instructor": "",
+              "location": "BRDA 3233",
+              "status": "Full",
+              "times": "1:00pm - 4:20pm"
+            }
+          ],
+          "status": "Full",
+          "times": "11:00am - 12:20pm"
+        },
+        {
+          "capacity": 24,
+          "course_id": "PHYS 128AL",
+          "course_title": "ADVANCED LAB",
+          "days": "MT",
+          "enroll_code": "12260/C",
+          "enrollment": 24,
+          "instructor": "YOUNGBLOOD BJ",
+          "location": "BRDA 3223",
+          "sections": [],
+          "status": "Full",
+          "times": "1:00pm - 5:50pm"
+        },
+        {
+          "capacity": 18,
+          "course_id": "PHYS 129L",
+          "course_title": "INTRO SCI COMP",
+          "days": "MTW",
+          "enrollment": 20,
+          "instructor": "LIPMAN E A",
+          "location": "SSMS 1304",
+          "sections": [
+            {
+              "capacity": 9,
+              "course_id": "PHYS 129L",
+              "course_title": "",
+              "days": "M",
+              "enroll_code": "12286/A",
+              "enrollment": 11,
+              "instructor": "",
+              "location": "BRDA 5207",
+              "status": "Full",
+              "times": "2:00pm - 4:30pm"
+            },
+            {
+              "capacity": 9,
+              "course_id": "PHYS 129L",
+              "course_title": "",
+              "days": "T",
+              "enroll_code": "12294/A",
+              "enrollment": 9,
+              "instructor": "",
+              "location": "BRDA 5207",
+              "status": "Full",
+              "times": "2:00pm - 4:30pm"
+            }
+          ],
+          "status": "Closed",
+          "times": "12:30pm - 1:45pm"
+        },
+        {
+          "capacity": 0,
+          "course_id": "PHYS 142L",
+          "course_title": "COND MATTER LAB",
+          "days": "",
+          "enroll_code": "12302",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Closed",
+          "times": ""
+        },
+        {
+          "capacity": 50,
+          "course_id": "PHYS 143L",
+          "course_title": "PARTICLE PHYS LAB",
+          "days": "",
+          "enroll_code": "12310/A",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Closed",
+          "times": ""
+        },
+        {
+          "capacity": 0,
+          "course_id": "PHYS 144L",
+          "course_title": "BIOPHYSICS LAB",
+          "days": "",
+          "enroll_code": "12328",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Closed",
+          "times": ""
+        },
+        {
+          "capacity": 50,
+          "course_id": "PHYS 145L",
+          "course_title": "EXP RES IN ASTROPHY",
+          "days": "",
+          "enroll_code": "12336",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Closed",
+          "times": ""
+        },
+        {
+          "capacity": 5,
+          "course_id": "PHYS 198",
+          "course_title": "DIRECTED READING",
+          "days": "",
+          "enroll_code": "12344",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "Closed",
+          "times": ""
+        },
+        {
+          "capacity": 50,
+          "course_id": "PHYS 596",
+          "course_title": "DIR READ & RESEARCH",
+          "days": "",
+          "enroll_code": "12369",
+          "enrollment": 0,
+          "instructor": "T B A",
+          "location": "T B A",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Physics - PHYS"
+    },
+    "text": "SUMMER 2018"
+  },
+  "date": "2018-06-03T19:26:31.775078"
+}
