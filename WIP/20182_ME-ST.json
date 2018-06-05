@@ -1,0 +1,35 @@
+{
+  "20182": {
+    "ME ST": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Medieval Studies - ME ST"
+    },
+    "text": "SPRING 2018"
+  },
+  "date": "2018-06-03T20:26:42.081838"
+}

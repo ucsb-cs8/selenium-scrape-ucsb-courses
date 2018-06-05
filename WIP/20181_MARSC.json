@@ -1,0 +1,59 @@
+{
+  "20181": {
+    "MARSC": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Marine Science - MARSC"
+    },
+    "text": "WINTER 2018"
+  },
+  "date": "2018-06-03T20:59:12.914435"
+}

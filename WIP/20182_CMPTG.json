@@ -1,10 +1,71 @@
 {
   "20182": {
     "CMPTG": {
-      "courses": [],
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
       "text": "Computing (Creative Studies) - CMPTG"
     },
     "text": "SPRING 2018"
   },
-  "date": "2018-06-03T19:37:01.702237"
+  "date": "2018-06-03T20:09:04.738709"
 }

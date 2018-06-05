@@ -1,0 +1,59 @@
+{
+  "20174": {
+    "MARSC": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Marine Science - MARSC"
+    },
+    "text": "FALL 2017"
+  },
+  "date": "2018-06-03T21:34:23.576360"
+}

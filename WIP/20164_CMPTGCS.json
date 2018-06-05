@@ -1,0 +1,47 @@
+{
+  "20164": {
+    "CMPTGCS ": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Computing (Creative Studies) - CMPTGCS"
+    },
+    "text": "FALL 2016"
+  },
+  "date": "2018-06-03T23:21:23.552797"
+}

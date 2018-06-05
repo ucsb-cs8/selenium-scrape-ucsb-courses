@@ -1,0 +1,23 @@
+{
+  "20181": {
+    "RENST": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Renaissance Studies - RENST"
+    },
+    "text": "WINTER 2018"
+  },
+  "date": "2018-06-03T21:08:36.622968"
+}

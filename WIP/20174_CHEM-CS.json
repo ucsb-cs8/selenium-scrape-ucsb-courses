@@ -1,0 +1,23 @@
+{
+  "20174": {
+    "CHEM CS ": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Chemistry (Creative Studies) - CHEM CS"
+    },
+    "text": "FALL 2017"
+  },
+  "date": "2018-06-03T21:16:26.187973"
+}

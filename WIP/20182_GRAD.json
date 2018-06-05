@@ -1,10 +1,23 @@
 {
   "20182": {
     "GRAD": {
-      "courses": [],
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
       "text": "Graduate Division - GRAD"
     },
     "text": "SPRING 2018"
   },
-  "date": "2018-06-03T19:47:31.745864"
+  "date": "2018-06-03T20:20:43.423590"
 }

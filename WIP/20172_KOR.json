@@ -1,0 +1,23 @@
+{
+  "20172": {
+    "KOR": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Korean - KOR"
+    },
+    "text": "SPRING 2017"
+  },
+  "date": "2018-06-03T22:26:04.105444"
+}

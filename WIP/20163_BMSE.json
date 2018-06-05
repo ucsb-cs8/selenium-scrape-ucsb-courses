@@ -1,0 +1,35 @@
+{
+  "20163": {
+    "BMSE": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Biomolecular Science and Engineering - BMSE"
+    },
+    "text": "SUMMER 2016"
+  },
+  "date": "2018-06-03T23:49:45.315660"
+}

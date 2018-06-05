@@ -1,0 +1,35 @@
+{
+  "20163": {
+    "LIT  CS ": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        },
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Literature (Creative Studies) - LIT CS"
+    },
+    "text": "SUMMER 2016"
+  },
+  "date": "2018-06-04T06:22:48.510061"
+}

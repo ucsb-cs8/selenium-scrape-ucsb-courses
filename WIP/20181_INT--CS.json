@@ -1,0 +1,23 @@
+{
+  "20181": {
+    "INT  CS ": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Interdisciplinary (Creative Studies) - INT CS"
+    },
+    "text": "WINTER 2018"
+  },
+  "date": "2018-06-03T20:57:03.544205"
+}

@@ -1,0 +1,23 @@
+{
+  "20162": {
+    "RENST": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Renaissance Studies - RENST"
+    },
+    "text": "SPRING 2016"
+  },
+  "date": "2018-06-04T07:00:23.690901"
+}

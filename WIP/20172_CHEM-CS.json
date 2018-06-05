@@ -1,0 +1,23 @@
+{
+  "20172": {
+    "CHEM CS ": {
+      "courses": [
+        {
+          "capacity": "",
+          "course_id": "",
+          "course_title": "",
+          "days": "",
+          "enrollment": "",
+          "instructor": "",
+          "location": "",
+          "sections": [],
+          "status": "",
+          "times": ""
+        }
+      ],
+      "text": "Chemistry (Creative Studies) - CHEM CS"
+    },
+    "text": "SPRING 2017"
+  },
+  "date": "2018-06-03T22:09:39.006072"
+}
