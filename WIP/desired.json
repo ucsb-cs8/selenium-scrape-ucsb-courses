@@ -1,0 +1,22 @@
+{
+    "quarters": [
+        "term" : "20184",
+	"name" : "FALL 2018",
+	"departments": [
+	    {
+		"department" : "CMPSC",
+		"name" : "Computer Science",
+		"courses" : [
+
+		]
+	    },
+	    {
+		"name" : "MATH".
+		"name" : "Mathematics"
+		"courses": [
+
+		]
+
+	    }
+    ]
+}

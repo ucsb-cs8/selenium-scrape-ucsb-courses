@@ -1,0 +1,429 @@
+{
+  "course_levels": [
+    {
+      "text": "Undergraduate",
+      "value": "Undergraduate"
+    },
+    {
+      "text": "Graduate",
+      "value": "Graduate"
+    },
+    {
+      "text": "All",
+      "value": "All"
+    }
+  ],
+  "date": "2018-09-08T12:53:45.745089",
+  "quarters": [
+    {
+      "text": "FALL 2018",
+      "value": "20184"
+    },
+    {
+      "text": "SUMMER 2018",
+      "value": "20183"
+    },
+    {
+      "text": "SPRING 2018",
+      "value": "20182"
+    },
+    {
+      "text": "WINTER 2018",
+      "value": "20181"
+    },
+    {
+      "text": "FALL 2017",
+      "value": "20174"
+    },
+    {
+      "text": "SUMMER 2017",
+      "value": "20173"
+    },
+    {
+      "text": "SPRING 2017",
+      "value": "20172"
+    },
+    {
+      "text": "WINTER 2017",
+      "value": "20171"
+    },
+    {
+      "text": "FALL 2016",
+      "value": "20164"
+    },
+    {
+      "text": "SUMMER 2016",
+      "value": "20163"
+    }
+  ],
+  "subject_areas": [
+    {
+      "text": "Anthropology - ANTH",
+      "value": "ANTH"
+    },
+    {
+      "text": "Art - ART",
+      "value": "ART"
+    },
+    {
+      "text": "Art (Creative Studies) - ART CS",
+      "value": "ART  CS "
+    },
+    {
+      "text": "Art History - ARTHI",
+      "value": "ARTHI"
+    },
+    {
+      "text": "Art Studio - ARTST",
+      "value": "ARTST"
+    },
+    {
+      "text": "Asian American Studies - AS AM",
+      "value": "AS AM"
+    },
+    {
+      "text": "Astronomy - ASTRO",
+      "value": "ASTRO"
+    },
+    {
+      "text": "Biology - BIOL",
+      "value": "BIOL"
+    },
+    {
+      "text": "Biology (Creative Studies) - BIOL CS",
+      "value": "BIOL CS "
+    },
+    {
+      "text": "Biomolecular Science and Engineering - BMSE",
+      "value": "BMSE"
+    },
+    {
+      "text": "Black Studies - BL ST",
+      "value": "BL ST"
+    },
+    {
+      "text": "Chemical Engineering - CH E",
+      "value": "CH E"
+    },
+    {
+      "text": "Chemistry (Creative Studies) - CHEM CS",
+      "value": "CHEM CS "
+    },
+    {
+      "text": "Chemistry and Biochemistry - CHEM",
+      "value": "CHEM"
+    },
+    {
+      "text": "Chicano Studies - CH ST",
+      "value": "CH ST"
+    },
+    {
+      "text": "Chinese - CHIN",
+      "value": "CHIN"
+    },
+    {
+      "text": "Classics - CLASS",
+      "value": "CLASS"
+    },
+    {
+      "text": "Communication - COMM",
+      "value": "COMM"
+    },
+    {
+      "text": "Comparative Literature - C LIT",
+      "value": "C LIT"
+    },
+    {
+      "text": "Computer Science - CMPSC",
+      "value": "CMPSC"
+    },
+    {
+      "text": "Computer Science (Creative Studies) - CMPSCCS",
+      "value": "CMPSCCS "
+    },
+    {
+      "text": "Computing (Creative Studies) - CMPTG",
+      "value": "CMPTG"
+    },
+    {
+      "text": "Computing (Creative Studies) - CMPTGCS",
+      "value": "CMPTGCS "
+    },
+    {
+      "text": "Counseling, Clinical, School Psychology - CNCSP",
+      "value": "CNCSP"
+    },
+    {
+      "text": "Dance - DANCE",
+      "value": "DANCE"
+    },
+    {
+      "text": "Dynamical Neuroscience - DYNS",
+      "value": "DYNS"
+    },
+    {
+      "text": "Earth Science - EARTH",
+      "value": "EARTH"
+    },
+    {
+      "text": "East Asian Cultural Studies - EACS",
+      "value": "EACS"
+    },
+    {
+      "text": "Ecology, Evolution & Marine Biology - EEMB",
+      "value": "EEMB"
+    },
+    {
+      "text": "Economics - ECON",
+      "value": "ECON"
+    },
+    {
+      "text": "Education - ED",
+      "value": "ED"
+    },
+    {
+      "text": "Electrical Computer Engineering - ECE",
+      "value": "ECE"
+    },
+    {
+      "text": "Engineering Sciences - ENGR",
+      "value": "ENGR"
+    },
+    {
+      "text": "English - ENGL",
+      "value": "ENGL"
+    },
+    {
+      "text": "Environmental Science & Management - ESM",
+      "value": "ESM"
+    },
+    {
+      "text": "Environmental Studies - ENV S",
+      "value": "ENV S"
+    },
+    {
+      "text": "Exercise & Sport Studies - ESS",
+      "value": "ESS"
+    },
+    {
+      "text": "Exercise Sport - ES",
+      "value": "ES"
+    },
+    {
+      "text": "Feminist Studies - FEMST",
+      "value": "FEMST"
+    },
+    {
+      "text": "Film and Media Studies - FAMST",
+      "value": "FAMST"
+    },
+    {
+      "text": "French - FR",
+      "value": "FR"
+    },
+    {
+      "text": "General Studies (Creative Studies) - GEN S",
+      "value": "GEN S   "
+    },
+    {
+      "text": "General Studies (Creative Studies) - GEN SCS",
+      "value": "GEN SCS "
+    },
+    {
+      "text": "Geography - GEOG",
+      "value": "GEOG"
+    },
+    {
+      "text": "German - GER",
+      "value": "GER"
+    },
+    {
+      "text": "Global Peace and Security - GPS",
+      "value": "GPS"
+    },
+    {
+      "text": "Global Studies - GLOBL",
+      "value": "GLOBL"
+    },
+    {
+      "text": "Graduate Division - GRAD",
+      "value": "GRAD"
+    },
+    {
+      "text": "Greek - GREEK",
+      "value": "GREEK"
+    },
+    {
+      "text": "Hebrew - HEB",
+      "value": "HEB"
+    },
+    {
+      "text": "History - HIST",
+      "value": "HIST"
+    },
+    {
+      "text": "Interdisciplinary - INT",
+      "value": "INT"
+    },
+    {
+      "text": "Interdisciplinary (Creative Studies) - INT CS",
+      "value": "INT  CS "
+    },
+    {
+      "text": "Italian - ITAL",
+      "value": "ITAL"
+    },
+    {
+      "text": "Japanese - JAPAN",
+      "value": "JAPAN"
+    },
+    {
+      "text": "Korean - KOR",
+      "value": "KOR"
+    },
+    {
+      "text": "Latin - LATIN",
+      "value": "LATIN"
+    },
+    {
+      "text": "Latin American and Iberian Studies - LAIS",
+      "value": "LAIS"
+    },
+    {
+      "text": "Linguistics - LING",
+      "value": "LING"
+    },
+    {
+      "text": "Literature (Creative Studies) - LIT",
+      "value": "LIT     "
+    },
+    {
+      "text": "Literature (Creative Studies) - LIT CS",
+      "value": "LIT  CS "
+    },
+    {
+      "text": "Marine Science - MARSC",
+      "value": "MARSC"
+    },
+    {
+      "text": "Materials - MATRL",
+      "value": "MATRL"
+    },
+    {
+      "text": "Mathematics - MATH",
+      "value": "MATH"
+    },
+    {
+      "text": "Mathematics (Creative Studies) - MATH CS",
+      "value": "MATH CS "
+    },
+    {
+      "text": "Mechanical Engineering - ME",
+      "value": "ME"
+    },
+    {
+      "text": "Media Arts and Technology - MAT",
+      "value": "MAT"
+    },
+    {
+      "text": "Medieval Studies - ME ST",
+      "value": "ME ST"
+    },
+    {
+      "text": "Middle East Studies - MES",
+      "value": "MES"
+    },
+    {
+      "text": "Military Science - MS",
+      "value": "MS"
+    },
+    {
+      "text": "Molecular, Cellular & Develop. Biology - MCDB",
+      "value": "MCDB"
+    },
+    {
+      "text": "Music - MUS",
+      "value": "MUS"
+    },
+    {
+      "text": "Music (Creative Studies) - MUS CS",
+      "value": "MUS  CS "
+    },
+    {
+      "text": "Music Performance Laboratories - MUS A",
+      "value": "MUS A"
+    },
+    {
+      "text": "Philosophy - PHIL",
+      "value": "PHIL"
+    },
+    {
+      "text": "Physics - PHYS",
+      "value": "PHYS"
+    },
+    {
+      "text": "Physics (Creative Studies) - PHYS CS",
+      "value": "PHYS CS "
+    },
+    {
+      "text": "Political Science - POL S",
+      "value": "POL S"
+    },
+    {
+      "text": "Portuguese - PORT",
+      "value": "PORT"
+    },
+    {
+      "text": "Psychology - PSY",
+      "value": "PSY"
+    },
+    {
+      "text": "Religious Studies - RG ST",
+      "value": "RG ST"
+    },
+    {
+      "text": "Renaissance Studies - RENST",
+      "value": "RENST"
+    },
+    {
+      "text": "Slavic - SLAV",
+      "value": "SLAV"
+    },
+    {
+      "text": "Sociology - SOC",
+      "value": "SOC"
+    },
+    {
+      "text": "Spanish - SPAN",
+      "value": "SPAN"
+    },
+    {
+      "text": "Speech & Hearing Sciences - SHS",
+      "value": "SHS"
+    },
+    {
+      "text": "Statistics & Applied Probability - PSTAT",
+      "value": "PSTAT"
+    },
+    {
+      "text": "Technology Management - TMP",
+      "value": "TMP"
+    },
+    {
+      "text": "Theater - THTR",
+      "value": "THTR"
+    },
+    {
+      "text": "Writing - WRIT",
+      "value": "WRIT"
+    },
+    {
+      "text": "Writing & Literature (Creative Studies) - W&L",
+      "value": "W&L"
+    },
+    {
+      "text": "Writing & Literature (Creative Studies) - W&L CS",
+      "value": "W&L  CS "
+    }
+  ]
+}

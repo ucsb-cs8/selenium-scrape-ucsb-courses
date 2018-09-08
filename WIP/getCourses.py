@@ -94,22 +94,26 @@ if __name__=="__main__":
     driver = webdriver.Chrome()
 
     for q in choices['quarters']:
-      for s in choices['subject_areas']:
-        now =  datetime.datetime.now().isoformat()
-        print(now)
-        courses = { "date" : now }
-        qtr = q['value']
-        courses[qtr]={"text":q['text']}
-        subj = s['value']
-        courseResults = getCoursesList(driver,subj,qtr,"All")
-        courses[qtr][subj] = {"text":s['text'],"courses":courseResults}
-        filename = "{}_{}.json".format(qtr,subj.strip().replace(" ","-"))
-        with open(filename, 'w') as outfile:
-          json.dump(courses, outfile,indent=2,sort_keys=True)
-        
-        sleepTime = random.randint(500,5000)/1000
-        print("Sleeping ",sleepTime)
-        time.sleep(sleepTime)
+        qtr = { "term" : q['value'],
+                "name" : q['text'],
+                "departments": [] }
 
-    
+        for s in choices['subject_areas']:
+            print("Getting data for ",s['value'],q['value'])
+            now =  datetime.datetime.now().isoformat()
+            courseResults = getCoursesList(driver,s['value'],q['value'],"All")
+            allData = { "quarters" : [], "date_retrieved" : now }
+            department = { "department" : s['text'],
+                           "name": s['value'],
+                           "courses":courseResults}
+            qtr['departments'].append(department)
+
+            sleepTime = random.randint(500,5000)/1000
+            print("Sleeping ",sleepTime)
+            time.sleep(sleepTime)
+        allData['quarters'].append(qtr)
+    filename = "courseData.json";
+    with open(filename, 'w') as outfile:
+      json.dump(allData, outfile,indent=2,sort_keys=True)
+      
     driver.close() 
