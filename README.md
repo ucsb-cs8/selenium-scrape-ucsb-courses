@@ -42,3 +42,6 @@ The following tutorial will help in understanding the code in this repo:
 
 <http://selenium-python.readthedocs.io/>
 
+# More
+
+* <https://blog.miguelgrinberg.com/post/using-headless-chrome-with-selenium>
