@@ -17,16 +17,34 @@ from time import sleep
 
 ahi_url="https://my.sa.ucsb.edu/catalog/Current/UndergraduateEducation/AHICourseList.aspx"
 
-def p_to_dict(p_element):
+def p_to_tuple(p_element):
     '''
-    turn a p element into a dictionary for a given GE
+    turn a p element into a tuple (course_num,title) for a given GE
 
     given the selenium object that represents one p element
     from the target web page, return a dictionary of the form,
     for example: {"ANTH 131":"North American Indians"}
+
+    The p element has this format:
+
+    <p style="text-indent: -10px; margin-top: 0px; margin-bottom: 0px; padding: 0px; margin-left: 23px;">
+        ANTH    131   - <i> North American Indians 
+    </i>
+    </p>
     '''
 
-    return {"fake key":"fake value"}
+    # Course Number, e.g. ANTH 131, is the text of the p element,
+    # stripped of white space
+    p_text = p_element.text.strip()
+    course_num = p_text.split("-",1)[0].strip()
+    
+    # course_title, e.g. "North American Indians"
+    # is the text of the child i element
+
+    child_i_element =  p_element.find_elements_by_xpath("i")
+    course_title = child_i_element[0].text.strip()
+
+    return (course_num,course_title)
    
 
 
@@ -51,23 +69,11 @@ if __name__=="__main__":
     # Under that we want div with class contentpadding
     # Under that we want ALL of the p elements
 
-    div_id_content =  driver.find_elements_by_xpath("//div[@id='content']")
-
-    div_class_contentpadding =  driver.find_elements_by_xpath("//div[@id='content']/div[@class='contentpadding']")
-
     list_of_p_elements =  driver.find_elements_by_xpath("//div[@id='content']/div[@class='contentpadding']/p")
 
-    print(div_id_content)
-    print(div_class_contentpadding)
-    print(list_of_p_elements)
+    # dictionary <- list of tuples <- map <- (list of elem mapped to tuples)
+    
+    AHI_dict = dict(list(map(p_to_tuple,list_of_p_elements)))
 
-    #subject_area_options =  driver.find_elements_by_xpath("//select[@name='ctl00$pageContent$courseList']/option")
-
-    #subject_area_options =  driver.find_elements_by_xpath("//select[@name='ctl00$pageContent$courseList']/option")
-
-    list_of_dictionaries = list(map(p_to_dict,list_of_p_elements))
-
-    pprint.pprint(list_of_dictionaries)
-        
-    sleep(10) 
+    pprint.pprint(AHI_dict)
     driver.close()
