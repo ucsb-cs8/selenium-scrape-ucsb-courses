@@ -2,6 +2,15 @@
 
 Using Selenium with Python to Scrape the UCSB Courses Search page
 
+This repo has example code for scraping courses from the UCSB Courses Search pages, as well as one of the pages that lists
+GE requirements.
+
+This approach uses Selenium, which is a rather heavy-weight approach to web scraping.  Selenium is needed if/when you
+really want to simulate (by exactly recreating) the actions a human would take in a browser.   That may be needed for some
+websites that rely on extensive JavaScript (AJAX, HTTPXML calls, etc.), especially ones that use .aspx back ends.
+
+A lighter-weight approach may be to use this library: <https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/>.   It would be interesting to try that on the same sites scraped by the code in this repo to see if that approach works.
+
 
 # Using the code in this repo
 
